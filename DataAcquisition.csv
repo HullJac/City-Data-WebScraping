@@ -1,48 +1,1033 @@
-Neighborhood Name,Area,Average household size,Average number of vehicles per apartment,Average number of vehicles per house/condo,Crime index for the city,Median age of females,Median household income,Median rent,Percentage of foreign born residents,Percentage of males in managment positions,Percentage of mamily households,Percentage of married-couple families,Percentage of married-couple families with children,Percentage of native residents born outside the US,Percentage of never married females Over 15,Percentage of never married males Over 15,Percentage of people born in another state,Percentage of people born in the state,Percentage of people that do not speak english,Percentage of single mother households,Percentage of units with a mortgage,Population,Population density,Population of malesMedian age of males
-1000-Channelside-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-1301-Soho-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-1508-South-Howard-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-1611-6th-Avenue-Townhomes,NA,34.9%,8.5%,2.2%,3.6%,13.2%,$880,1.6 people,7.7%,2.2%,24.4%,48.0%,32.5%,22.0%,1.3,12.3%,242.5,56.1%,1.1,7.2%,1.5%,NA,"$55,643",12.2%
-2002-Dekle-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-215-Verne-Condo,1,26.5%,242.5,89.7%,16.5%,27.1%,"$94,049","$1,267",1.6,6.0%,35.0%,37.4%,26.3%,1.7,30.1%,0.0%,8.3%,3.0%,58.5%,28.7%,29.2%,density:215,"1,709 people per square mile",1.9 people
-2513-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-2515-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-2518-W-Kansas-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-2525-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-2527-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-2807-Estrella-Avenue-Condo,2,42.2 years,1.4,6.9%,89.7%,29.4 years,"$209,167","$1,168",0.4%,242.5,3.2 people,79.9%,85.8%,48.8%,11.4%,1.4%,43.9%,0.0%,4.7%,37.9%,5.2,density:2807,"9,259 people per square mile",1
-301-Mobile-Villa,0.017 square miles,27.8 years,1.6,12.5%,69.1%,25.6 years,"$34,397",$744,7.8%,"$199,167",37.0 people,56.8%,37.1%,32.5%,20.5%,11.7%,47.2%,0.0%,22.8%,21.0%,1.2,27,"1,565 people per square mile",14
-3014-Palmira-Office-Condo,2,33.4 years,2.0,7.2%,86.1%,29.0 years,"$93,125","$1,042",1.3%,242.5,2.8 people,65.6%,66.5%,44.2%,19.6%,3.9%,47.3%,0.0%,4.0%,40.5%,1.8,density:3014,"3,797 people per square mile",1
-305-South-Westland-Condo,4,32.3 years,1.5,11.2%,74.6%,27.9 years,"$92,303","$1,466",0.4%,242.5,21.0 people,13.9%,16.5%,56.3%,31.6%,4.7%,32.2%,0.0%,33.0%,45.9%,1.6,density:305,"14,468 people per square mile",2
-306-South-Fremont-Condo,3,25.8 years,1.2,11.2%,70.3%,29.5 years,"$60,152","$1,066",0.4%,242.5,1.8 people,5.1%,8.0%,56.3%,39.0%,11.5%,32.2%,0.0%,34.1%,50.6%,1.4,density:306,"11,059 people per square mile",2
-30th-Street-Professional-Building-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-310-S-Arrawana-Avenue-Condo,2,34.4 years,1.8,9.1%,52.5%,48.3 years,"$75,091","$1,230",4.5%,242.5,2.2 people,46.3%,56.4%,41.0%,7.9%,0.7%,45.4%,0.0%,10.1%,54.3%,1.7,density:310,"3,663 people per square mile",0
-311-Gomez-Condo,6,26.6 years,1.5,9.1%,81.6%,43.0 years,"$111,292",$898,4.5%,242.5,2.1 people,23.1%,21.9%,41.0%,13.3%,3.9%,45.4%,0.0%,50.6%,34.8%,1.2,density:311,"22,783 people per square mile",1
-3219-Deleon-Street-Condo,1,66.3 years,0.9,1.2,242.5,35.0 years,"$16,750",$388,9.1%,7.8%,1.4 people,27.6%,11.7%,4.5%,30.9%,6.4%,41.0%,45.4%,19.9%,117.0%,78.3%,density:3219,"4,557 people per square mile",1
-3221-Deleon-Street-Condo,1,66.3 years,1.2,9.1%,78.3%,35.0 years,"$16,750",$388,4.5%,242.5,1.4 people,27.6%,11.7%,41.0%,30.9%,6.4%,45.4%,0.0%,19.9%,117.0%,0.9,density:3221,"4,346 people per square mile",1
-345-Bayshore-Condo,0.005 square miles,26.8 years,1.7,8.3%,89.7%,40.4 years,"$94,049","$1,267",3.0%,242.5,1.9 people,27.1%,26.5%,58.5%,26.3%,21.4%,30.1%,0.0%,28.7%,20.0%,1.6,21,"4,316 people per square mile",9
-4218-W-No-B-Street-Condo,1,20.7%,242.5,55.8%,23.6%,12.3%,"$51,417",$885,1.2,5.8%,70.2%,22.7%,34.7%,1.5,34.2%,0.0%,26.5%,7.3%,31.9%,16.1%,10.3%,density:4218,"2,032 people per square mile",1.7 people
-4710-Medical-Arts-Condo,0.004 square miles,28.7 years,1.7,39.3%,34.1%,30.2 years,"$25,500",$689,9.4%,"$121,822",2.2 people,39.4%,30.9%,22.1%,12.6%,16.9%,29.2%,0.0%,20.3%,43.3%,1.1,8,"2,091 people per square mile",3
-5010-Bayshore-Condo,0.002 square miles,60.5%,242.5,67.2%,3.7%,50.7%,"$68,875","$1,034",1.8,4.8%,58.9%,1.5%,11.4%,1.8,38.0%,0.0%,5.8%,8.2%,47.9%,13.4%,4.5%,1,404 people per square mile,2.4 people
-502-North-Armenia-Condo,3,36.5 years,1.6,22.0%,58.5%,44.8 years,"$35,000",$906,3.0%,"$155,731",2.7 people,44.7%,33.7%,26.9%,13.2%,3.4%,48.1%,0.0%,36.5%,37.6%,1.3,density:502,"8,474 people per square mile",1
-56th-and-Fletcher-Office-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-5700-Mariner-Condo-Apartments-South,0.002 square miles,25.9%,242.5,52.5%,11.4%,32.2%,"$66,607","$1,539",1.2,13.3%,51.7%,33.8%,24.3%,1.5,44.7%,0.0%,7.7%,2.1%,45.4%,22.1%,41.8%,1,583 people per square mile,1.8 people
-5th-Avenue-Lofts-Condo,1,13.2%,22.0%,242.5,2.2%,12.2%,"$55,643",$880,56.1%,8.5%,2.4%,63.0%,34.9%,1.1,32.5%,48.0%,1.3,12.3%,7.2%,24.4%,7.7%,density:5th,"3,143 people per square mile",1.6 people
-9th-Street-Villas-Condo,0.002 square miles,36.3 years,1.4,19.3%,54.5%,43.8 years,"$35,375",$641,11.3%,242.5,2.5 people,49.6%,36.8%,24.1%,13.1%,25.6%,45.3%,0.0%,23.4%,11.6%,1.1,4,"1,853 people per square mile",2
-A-D-Apartments-Condo,1,34.9%,2.1%,242.5,16.5%,46.6%,"$23,493",$563,40.9%,21.7%,24.2%,12.4%,29.6%,0.9,21.9%,33.6%,1.6,36.4%,8.1%,9.8%,32.7%,density:A,"1,445 people per square mile",2.4 people
-Abbey-Road-at-Old-Hyde-Park-Condo,NA,32.0%,12.0%,16.9%,26.4%,10.7%,$911,1.3 people,32.0%,45.3%,34.9%,30.1%,58.5%,59.2%,1.6,8.3%,242.5,36.8%,1.2,3.0%,22.4%,NA,"$52,778",20.7%
-Aberdeen-On-Glen,1,31.2 years,1.3,9.1%,71.1%,42.0 years,"$59,050",$838,4.5%,242.5,1.5 people,26.1%,22.6%,41.0%,29.9%,4.3%,45.4%,0.0%,15.9%,79.0%,1.4,density:Aberdeen,"3,026 people per square mile",1
-Adalia-Bayfront-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-Adamo-Acres,0.092 square miles,55.1 years,2.0,32.6%,52.5%,51.1 years,"$38,596",$854,4.3%,"$77,203",3.7 people,48.9%,42.9%,19.8%,18.9%,10.4%,43.4%,22.6%,20.2%,16.8%,1.0,221,"2,412 people per square mile",110
-Adams-Place-Map,0.014 square miles,44.6 years,1.7,14.5%,65.4%,44.1 years,"$49,063",$695,8.6%,242.5,2.5 people,32.3%,25.5%,37.6%,28.2%,29.2%,39.4%,4.3%,19.8%,11.6%,1.4,71,"4,925 people per square mile",40
-Addition-Davis-Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-Additions-to-West-Tampa,0.339 square miles,38.0 years,1.5,25.0%,62.9%,34.2 years,"$30,043",$708,4.3%,"$112,546",2.7 people,35.7%,30.4%,20.9%,23.8%,19.9%,49.8%,13.7%,18.9%,17.7%,1.1,"2,298","6,781 people per square mile","1,033"
-Adeste-Condo,0.003 square miles,41.4 years,1.9,5.8%,63.4%,42.3 years,"$82,750","$1,752",8.2%,"$406,373",2.3 people,44.5%,42.6%,47.9%,7.6%,6.9%,38.0%,0.0%,7.2%,35.6%,0.8,13,"4,972 people per square mile",6
-Airport-Business-Center,0.002 square miles,40.5 years,2.2,36.4%,39.1%,35.5 years,"$17,222",$537,8.1%,242.5,2.2 people,49.3%,29.9%,21.9%,28.1%,27.8%,33.6%,0.0%,8.4%,21.0%,0.5,2,"1,031 people per square mile",1
-Airport-Service-Center,0.128 square miles,35.6 years,1.8,37.6%,61.5%,38.4 years,"$52,277",$762,11.3%,242.5,2.4 people,36.5%,37.0%,22.4%,31.9%,4.7%,28.7%,17.9%,8.2%,11.2%,2.1,37,290 people per square mile,18
-Al-Dana-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-Al-Mar,0.105 square miles,60.5 years,1.7,10.9%,59.6%,60.7 years,"$101,461",$793,2.1%,"$196,429",32.2 people,38.8%,42.7%,48.8%,17.5%,18.8%,38.3%,4.9%,21.2%,31.5%,1.8,156,"1,492 people per square mile",67
-Alabany-Place-Condo,4,32.3 years,1.5,11.2%,74.6%,27.9 years,"$92,303","$1,466",0.4%,242.5,21.0 people,13.9%,16.5%,56.3%,31.6%,4.7%,32.2%,0.0%,33.0%,45.9%,1.6,density:Alabany,"6,868 people per square mile",2
-Albany-Villas-Townhomes,3,25.8 years,1.2,11.2%,70.3%,29.5 years,"$60,152","$1,066",0.4%,242.5,1.8 people,5.1%,8.0%,56.3%,39.0%,11.5%,32.2%,0.0%,34.1%,50.6%,1.4,density:Albany,"10,166 people per square mile",2
-Alcazar-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
-Alexandria-Place,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+,Area,Average household size,Average number of vehicles per apartment,Average number of vehicles per house/condo,Median age of females,Median age of males,Median household income,Median rent,Neighborhood Name,Percentage of family households,Percentage of foreign born residents,Percentage of married-couple families,Percentage of married-couple families with children,Percentage of native residents born outside the US,Percentage of never married females Over 15,Percentage of never married males Over 15,Percentage of people born in another state,Percentage of people born in the state,Percentage of people that do not speak english,Percentage of single mother households,Percentage of units with a mortgage,Population,Population density,Population of males
+0,,NA,NA,NA,NA,NA,NA,NA,1000-Channelside-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+1,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,1301-Soho-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+2,,NA,NA,NA,NA,NA,NA,NA,1508-South-Howard-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+3,,24.4%,1.5%,8.5%,34.9%,13.2%,$880,1.6 people,1611-6th-Avenue-Townhomes,48.0%,2.2%,32.5%,7.2%,7.7%,1.1,1.3,22.0%,242.5,56.1%,12.3%,3.6%,NA,"$55,643",12.2%
+4,,NA,NA,NA,NA,NA,NA,NA,2002-Dekle-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+5,1,35.0%,29.2%,242.5,26.5%,27.1%,"$94,049","$1,267",215-Verne-Condo,37.4%,89.7%,26.3%,28.7%,1.6,58.5%,30.1%,1.7,8.3%,3.0%,0.0%,16.5%,density:215,"1,709 people per square mile",1.9 people
+6,,NA,NA,NA,NA,NA,NA,NA,2513-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+7,,NA,NA,NA,NA,NA,NA,NA,2515-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+8,,NA,NA,NA,NA,NA,NA,NA,2518-W-Kansas-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+9,,NA,NA,NA,NA,NA,NA,NA,2525-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+10,,NA,NA,NA,NA,NA,NA,NA,2527-Maryland-Avenue-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+11,2,3.2 people,5.2,1.4,42.2 years,29.4 years,"$209,167","$1,168",2807-Estrella-Avenue-Condo,79.9%,6.9%,85.8%,37.9%,0.4%,4.7%,11.4%,48.8%,43.9%,0.0%,1.4%,89.7%,density:2807,"9,259 people per square mile",1
+12,0.017 square miles,37.0 people,1.2,1.6,27.8 years,25.6 years,"$34,397",$744,301-Mobile-Villa,56.8%,12.5%,37.1%,21.0%,7.8%,22.8%,20.5%,32.5%,47.2%,0.0%,11.7%,69.1%,27,"1,565 people per square mile",14
+13,2,2.8 people,1.8,2.0,33.4 years,29.0 years,"$93,125","$1,042",3014-Palmira-Office-Condo,65.6%,7.2%,66.5%,40.5%,1.3%,4.0%,19.6%,44.2%,47.3%,0.0%,3.9%,86.1%,density:3014,"3,797 people per square mile",1
+14,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",305-South-Westland-Condo,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:305,"14,468 people per square mile",2
+15,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",306-South-Fremont-Condo,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:306,"11,059 people per square mile",2
+16,,NA,NA,NA,NA,NA,NA,NA,30th-Street-Professional-Building-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+17,2,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",310-S-Arrawana-Avenue-Condo,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:310,"3,663 people per square mile",0
+18,6,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,311-Gomez-Condo,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,density:311,"22,783 people per square mile",1
+19,1,1.4 people,78.3%,0.9,66.3 years,35.0 years,"$16,750",$388,3219-Deleon-Street-Condo,27.6%,1.2,11.7%,117.0%,9.1%,19.9%,30.9%,4.5%,41.0%,45.4%,6.4%,242.5,density:3219,"4,557 people per square mile",1
+20,1,1.4 people,0.9,1.2,66.3 years,35.0 years,"$16,750",$388,3221-Deleon-Street-Condo,27.6%,9.1%,11.7%,117.0%,4.5%,19.9%,30.9%,41.0%,45.4%,0.0%,6.4%,78.3%,density:3221,"4,346 people per square mile",1
+21,0.005 square miles,1.9 people,1.6,1.7,26.8 years,40.4 years,"$94,049","$1,267",345-Bayshore-Condo,27.1%,8.3%,26.5%,20.0%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,21.4%,89.7%,21,"4,316 people per square mile",9
+22,1,70.2%,10.3%,242.5,20.7%,12.3%,"$51,417",$885,4218-W-No-B-Street-Condo,22.7%,55.8%,34.7%,16.1%,1.2,31.9%,34.2%,1.5,26.5%,7.3%,0.0%,23.6%,density:4218,"2,032 people per square mile",1.7 people
+23,0.004 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,4710-Medical-Arts-Condo,39.4%,39.3%,30.9%,43.3%,9.4%,20.3%,12.6%,22.1%,29.2%,0.0%,16.9%,34.1%,8,"2,091 people per square mile",3
+24,0.002 square miles,58.9%,4.5%,242.5,60.5%,50.7%,"$68,875","$1,034",5010-Bayshore-Condo,1.5%,67.2%,11.4%,13.4%,1.8,47.9%,38.0%,1.8,5.8%,8.2%,0.0%,3.7%,1,404 people per square mile,2.4 people
+25,3,2.7 people,1.3,1.6,36.5 years,44.8 years,"$35,000",$906,502-North-Armenia-Condo,44.7%,22.0%,33.7%,37.6%,3.0%,36.5%,13.2%,26.9%,48.1%,0.0%,3.4%,58.5%,density:502,"8,474 people per square mile",1
+26,0.014 square miles,NA,NA,NA,NA,NA,NA,NA,56th-and-Fletcher-Office-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+27,0.002 square miles,51.7%,41.8%,242.5,25.9%,32.2%,"$66,607","$1,539",5700-Mariner-Condo-Apartments-South,33.8%,52.5%,24.3%,22.1%,1.2,45.4%,44.7%,1.5,7.7%,2.1%,0.0%,11.4%,1,583 people per square mile,1.8 people
+28,1,2.4%,7.7%,22.0%,13.2%,12.2%,"$55,643",$880,5th-Avenue-Lofts-Condo,63.0%,242.5,34.9%,24.4%,56.1%,7.2%,32.5%,1.1,1.3,12.3%,48.0%,2.2%,density:5th,"3,143 people per square mile",1.6 people
+29,0.002 square miles,2.5 people,1.1,1.4,36.3 years,43.8 years,"$35,375",$641,9th-Street-Villas-Condo,49.6%,19.3%,36.8%,11.6%,11.3%,23.4%,13.1%,24.1%,45.3%,0.0%,25.6%,54.5%,4,"1,853 people per square mile",2
+30,1,24.2%,32.7%,2.1%,34.9%,46.6%,"$23,493",$563,A-D-Apartments-Condo,12.4%,242.5,29.6%,9.8%,40.9%,8.1%,21.9%,0.9,1.6,36.4%,33.6%,16.5%,density:A,"1,445 people per square mile",2.4 people
+31,,34.9%,22.4%,12.0%,32.0%,10.7%,$911,1.3 people,Abbey-Road-at-Old-Hyde-Park-Condo,30.1%,16.9%,58.5%,3.0%,32.0%,1.2,1.6,59.2%,242.5,36.8%,8.3%,26.4%,NA,"$52,778",20.7%
+32,1,1.5 people,1.4,1.3,31.2 years,42.0 years,"$59,050",$838,Aberdeen-On-Glen,26.1%,9.1%,22.6%,79.0%,4.5%,15.9%,29.9%,41.0%,45.4%,0.0%,4.3%,71.1%,density:Aberdeen,"3,026 people per square mile",1
+33,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Adalia-Bayfront-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+34,0.092 square miles,3.7 people,1.0,2.0,55.1 years,51.1 years,"$38,596",$854,Adamo-Acres,48.9%,32.6%,42.9%,16.8%,4.3%,20.2%,18.9%,19.8%,43.4%,22.6%,10.4%,52.5%,221,"2,412 people per square mile",110
+35,0.014 square miles,2.5 people,1.4,1.7,44.6 years,44.1 years,"$49,063",$695,Adams-Place-Map,32.3%,14.5%,25.5%,11.6%,8.6%,19.8%,28.2%,37.6%,39.4%,4.3%,29.2%,65.4%,71,"4,925 people per square mile",40
+36,0.076 square miles,NA,NA,NA,NA,NA,NA,NA,Addition-Davis-Island,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+37,0.339 square miles,2.7 people,1.1,1.5,38.0 years,34.2 years,"$30,043",$708,Additions-to-West-Tampa,35.7%,25.0%,30.4%,17.7%,4.3%,18.9%,23.8%,20.9%,49.8%,13.7%,19.9%,62.9%,"2,298","6,781 people per square mile","1,033"
+38,0.003 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Adeste-Condo,44.5%,5.8%,42.6%,35.6%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,6.9%,63.4%,13,"4,972 people per square mile",6
+39,0.002 square miles,2.2 people,0.5,2.2,40.5 years,35.5 years,"$17,222",$537,Airport-Business-Center,49.3%,36.4%,29.9%,21.0%,8.1%,8.4%,28.1%,21.9%,33.6%,0.0%,27.8%,39.1%,2,"1,031 people per square mile",1
+40,0.128 square miles,2.4 people,2.1,1.8,35.6 years,38.4 years,"$52,277",$762,Airport-Service-Center,36.5%,37.6%,37.0%,11.2%,11.3%,8.2%,31.9%,22.4%,28.7%,17.9%,4.7%,61.5%,37,290 people per square mile,18
+41,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Al-Dana-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+42,0.105 square miles,32.2 people,1.8,1.7,60.5 years,60.7 years,"$101,461",$793,Al-Mar,38.8%,10.9%,42.7%,31.5%,2.1%,21.2%,17.5%,48.8%,38.3%,4.9%,18.8%,59.6%,156,"1,492 people per square mile",67
+43,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Alabany-Place-Condo,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Alabany,"6,868 people per square mile",2
+44,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Albany-Villas-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Albany,"10,166 people per square mile",2
+45,,NA,NA,NA,NA,NA,NA,NA,Alcazar-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+46,0.010 square miles,NA,NA,NA,NA,NA,NA,NA,Alexandria-Place,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+47,0.015 square miles,12.1 people,1.4,1.7,38.2 years,41.2 years,"$40,590",$665,Alice-Heights,43.7%,14.8%,34.8%,23.1%,5.7%,30.1%,12.4%,33.1%,46.4%,5.4%,6.6%,68.5%,98,"6,709 people per square mile",36
+48,0.043 square miles,1.3 people,1.2,1.6,29.3 years,35.2 years,"$52,778",$911,Alice-Kelly-s,20.7%,10.7%,10.7%,56.5%,5.3%,34.9%,32.0%,55.9%,28.0%,0.0%,102.7%,36.8%,44,"1,020 people per square mile",21
+49,0.020 square miles,2.1 people,4.7,1.5,55.5 years,43.2 years,"$56,944",$759,All-Bright-Shores,33.7%,15.3%,48.5%,47.5%,8.8%,2.4%,23.9%,39.7%,36.2%,13.3%,22.2%,61.6%,47,"2,322 people per square mile",30
+50,0.012 square miles,27.0 people,1.2,2.3,41.4 years,42.5 years,"$47,869","$1,054",Allerton-Park,25.1%,18.5%,25.1%,49.8%,5.5%,3.2%,24.2%,46.2%,29.8%,0.0%,27.7%,81.3%,22,"1,873 people per square mile",12
+51,0.004 square miles,2.5 people,0.8,1.6,31.7 years,31.6 years,"$28,750",$844,Alma-Heights,62.3%,4.0%,35.7%,6.1%,3.0%,24.9%,21.6%,26.6%,66.4%,0.0%,39.5%,44.4%,3,775 people per square mile,1
+52,0.014 square miles,2.2 people,1.1,14.0,29.4 years,27.6 years,"$38,214",$773,Alman-s-Acres,40.0%,15.7%,19.8%,15.7%,8.2%,26.3%,23.9%,35.7%,40.4%,3.2%,29.5%,25.5%,70,"4,987 people per square mile",34
+53,0.006 square miles,2.2 people,1.1,1.8,34.4 years,35.2 years,"$60,000",$900,Alta-Vista,46.8%,18.2%,36.1%,22.4%,0.7%,15.1%,20.9%,34.2%,46.9%,3.3%,4.5%,84.4%,34,"5,284 people per square mile",17
+54,0.109 square miles,NA,NA,NA,NA,NA,NA,NA,Alta-Vista-Tracts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+55,0.029 square miles,3.6 people,1.0,1.4,24.4 years,35.3 years,"$26,250",$795,Altamira-Heights,50.3%,9.6%,11.8%,0.9%,2.0%,32.9%,24.8%,10.8%,77.7%,1.4%,26.6%,64.8%,165,"5,657 people per square mile",74
+56,0.013 square miles,2.5 people,1.4,2.2,47.4 years,50.2 years,"$56,094","$1,053",Altamonte-Heights,17.9%,18.2%,40.6%,40.4%,0.7%,17.1%,18.0%,34.2%,46.9%,1.9%,25.7%,54.8%,54,"4,053 people per square mile",26
+57,0.059 square miles,2.5 people,0.8,0.8,29.2 years,23.1 years,"$16,516",$655,Altman-Colby-Lake,51.4%,14.5%,9.0%,12.1%,3.9%,38.0%,21.9%,33.7%,47.9%,1.8%,35.2%,46.8%,484,"8,273 people per square mile",209
+58,0.010 square miles,2.9 people,1.0,1.9,33.2 years,35.6 years,"$27,419",$825,Amber-Place,53.1%,18.2%,30.7%,12.5%,6.9%,21.7%,21.1%,19.7%,55.2%,3.1%,18.7%,67.5%,69,"7,052 people per square mile",33
+59,0.016 square miles,1.7 people,1.0,1.0,51.5 years,34.6 years,"$31,618",$853,Amberly-Oaks-Townhomes,32.3%,31.2%,20.6%,88.3%,11.6%,3.0%,43.8%,31.2%,26.0%,13.0%,58.9%,45.1%,23,"1,458 people per square mile",14
+60,0.007 square miles,3.2 people,0.8,1.7,26.0 years,20.8 years,"$24,554",$656,American,67.3%,6.4%,8.7%,4.4%,3.4%,46.4%,30.7%,13.8%,76.4%,3.4%,27.1%,59.6%,36,"5,481 people per square mile",14
+61,0.019 square miles,2.3 people,1.3,1.4,52.6 years,32.3 years,"$41,033",$845,Americana,36.7%,18.3%,31.5%,29.9%,6.4%,8.3%,21.4%,37.8%,37.5%,0.0%,8.3%,51.6%,23,"1,207 people per square mile",12
+62,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Amsouth-at-Cross-Creek,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+63,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Ana-Julia-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+64,0.040 square miles,2.6 people,1.5,1.6,44.6 years,35.4 years,"$60,675","$1,309",Andover-Village,50.4%,26.5%,36.7%,39.1%,4.8%,12.9%,15.4%,34.5%,34.2%,7.9%,33.2%,90.6%,79,"1,987 people per square mile",37
+65,0.014 square miles,2.2 people,1.4,1.6,53.3 years,44.0 years,"$52,813",$879,Angelina-Pines,48.7%,8.2%,43.5%,24.3%,3.5%,17.7%,11.1%,38.5%,49.8%,0.0%,21.5%,69.8%,25,"1,773 people per square mile",11
+66,0.015 square miles,3.8 people,1.5,3.6,38.5 years,19.0 years,"$35,578",$757,Ansley-Park,49.1%,31.2%,32.3%,4.8%,11.6%,9.4%,34.9%,31.2%,26.0%,16.7%,11.9%,59.3%,66,"4,522 people per square mile",43
+67,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Antarctica-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Antarctica,"10,388 people per square mile",2
+68,0.003 square miles,3.4 people,1.5,1.1,28.3 years,24.0 years,"$37,927",$796,Arabian-Acres,61.6%,6.5%,28.3%,8.3%,5.8%,25.3%,32.9%,43.4%,44.4%,0.0%,20.2%,69.4%,4,"1,535 people per square mile",2
+69,0.906 square miles,NA,NA,NA,NA,NA,NA,NA,Arbor-Greene,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+70,0.024 square miles,NA,NA,NA,NA,NA,NA,NA,Arbor-Greene-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+71,0.003 square miles,2.8 people,1.6,1.9,41.7 years,37.7 years,"$54,268","$1,273",Arbor-Oaks-Condo,51.1%,38.6%,46.1%,22.0%,3.9%,20.1%,14.8%,20.7%,36.9%,0.0%,11.4%,68.9%,7,"2,533 people per square mile",3
+72,0.004 square miles,2.3 people,1.0,1.0,30.8 years,27.3 years,"$23,185",$706,Arbor-Ridge-Professional-Park,36.0%,23.1%,13.4%,10.1%,13.1%,30.4%,31.6%,26.2%,37.6%,13.3%,22.0%,12.7%,16,"4,375 people per square mile",8
+73,0.014 square miles,3.2 people,1.7,2.0,40.6 years,36.9 years,"$65,065","$1,186",Arbor-Ridge,47.8%,15.3%,42.1%,19.6%,14.7%,22.5%,26.6%,34.4%,35.7%,3.8%,12.1%,71.6%,164,"11,768 people per square mile",83
+74,0.002 square miles,2.6 people,1.1,1.9,42.8 years,50.8 years,"$62,236",$919,Arbor-Terrace-Professional-Park-Condo,44.0%,15.3%,56.7%,20.6%,3.6%,12.0%,17.8%,34.4%,46.7%,0.0%,22.4%,59.9%,8,"4,291 people per square mile",4
+75,0.076 square miles,2.4 people,1.2,2.0,42.4 years,35.4 years,"$62,196",$978,Arbors-at-Carrollwood-Condo,39.1%,14.6%,41.8%,32.2%,1.4%,16.4%,17.3%,52.1%,31.9%,0.4%,5.3%,65.8%,267,"3,533 people per square mile",133
+76,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Arlene-Manor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+77,0.097 square miles,0.4 people,1.2,1.7,6.3 years,5.9 years,"$6,133",$110,Arlington-Heights,39.7%,14.5%,34.3%,18.6%,8.6%,17.2%,25.2%,37.6%,39.4%,11.4%,13.0%,65.9%,23,237 people per square mile,13
+78,0.006 square miles,2.7 people,1.4,2.0,43.8 years,40.2 years,"$80,000",$897,Arlington-Oaks,48.6%,14.2%,57.8%,35.1%,1.7%,12.2%,19.5%,40.9%,43.3%,0.0%,1.9%,56.8%,36,"5,546 people per square mile",19
+79,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Arlington-Park-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+80,0.026 square miles,2.5 people,2.8,1.6,40.9 years,42.5 years,"$54,010",$872,Armenia-Acres,44.3%,11.5%,44.0%,29.5%,2.2%,9.1%,14.3%,40.0%,46.4%,2.6%,9.8%,64.8%,82,"3,171 people per square mile",39
+81,0.047 square miles,2.3 people,1.4,1.3,40.3 years,27.7 years,"$36,885",$745,Armenia-Court,41.9%,38.6%,27.6%,9.5%,3.9%,10.3%,26.7%,20.7%,36.9%,12.5%,27.5%,53.6%,433,"9,153 people per square mile",237
+82,0.031 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,Armenia-Estates,39.4%,39.3%,30.9%,39.6%,9.4%,20.3%,12.6%,22.1%,29.2%,14.3%,15.5%,34.1%,71,"2,302 people per square mile",29
+83,0.626 square miles,2.6 people,1.3,1.4,42.1 years,36.0 years,"$38,678",$798,Armenia-Gardens-Estates,46.8%,21.1%,37.3%,16.9%,7.9%,13.0%,19.5%,26.4%,44.6%,12.7%,28.3%,69.4%,"3,212","5,135 people per square mile","1,677"
+84,0.015 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,Armenia-Gardens,39.4%,39.3%,30.9%,39.6%,9.4%,20.3%,12.6%,22.1%,29.2%,13.3%,15.5%,34.1%,34,"2,317 people per square mile",14
+85,0.017 square miles,2.8 people,1.7,1.9,37.3 years,39.3 years,"$50,972",$742,Armenia-Heights,59.4%,13.4%,51.4%,26.7%,1.4%,20.9%,20.6%,40.9%,44.4%,4.2%,5.7%,57.7%,75,"4,376 people per square mile",36
+86,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Armenia-Oaks-Professional-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+87,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Armenia-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+88,0.014 square miles,NA,NA,NA,NA,NA,NA,NA,Armenia-Village-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+89,0.014 square miles,2.5 people,1.1,1.5,34.9 years,38.1 years,"$37,143",$793,Arrand-Heights,46.8%,18.2%,43.5%,40.2%,0.7%,22.0%,19.1%,34.2%,46.9%,5.3%,14.6%,75.0%,60,"4,321 people per square mile",27
+90,4,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Arrawana-Park-Condo,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Arrawana,"4,352 people per square mile",2
+91,2,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Arrawana-Place-Townhouses,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Arrawana,"6,036 people per square mile",0
+92,2,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Arrawana-South-Townhomes,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Arrawana,"4,899 people per square mile",0
+93,2,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Arrawana-Townhouses,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Arrawana,"3,698 people per square mile",1
+94,0.002 square miles,1.4 people,0.9,1.3,37.1 years,38.1 years,"$53,493","$1,301",Art-Center-Lofts,13.7%,18.3%,12.7%,0.0%,6.1%,23.4%,34.6%,57.9%,17.7%,0.0%,78.6%,78.2%,4,"2,190 people per square mile",2
+95,0.023 square miles,3.8 people,1.5,3.6,38.5 years,19.0 years,"$35,578",$757,Arthur-Estates,49.1%,31.2%,32.3%,4.8%,11.6%,9.4%,34.9%,31.2%,26.0%,17.9%,11.8%,59.3%,103,"4,492 people per square mile",66
+96,0.002 square miles,2.5 people,1.4,1.8,44.2 years,42.9 years,"$115,435","$1,125",Asbury-Park-Condo,57.4%,11.4%,58.1%,25.2%,2.1%,16.2%,11.8%,49.0%,37.5%,0.0%,10.8%,78.3%,13,"5,715 people per square mile",6
+97,0.110 square miles,0.5 people,0.8,1.9,8.5 years,8.6 years,"$15,638",$363,Asbury-Park,44.5%,5.8%,42.6%,34.2%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,6.7%,63.4%,81,736 people per square mile,39
+98,2,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Asbury-Park-Townhouses,44.5%,5.8%,42.6%,38.6%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,7.5%,63.4%,density:Asbury,"3,715 people per square mile",1
+99,0.003 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Asbury-Park-Villas-and-Townhouses,44.5%,5.8%,42.6%,36.0%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,7.0%,63.4%,15,"5,248 people per square mile",7
+100,0.048 square miles,2.6 people,0.9,1.7,28.6 years,32.4 years,"$63,491",$897,Ashburn-Square-Townhomes,69.9%,12.5%,56.7%,27.9%,7.8%,7.5%,22.2%,32.5%,47.2%,1.6%,4.5%,71.1%,149,"3,132 people per square mile",86
+101,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,Ashford-Green-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+102,0.004 square miles,2.6 people,0.9,1.7,28.6 years,32.4 years,"$63,491",$897,Ashley-Oaks-Mobile-Home-Condo,69.9%,12.5%,56.7%,28.3%,7.8%,7.5%,22.2%,32.5%,47.2%,0.0%,4.5%,71.1%,13,"3,184 people per square mile",7
+103,0.009 square miles,2.2 people,1.5,2.0,31.8 years,32.4 years,"$47,253",$829,Ashlyn-Park-Condo,42.2%,27.8%,25.4%,31.4%,8.0%,28.0%,15.8%,32.8%,31.4%,0.0%,6.4%,85.8%,26,"3,034 people per square mile",11
+104,0.001 square miles,1.7 people,0.5,1.3,23.4 years,44.1 years,"$11,865",$438,Askew-Heights,42.0%,12.3%,4.4%,2.7%,7.2%,46.9%,18.9%,32.5%,48.0%,0.0%,71.5%,56.1%,3,"2,919 people per square mile",1
+105,0.061 square miles,2.5 people,1.3,23.3,36.5 years,32.7 years,"$84,624","$1,126",Aston-Villas,25.2%,14.8%,33.2%,38.2%,4.8%,13.1%,11.9%,49.4%,30.9%,6.2%,14.4%,35.7%,244,"4,023 people per square mile",101
+106,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Atrium-On-The-Bayshore-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+107,0.029 square miles,2.6 people,1.4,1.4,28.6 years,29.9 years,"$36,885",$745,Auburn-Highlands,41.9%,38.6%,28.3%,10.2%,3.9%,10.1%,26.5%,20.7%,36.9%,11.9%,28.2%,54.2%,245,"8,521 people per square mile",133
+108,0.001 square miles,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Audubon-Park-Home-Of-Tampa-Condo,46.3%,9.1%,56.4%,46.6%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.6%,52.5%,7,"4,784 people per square mile",2
+109,0.003 square miles,39.6%,20.9%,242.5,74.4%,75.4%,"$214,464","$1,535",Audubon-Park,3.5%,69.1%,19.5%,12.0%,1.4,45.4%,44.7%,2.7,7.7%,2.1%,0.0%,9.0%,1,326 people per square mile,3.3 people
+110,4,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Audubon-Villaa-Townhomes,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Audubon,"4,762 people per square mile",2
+111,0.028 square miles,2.1 people,1.5,1.7,35.5 years,40.8 years,"$46,698",$750,Avalon-Heights,43.4%,5.8%,26.2%,20.2%,5.0%,19.0%,24.1%,41.6%,47.6%,1.8%,8.6%,69.5%,119,"4,261 people per square mile",58
+112,0.001 square miles,27.0 people,1.2,2.3,41.4 years,42.5 years,"$47,869","$1,054",Avenida-De-Flores-Townhomes,25.1%,18.5%,25.1%,58.7%,5.5%,3.2%,24.2%,46.2%,29.8%,0.0%,32.7%,81.3%,2,"1,837 people per square mile",1
+113,0.027 square miles,2.9 people,1.3,2.1,32.3 years,34.0 years,"$68,529","$1,059",Avery-Oaks,65.9%,24.0%,52.8%,22.4%,8.7%,18.4%,16.9%,38.1%,29.2%,4.2%,11.2%,85.0%,80,"3,014 people per square mile",38
+114,0.007 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Avila-Clubhouse-Villas,59.5%,14.3%,73.2%,40.3%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,14.6%,82.7%,1,154 people per square mile,1
+115,1.152 square miles,2.8 people,1.6,2.2,43.5 years,34.5 years,"$76,220",$775,Avila,57.3%,14.3%,52.2%,22.9%,3.6%,11.4%,21.0%,46.6%,35.5%,6.2%,9.8%,67.7%,"2,683","2,329 people per square mile","1,293"
+116,0.008 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Avila-Townhomes,59.5%,14.3%,73.2%,24.2%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.8%,82.7%,2,262 people per square mile,1
+117,0.051 square miles,28.6 people,0.9,1.2,41.0 years,46.7 years,"$17,213",$844,Avon-Springs,27.7%,17.8%,26.2%,48.2%,6.5%,33.0%,18.6%,31.5%,44.2%,15.4%,299.8%,60.0%,243,"4,762 people per square mile",109
+118,0.058 square miles,2.4 people,0.9,1.7,35.7 years,34.0 years,"$25,419",$648,Avondale,65.3%,39.3%,42.6%,13.2%,9.4%,1.9%,22.6%,22.1%,29.2%,28.8%,22.6%,71.6%,117,"2,013 people per square mile",60
+119,0.053 square miles,NA,NA,NA,NA,NA,NA,NA,Ayala-and-Santos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+120,0.046 square miles,2.9 people,0.8,1.7,38.8 years,40.9 years,"$42,167",$517,Ayala-s-Grove,60.7%,22.8%,37.2%,20.9%,8.2%,16.9%,16.5%,32.3%,36.7%,14.1%,13.9%,52.0%,228,"4,987 people per square mile",104
+121,0.040 square miles,3.2 people,1.2,1.7,37.0 years,32.3 years,"$51,219","$1,002",Ayers-Heights,54.9%,12.5%,36.2%,19.3%,7.8%,19.1%,22.0%,32.5%,47.2%,0.0%,17.0%,71.1%,807,"20,007 people per square mile",428
+122,0.018 square miles,2.5 people,1.9,1.9,40.1 years,38.7 years,"$53,750",$856,Azalea-Gardens-Estates,37.2%,7.4%,34.0%,25.7%,8.4%,16.1%,19.8%,36.6%,47.6%,1.7%,14.2%,78.2%,60,"3,266 people per square mile",26
+123,0.006 square miles,2.8 people,1.1,1.7,47.1 years,41.6 years,"$38,068",$849,Azalea-Gardens,42.9%,14.5%,38.2%,20.3%,8.6%,16.2%,24.0%,37.6%,39.4%,13.6%,8.1%,66.2%,21,"3,250 people per square mile",11
+124,0.004 square miles,56.6%,20.9%,242.5,74.4%,75.4%,"$214,464","$1,535",Azalea-Terrace,5.0%,69.1%,19.5%,12.0%,1.4,45.4%,44.7%,2.7,7.7%,2.1%,0.0%,9.0%,1,232 people per square mile,3.3 people
+125,0.002 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Azeele-Heights,54.5%,7.7%,57.1%,30.0%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,7.0%,47.6%,12,"5,027 people per square mile",5
+126,0.012 square miles,2.2 people,1.3,1.8,54.0 years,40.5 years,"$85,250",$928,Azeele-Park,39.6%,11.1%,28.4%,16.0%,1.8%,12.4%,30.5%,43.7%,43.4%,0.0%,6.1%,57.4%,63,"5,179 people per square mile",37
+127,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Azure-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+128,0.003 square miles,2.5 people,1.0,1.3,36.3 years,39.5 years,"$27,250",$511,Baker-Place,36.0%,6.6%,14.5%,16.8%,2.7%,19.1%,29.3%,22.1%,68.6%,0.0%,20.6%,66.2%,9,"2,625 people per square mile",5
+129,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Bakersfield-Place-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Bakersfield,"17,584 people per square mile",2
+130,0.023 square miles,34.0 people,0.8,1.6,34.3 years,33.8 years,"$22,375",$815,Balincort-Heights,55.4%,7.4%,23.1%,3.0%,8.4%,25.1%,11.4%,36.6%,47.6%,10.4%,20.3%,66.9%,112,"4,949 people per square mile",53
+131,0.006 square miles,2.3 people,0.5,2.0,56.6 years,45.7 years,"$14,901",$259,Ballard-Park,19.8%,17.1%,24.9%,44.7%,8.8%,8.9%,23.9%,27.8%,46.3%,19.0%,68.5%,53.7%,22,"3,495 people per square mile",11
+132,1.166 square miles,4.5 people,1.3,1.8,41.3 years,38.7 years,"$80,819","$1,345",Ballast-Point,49.7%,11.9%,45.6%,31.3%,6.9%,7.6%,11.4%,47.1%,34.0%,0.8%,8.2%,71.1%,"2,938","2,519 people per square mile","1,474"
+133,0.010 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Ballast-Pointe-Heights,44.5%,5.8%,42.6%,34.3%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,6.7%,63.4%,54,"5,248 people per square mile",26
+134,0.004 square miles,2.2 people,1.0,1.5,54.2 years,50.5 years,"$35,333",$701,Banner-Oaks,36.6%,16.8%,31.6%,32.5%,5.2%,6.2%,20.8%,35.3%,42.6%,0.0%,17.3%,39.5%,8,"2,264 people per square mile",4
+135,0.014 square miles,2.5 people,0.8,0.8,29.2 years,23.1 years,"$16,516",$655,Barbara-Heights,51.4%,14.5%,9.0%,12.1%,3.9%,38.0%,21.9%,33.7%,47.9%,0.0%,35.3%,46.8%,118,"8,263 people per square mile",51
+136,0.004 square miles,1.8 people,1.2,1.5,33.4 years,32.5 years,"$66,607","$1,539",Barbara-Lane,32.2%,7.7%,25.9%,32.3%,2.1%,22.1%,24.3%,45.4%,44.7%,0.0%,21.1%,52.5%,4,990 people per square mile,2
+137,4,2.8 people,1.8,2.0,33.4 years,29.0 years,"$93,125","$1,042",Barcelona-Lofts,65.6%,7.2%,66.5%,40.5%,1.3%,4.0%,19.6%,44.2%,47.3%,0.0%,3.9%,86.1%,density:Barcelona,"5,164 people per square mile",2
+138,3,2.8 people,5.0,1.5,34.6 years,41.1 years,"$93,269","$1,043",Barcelona-Townhouses,57.9%,7.2%,60.7%,39.8%,1.3%,4.2%,18.3%,44.2%,47.3%,0.0%,1.1%,84.0%,density:Barcelona,"6,753 people per square mile",1
+139,0.001 square miles,3.0 people,1.4,1.5,37.9 years,40.0 years,"$33,571",$694,Barnhart,52.3%,10.7%,35.4%,18.9%,2.8%,15.7%,26.8%,19.4%,67.0%,0.0%,10.8%,41.3%,5,"4,014 people per square mile",3
+140,0.030 square miles,2.0 people,1.3,1.7,49.0 years,53.8 years,"$133,889","$2,121",Barr-City,43.8%,11.4%,56.9%,50.3%,2.1%,3.7%,13.4%,49.0%,37.5%,2.4%,8.3%,58.4%,257,"8,644 people per square mile",138
+141,0.011 square miles,NA,NA,NA,NA,NA,NA,NA,Barrett-Manor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+142,0.009 square miles,NA,NA,NA,NA,NA,NA,NA,Bavarian-Village-Condo-Apartments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+143,0.009 square miles,2.1 people,1.4,1.8,30.6 years,31.8 years,"$58,281",$958,Bay-Bluff,36.4%,11.4%,38.3%,50.5%,2.1%,16.4%,18.8%,49.0%,37.5%,0.0%,2.5%,88.6%,6,673 people per square mile,2
+144,0.058 square miles,NA,NA,NA,NA,NA,NA,NA,Bay-Breeze,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+145,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Bay-Bridge-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+146,0.043 square miles,2.1 people,1.4,1.8,31.0 years,32.2 years,"$59,064",$971,Bay-City,36.4%,11.4%,38.3%,44.2%,2.1%,16.4%,18.8%,49.0%,37.5%,0.0%,2.1%,88.6%,33,766 people per square mile,14
+147,0.422 square miles,NA,NA,NA,NA,NA,NA,NA,Bay-Crest-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+148,0.007 square miles,3.5 people,1.2,2.6,46.4 years,39.5 years,"$50,819",$590,Bay-Lake-Estates,53.7%,5.0%,52.9%,28.8%,3.5%,12.4%,11.1%,39.2%,52.3%,0.0%,3.6%,62.9%,3,447 people per square mile,1
+149,0.012 square miles,2.5 people,1.2,1.9,50.5 years,45.1 years,"$72,326",$971,Bay-Lake,46.9%,14.2%,60.2%,42.3%,1.7%,10.9%,14.5%,40.9%,43.3%,0.0%,1.3%,63.3%,7,587 people per square mile,3
+150,,NA,NA,NA,NA,NA,NA,NA,Bay-Park-Place-A-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+151,0.011 square miles,NA,NA,NA,NA,NA,NA,NA,Bay-Pointe-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+152,1.743 square miles,2.4 people,1.6,1.8,41.6 years,35.8 years,"$58,127","$1,319",Bay-Port-Colony,50.9%,18.7%,31.8%,13.5%,6.2%,19.3%,14.2%,44.4%,30.7%,3.1%,16.3%,49.2%,"4,622","2,651 people per square mile","2,047"
+153,,16.4%,6.5%,1.3%,18.8%,38.3%,$958,2.1 people,Bay-View-Bell-Towers-Condo,37.5%,13.0%,49.0%,2.1%,8.9%,1.4,1.8,3.8%,242.5,88.6%,11.4%,5.9%,NA,"$58,281",36.4%
+154,0.071 square miles,0.2 people,6.3,2.0,3.1 years,2.4 years,"$6,434",$72,Bay-View-Estate,35.6%,6.9%,68.8%,42.2%,0.4%,2.3%,9.8%,48.8%,43.9%,0.0%,2.2%,36.9%,10,140 people per square mile,5
+155,,NA,NA,NA,NA,NA,NA,NA,Bay-Villa-Place-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+156,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Bay-Villa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+157,,16.4%,6.5%,1.3%,18.8%,38.3%,$958,2.1 people,Bay-Villa-Townhomes-A-Condo,37.5%,13.0%,49.0%,2.1%,8.9%,1.4,1.8,3.8%,242.5,88.6%,11.4%,5.9%,NA,"$58,281",36.4%
+158,0.014 square miles,2.8 people,1.5,1.7,40.5 years,40.5 years,"$98,824","$1,100",Baya-Vista,56.4%,18.5%,51.0%,24.3%,5.5%,16.5%,9.5%,46.2%,29.8%,0.0%,11.8%,64.8%,8,565 people per square mile,4
+159,0.019 square miles,29.0 people,1.3,1.9,56.3 years,46.3 years,"$41,667",$726,Bayamo,37.1%,22.0%,25.5%,25.5%,3.0%,8.2%,27.1%,26.9%,48.1%,13.1%,15.5%,76.1%,63,"3,242 people per square mile",30
+160,0.250 square miles,NA,NA,NA,NA,NA,NA,NA,Baybridge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+161,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Bayfair,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+162,0.025 square miles,2.8 people,1.9,1.6,41.4 years,38.1 years,"$82,662","$1,504",Bayhaven,69.3%,18.5%,36.4%,7.7%,5.5%,9.0%,25.2%,46.2%,29.8%,3.0%,21.8%,70.2%,71,"2,856 people per square mile",37
+163,0.113 square miles,2.8 people,1.5,1.7,40.5 years,40.5 years,"$98,824","$1,100",Bayhill-Estates,56.4%,18.5%,51.0%,22.6%,5.5%,16.5%,9.5%,46.2%,29.8%,1.7%,11.0%,64.8%,68,601 people per square mile,35
+164,0.001 square miles,2.1 people,1.1,2.2,47.2 years,35.8 years,"$103,810","$1,395",Baylife-Luxury-Townhomes,26.8%,6.9%,32.2%,44.7%,0.4%,24.3%,19.6%,48.8%,43.9%,0.0%,3.2%,77.4%,12,"11,146 people per square mile",6
+165,0.003 square miles,78.5%,4.5%,242.5,60.5%,50.7%,"$68,875","$1,034",Baypointe,2.0%,67.2%,11.4%,13.4%,1.8,47.9%,38.0%,1.8,5.8%,8.2%,0.0%,3.7%,1,313 people per square mile,2.4 people
+166,0.063 square miles,NA,NA,NA,NA,NA,NA,NA,Bayport-Village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+167,0.077 square miles,2.1 people,1.6,1.4,43.9 years,33.0 years,"$55,325","$1,234",Bayport-West,46.4%,18.7%,27.4%,4.3%,6.2%,24.0%,11.4%,44.4%,30.7%,6.0%,36.1%,54.2%,153,"1,997 people per square mile",55
+168,0.032 square miles,2.5 people,1.7,2.0,51.3 years,44.6 years,"$146,875","$1,641",Bayshore-Beautiful,49.8%,11.4%,64.3%,35.2%,2.1%,10.1%,16.0%,49.0%,37.5%,3.2%,5.6%,76.9%,255,"8,011 people per square mile",131
+169,,NA,NA,NA,NA,NA,NA,NA,Bayshore-Beautiful-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+170,0.015 square miles,2.5 people,1.7,2.0,51.3 years,44.6 years,"$146,875","$1,641",Bayshore-Court,49.8%,11.4%,64.3%,35.2%,2.1%,10.1%,16.0%,49.0%,37.5%,3.5%,5.6%,76.9%,119,"8,109 people per square mile",61
+171,0.017 square miles,2.3 people,1.6,1.9,40.2 years,37.8 years,"$99,510","$1,595",Bayshore-Crest,48.9%,11.4%,62.5%,35.8%,2.1%,10.5%,16.1%,49.0%,37.5%,2.3%,5.4%,77.2%,90,"5,148 people per square mile",46
+172,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Diplomat-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+173,0.058 square miles,1.3 people,1.2,1.5,24.6 years,23.9 years,"$49,058","$1,134",Bayshore-Estates,32.2%,7.7%,25.9%,29.7%,2.1%,22.1%,24.3%,45.4%,44.7%,0.0%,19.4%,52.5%,20,343 people per square mile,10
+174,0.203 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Gardens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+175,,13.4%,2.4%,7.0%,11.4%,60.5%,"$1,034",2.4 people,Bayshore-Haven,38.0%,4.8%,47.9%,8.2%,3.7%,1.8,1.8,4.5%,242.5,67.2%,5.8%,4.5%,NA,"$68,875",50.7%
+176,,13.4%,2.4%,7.0%,11.4%,60.5%,"$1,034",2.4 people,Bayshore-Haven-Townhomes,38.0%,4.8%,47.9%,8.2%,3.7%,1.8,1.8,4.5%,242.5,67.2%,5.8%,4.5%,NA,"$68,875",50.7%
+177,0.003 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Bayshore-Landings-Condo,44.5%,5.8%,42.6%,36.0%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,7.0%,63.4%,15,"5,016 people per square mile",7
+178,0.002 square miles,13.4%,2.4%,7.0%,11.4%,60.5%,"$1,034",2.4 people,Bayshore-On-The-Boulevard-Condo,38.0%,4.8%,47.9%,8.2%,3.7%,1.8,1.8,4.5%,242.5,67.2%,5.8%,4.5%,NA,"$68,875",50.7%
+179,0.002 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Bayshore-Palms,44.5%,5.8%,42.6%,34.3%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,6.7%,63.4%,9,"5,591 people per square mile",4
+180,,NA,NA,NA,NA,NA,NA,NA,Bayshore-Place-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+181,0.044 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Place,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+182,,NA,NA,NA,NA,NA,NA,NA,Bayshore-Pointe-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+183,0.024 square miles,2.8 people,1.5,1.7,40.5 years,40.5 years,"$98,824","$1,100",Bayshore-Pointe-Townhomes,56.4%,18.5%,51.0%,23.3%,5.5%,16.5%,9.5%,46.2%,29.8%,0.0%,11.3%,64.8%,14,584 people per square mile,7
+184,,NA,NA,NA,NA,NA,NA,NA,Bayshore-Promenade-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+185,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Regency-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+186,0.010 square miles,2.7 people,1.9,1.6,43.0 years,33.6 years,"$52,452","$1,514",Bayshore-Reserve,69.5%,18.5%,36.2%,7.5%,5.5%,8.8%,25.5%,46.2%,29.8%,3.6%,22.5%,70.3%,29,"2,931 people per square mile",15
+187,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Royal-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+188,,NA,NA,NA,NA,NA,NA,NA,Bayshore-Square-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+189,0.973 square miles,7.7 people,1.5,1.8,44.5 years,41.3 years,"$100,625","$1,747",Bayshore,46.4%,11.0%,54.7%,34.4%,2.1%,9.4%,16.6%,48.5%,38.5%,2.3%,8.7%,71.5%,"4,690","4,823 people per square mile","2,426"
+190,0.003 square miles,2.1 people,1.4,1.8,30.6 years,31.8 years,"$58,281",$958,Bayshore-Towers-Condo,36.4%,11.4%,38.3%,86.6%,2.1%,16.4%,18.8%,49.0%,37.5%,0.0%,4.2%,88.6%,1,390 people per square mile,0
+191,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Trace-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+192,0.024 square miles,2.8 people,1.9,1.6,41.4 years,38.1 years,"$82,662","$1,508",Bayshore-Trails-Townhomes,69.4%,18.5%,36.3%,7.6%,5.5%,8.9%,25.4%,46.2%,29.8%,3.1%,22.0%,70.2%,69,"2,906 people per square mile",36
+193,0.025 square miles,27.0 people,1.6,2.0,55.8 years,51.9 years,"$108,250","$1,125",Bayshore-Villas-Condo,48.8%,11.4%,46.0%,15.6%,2.1%,8.5%,16.1%,49.0%,37.5%,0.0%,24.6%,68.5%,37,"1,476 people per square mile",19
+194,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Bayshore-Walk-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+195,0.005 square miles,1.9 people,1.2,1.7,34.0 years,37.5 years,"$61,413",$908,Bayshore-West,43.0%,6.1%,36.0%,38.2%,3.3%,22.6%,6.3%,53.9%,36.7%,0.0%,15.6%,75.3%,30,"6,142 people per square mile",14
+196,0.004 square miles,1.9 people,1.2,1.7,34.0 years,37.5 years,"$61,413",$908,Bayshore-West-Townhomes,43.0%,6.1%,36.0%,37.4%,3.3%,22.6%,6.3%,53.9%,36.7%,0.0%,15.3%,75.3%,23,"5,932 people per square mile",10
+197,0.016 square miles,NA,NA,NA,NA,NA,NA,NA,Bayside-East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+198,0.020 square miles,NA,NA,NA,NA,NA,NA,NA,Bayside-Key,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+199,0.044 square miles,NA,NA,NA,NA,NA,NA,NA,Bayside-South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+200,0.006 square miles,2.1 people,1.6,1.7,29.9 years,45.0 years,"$104,818","$1,412",Bayside,27.1%,8.3%,26.5%,19.8%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,21.2%,89.7%,23,"3,840 people per square mile",10
+201,0.052 square miles,NA,NA,NA,NA,NA,NA,NA,Bayside-Village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+202,0.066 square miles,NA,NA,NA,NA,NA,NA,NA,Bayside-West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+203,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Bayswater-Close-at-Olde-Hyde-Park-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+204,0.024 square miles,2.7 people,1.8,1.8,47.4 years,24.1 years,"$93,125","$1,042",Bayview-Homes,41.2%,6.9%,69.3%,36.9%,0.7%,6.2%,11.7%,47.6%,44.8%,0.0%,4.6%,48.0%,91,"3,790 people per square mile",50
+205,0.033 square miles,0.8 people,1.2,1.6,18.1 years,21.8 years,"$32,642",$563,Baywood,20.7%,8.3%,10.7%,63.4%,3.0%,34.9%,32.0%,58.5%,30.1%,0.0%,46.1%,36.8%,5,153 people per square mile,2
+206,0.012 square miles,10.9 people,1.7,1.8,41.8 years,44.1 years,"$94,129",$910,Beach-Park-Annex,55.6%,10.5%,51.0%,32.6%,1.9%,12.5%,12.4%,44.0%,43.6%,0.0%,9.0%,61.9%,22,"1,912 people per square mile",9
+207,0.043 square miles,2.4 people,1.2,2.7,33.1 years,38.5 years,"$133,279","$1,539",Beach-Park-Isles,74.9%,7.7%,73.9%,30.2%,2.1%,12.1%,19.5%,45.4%,44.7%,0.0%,26.3%,69.0%,19,444 people per square mile,9
+208,0.003 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Beach-Park-Place,54.5%,7.7%,57.1%,30.0%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,7.0%,47.6%,14,"4,563 people per square mile",5
+209,1.108 square miles,4.9 people,1.5,1.9,41.6 years,44.1 years,"$126,254","$1,275",Beach-Park,45.2%,9.0%,52.8%,29.8%,2.0%,16.3%,12.8%,44.8%,44.2%,1.0%,7.2%,58.4%,"3,307","2,985 people per square mile","1,482"
+210,4,2.2 people,1.3,1.8,54.0 years,40.5 years,"$85,250",$928,Beach-Park-Terrace-Condo,39.6%,11.1%,28.4%,17.4%,1.8%,12.4%,30.5%,43.7%,43.4%,0.0%,6.6%,57.4%,density:Beach,"4,187 people per square mile",2
+211,0.011 square miles,1.9 people,1.6,1.7,26.8 years,40.4 years,"$94,049","$1,267",Beach-Place,27.1%,8.3%,26.5%,20.1%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,21.5%,89.7%,47,"4,194 people per square mile",21
+212,0.017 square miles,3.9 people,1.1,2.1,65.3 years,66.2 years,"$196,383","$1,377",Beach-Way,48.0%,9.0%,73.1%,33.4%,2.0%,11.5%,7.6%,44.7%,44.2%,0.0%,3.3%,65.6%,44,"2,649 people per square mile",20
+213,0.066 square miles,NA,NA,NA,NA,NA,NA,NA,Beachwalk-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+214,0.018 square miles,1.0 people,1.4,2.2,18.9 years,20.0 years,"$22,320",$419,Beacon-Hill,17.9%,18.2%,40.6%,41.6%,0.7%,17.1%,18.0%,34.2%,46.9%,0.0%,26.5%,54.8%,18,"1,008 people per square mile",9
+215,0.111 square miles,2.9 people,12.0,4.6,49.7 years,51.2 years,"$130,809","$1,081",Beacon-Meadows,66.7%,17.3%,77.9%,27.0%,8.3%,18.0%,15.7%,35.8%,38.7%,16.1%,5.2%,52.6%,211,"1,902 people per square mile",95
+216,0.006 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Bean-s,54.5%,7.7%,57.1%,29.0%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,6.7%,47.6%,29,"5,048 people per square mile",11
+217,0.040 square miles,2.5 people,1.2,1.9,50.5 years,45.1 years,"$72,326",$971,Bearss-And-Stall-s-Bay-Lake,46.9%,14.2%,60.2%,39.0%,1.7%,10.9%,14.5%,40.9%,43.3%,0.0%,1.2%,63.3%,26,643 people per square mile,13
+218,0.019 square miles,2.2 people,1.0,1.7,30.1 years,43.5 years,"$20,362",$725,Bearss-Glen,54.6%,14.8%,10.2%,17.5%,11.2%,54.0%,5.6%,39.3%,34.7%,0.0%,45.3%,71.9%,37,"1,956 people per square mile",12
+219,0.026 square miles,2.2 people,1.0,1.7,30.1 years,43.5 years,"$20,362",$725,Bearss-Heights,54.6%,14.8%,10.2%,17.5%,11.2%,54.0%,5.6%,39.3%,34.7%,2.2%,45.3%,71.9%,51,"1,949 people per square mile",16
+220,0.250 square miles,3.0 people,1.1,1.5,35.0 years,29.3 years,"$26,907",$881,Beasley,40.9%,14.0%,26.3%,3.4%,4.7%,24.5%,17.9%,19.8%,61.5%,19.4%,34.2%,85.5%,971,"3,878 people per square mile",443
+221,0.007 square miles,1.7 people,2.8,2.4,53.0 years,53.8 years,"$135,985","$1,168",Beasley-s,58.7%,6.9%,60.6%,36.0%,0.4%,4.1%,26.2%,48.8%,43.9%,0.0%,22.9%,46.2%,8,"1,189 people per square mile",3
+222,0.013 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,Bel-Aire,39.4%,39.3%,30.9%,39.8%,9.4%,20.3%,12.6%,22.1%,29.2%,8.0%,15.5%,34.1%,29,"2,315 people per square mile",12
+223,0.006 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Bel-Grand,54.5%,7.7%,57.1%,29.0%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,6.7%,47.6%,29,"4,812 people per square mile",11
+224,0.010 square miles,NA,NA,NA,NA,NA,NA,NA,Bel-Hazzan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+225,0.028 square miles,0.8 people,4.6,5.2,10.2 years,10.8 years,"$29,828",$367,Bel-Mar-Revised-Island,65.2%,6.9%,66.4%,30.2%,1.6%,15.8%,13.3%,41.8%,49.7%,0.0%,5.4%,71.4%,9,316 people per square mile,4
+226,0.456 square miles,7.3 people,1.6,2.1,34.3 years,31.1 years,"$77,693",$857,Bel-Mar-Revised,56.8%,6.9%,61.4%,31.4%,1.9%,11.7%,14.5%,41.4%,49.8%,0.7%,3.9%,76.1%,315,691 people per square mile,162
+227,0.205 square miles,2.6 people,1.5,2.0,45.9 years,39.0 years,"$92,167","$1,378",Bel-Mar-Shores,53.7%,6.9%,49.1%,29.0%,1.6%,6.7%,17.2%,41.8%,49.7%,0.0%,9.6%,67.1%,183,893 people per square mile,99
+228,0.186 square miles,2.3 people,1.5,1.3,40.9 years,34.8 years,"$94,366","$1,236",Bel-Mar,53.8%,6.5%,53.4%,22.3%,2.1%,8.9%,16.7%,39.4%,52.0%,0.8%,4.5%,71.2%,464,"2,489 people per square mile",253
+229,0.186 square miles,2.3 people,1.5,1.3,40.9 years,34.8 years,"$94,366","$1,236",Bel-Mar,53.8%,6.5%,53.4%,22.3%,2.1%,8.9%,16.7%,39.4%,52.0%,0.8%,4.5%,71.2%,464,"2,489 people per square mile",253
+230,0.002 square miles,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Bel-Wil,23.1%,9.1%,21.9%,33.7%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.7%,81.6%,31,"14,082 people per square mile",8
+231,0.003 square miles,1.8 people,1.2,1.7,35.3 years,37.8 years,"$66,325",$829,Bell-Park,24.7%,11.1%,31.9%,59.3%,1.8%,33.7%,12.7%,43.7%,43.4%,0.0%,4.6%,69.7%,7,"2,483 people per square mile",3
+232,0.022 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Bella-Casa,59.5%,14.3%,73.2%,22.8%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.3%,82.7%,6,279 people per square mile,3
+233,0.004 square miles,2.4 people,1.3,1.7,45.1 years,49.3 years,"$28,843",$798,Bella-Terraza-Townhomes,53.1%,8.7%,17.1%,25.3%,6.9%,27.8%,20.6%,36.5%,47.9%,0.0%,17.8%,58.1%,20,"5,692 people per square mile",7
+234,0.021 square miles,3.9 people,2.3,2.2,62.1 years,61.5 years,"$83,325","$1,074",Bella-Vista,59.5%,14.3%,73.2%,23.3%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.4%,82.7%,12,560 people per square mile,7
+235,0.017 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Bella-Vita,59.5%,14.3%,73.2%,26.9%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,9.7%,82.7%,4,236 people per square mile,2
+236,0.006 square miles,3.2 people,11.9,2.4,36.9 years,45.4 years,"$108,438","$1,315",Bellamy,64.1%,16.1%,75.6%,36.7%,1.4%,13.7%,10.3%,41.7%,40.8%,0.0%,1.4%,79.4%,3,534 people per square mile,1
+237,0.066 square miles,37.0 people,1.8,2.0,46.4 years,32.8 years,"$76,595","$1,178",Belle-Glen,60.7%,16.1%,60.5%,31.9%,1.4%,13.1%,17.1%,41.7%,40.8%,8.2%,0.8%,68.8%,161,"2,455 people per square mile",89
+238,0.014 square miles,2.1 people,1.4,1.8,30.6 years,31.8 years,"$58,281",$958,Belle-Vista,36.4%,11.4%,38.3%,46.2%,2.1%,16.4%,18.8%,49.0%,37.5%,0.0%,2.2%,88.6%,10,739 people per square mile,4
+239,0.059 square miles,3.2 people,1.2,1.8,43.7 years,29.2 years,"$46,500","$1,043",Bellefield-Village,52.4%,27.8%,40.5%,21.1%,8.0%,16.5%,14.5%,32.8%,31.4%,10.7%,8.3%,72.0%,444,"7,558 people per square mile",205
+240,0.043 square miles,2.9 people,1.9,1.7,38.3 years,33.8 years,"$53,750",$897,Bellingham-Oaks,47.4%,25.3%,44.9%,12.2%,6.6%,11.0%,17.2%,32.6%,35.4%,8.3%,22.2%,79.1%,124,"2,887 people per square mile",56
+241,0.019 square miles,2.4 people,1.0,1.3,34.4 years,37.4 years,"$25,806",$484,Bellmere,36.0%,6.6%,14.5%,16.0%,2.7%,19.1%,29.3%,22.1%,68.6%,0.0%,19.6%,66.2%,26,"1,339 people per square mile",15
+242,0.088 square miles,2.6 people,1.5,2.0,45.9 years,39.0 years,"$92,167","$1,378",Belmar-Shore,53.7%,6.9%,49.1%,29.1%,1.6%,6.7%,17.2%,41.8%,49.7%,0.0%,9.6%,67.1%,78,890 people per square mile,42
+243,0.649 square miles,1.2 people,0.9,1.5,14.9 years,11.6 years,"$11,622",$311,Belmont-Heights,36.1%,8.9%,15.6%,10.6%,3.1%,29.3%,27.9%,16.9%,71.1%,6.6%,24.1%,52.4%,721,"1,111 people per square mile",352
+244,0.007 square miles,2.2 people,0.7,1.1,38.3 years,28.2 years,"$23,342",$587,Belmont-Homesites,26.5%,3.8%,8.4%,15.5%,4.9%,27.8%,27.8%,24.5%,66.8%,0.0%,29.4%,28.0%,30,"4,096 people per square mile",14
+245,0.002 square miles,1.6 people,1.1,1.3,33.8 years,42.7 years,"$55,643",$880,Belmont,12.2%,12.3%,13.2%,2.4%,7.2%,24.4%,34.9%,32.5%,48.0%,0.0%,63.0%,56.1%,5,"2,312 people per square mile",2
+246,0.011 square miles,34.0 people,0.8,1.6,34.3 years,33.8 years,"$22,375",$815,Belt-Court,55.4%,7.4%,23.1%,3.0%,8.4%,25.1%,11.4%,36.6%,47.6%,8.9%,20.3%,66.9%,54,"4,997 people per square mile",25
+247,0.003 square miles,2.5 people,1.0,1.7,56.1 years,37.9 years,"$21,875",$900,Belvedere-Acres,28.5%,22.0%,31.7%,42.1%,3.0%,23.7%,35.3%,26.9%,48.1%,0.0%,13.4%,41.6%,6,"1,850 people per square mile",3
+248,0.091 square miles,2.3 people,1.3,1.6,37.5 years,35.2 years,"$79,981","$1,558",Belvedere-Park,37.2%,19.3%,23.2%,25.1%,4.4%,15.1%,29.6%,38.3%,38.0%,0.0%,16.7%,52.3%,32,352 people per square mile,16
+249,0.030 square miles,3.7 people,0.9,2.4,26.1 years,41.2 years,"$20,750",$645,Belvedere-Place,48.1%,28.6%,28.5%,14.2%,6.5%,27.2%,9.4%,24.3%,40.6%,18.7%,11.4%,44.3%,368,"12,435 people per square mile",148
+250,0.001 square miles,2.5 people,1.0,1.3,36.3 years,39.5 years,"$27,250",$511,Belvoir,36.0%,6.6%,14.5%,18.9%,2.7%,19.1%,29.3%,22.1%,68.6%,0.0%,23.2%,66.2%,3,"2,576 people per square mile",2
+251,0.061 square miles,2.7 people,2.1,1.8,40.0 years,43.1 years,"$58,750",$856,Benjamin-Center,36.5%,37.6%,37.0%,11.3%,11.3%,8.2%,31.9%,22.4%,28.7%,18.9%,4.8%,61.5%,40,655 people per square mile,20
+252,0.177 square miles,3.5 people,1.4,2.2,44.4 years,49.2 years,"$52,791","$1,103",Benjamin-s-Farm,58.3%,31.4%,42.9%,10.5%,4.0%,22.9%,24.0%,31.1%,33.5%,17.9%,15.8%,58.4%,632,"3,566 people per square mile",307
+253,0.005 square miles,NA,NA,NA,NA,NA,NA,NA,Benttree-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+254,6,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Berkeley-Square-Condo,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,density:Berkeley,"12,597 people per square mile",1
+255,0.013 square miles,NA,NA,NA,NA,NA,NA,NA,Berkeley-Square,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+256,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Berkeley-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+257,0.030 square miles,3.2 people,11.9,2.4,36.9 years,45.4 years,"$108,438","$1,315",Berkford-Place,64.1%,16.1%,75.6%,30.5%,1.4%,13.7%,10.3%,41.7%,40.8%,0.0%,1.1%,79.4%,20,656 people per square mile,9
+258,0.012 square miles,27.0 people,1.6,2.0,55.8 years,51.9 years,"$108,250","$1,125",Berriman-Place,48.8%,11.4%,46.0%,16.1%,2.1%,8.5%,16.1%,49.0%,37.5%,0.0%,25.4%,68.5%,17,"1,451 people per square mile",9
+259,0.002 square miles,2.5 people,0.8,1.6,28.8 years,36.1 years,"$17,583",$621,Berryhill,45.9%,9.5%,38.4%,15.9%,1.3%,14.1%,22.9%,33.8%,55.4%,0.0%,22.7%,46.9%,3,"1,227 people per square mile",1
+260,0.009 square miles,3.2 people,0.8,1.7,26.0 years,20.8 years,"$24,554",$656,Bethel-Heights,67.3%,6.4%,8.7%,4.5%,3.4%,46.4%,30.7%,13.8%,76.4%,2.6%,27.3%,59.6%,47,"5,398 people per square mile",18
+261,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Betty-Jean-Heights,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+262,0.009 square miles,4.2 people,37.5%,1.5,41.0 years,32.8 years,"$56,671",$846,Beverly-Heights,52.9%,1.9,46.4%,14.3%,16.6%,15.9%,20.8%,2.6%,25.9%,54.9%,14.5%,242.5,6,674 people per square mile,2
+263,0.011 square miles,26.0 people,1.2,1.7,43.2 years,31.3 years,"$46,667",$843,Beverly-Park,49.4%,26.5%,41.4%,42.1%,7.3%,23.5%,29.6%,31.9%,34.2%,5.0%,6.9%,58.2%,80,"6,962 people per square mile",40
+264,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Bienville-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+265,0.003 square miles,2.2 people,1.1,14.0,29.4 years,27.6 years,"$38,214",$773,Big-Oak-Reserve-Condo,40.0%,15.7%,19.8%,16.7%,8.2%,26.3%,23.9%,35.7%,40.4%,0.0%,31.3%,25.5%,12,"4,430 people per square mile",6
+266,0.028 square miles,3.0 people,1.4,1.5,37.9 years,40.0 years,"$33,571",$694,Big-Oaks,52.3%,10.7%,35.4%,16.1%,2.8%,15.7%,26.8%,19.4%,67.0%,3.9%,9.2%,41.3%,131,"4,611 people per square mile",73
+267,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Billups-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Billups,"13,684 people per square mile",2
+268,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Bingham-s-Baybridge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+269,9,2.8 people,1.1,1.5,41.0 years,40.6 years,"$44,722",$765,Blue-Moon-Court,36.0%,6.6%,26.1%,15.7%,2.7%,17.0%,32.3%,22.1%,68.6%,0.0%,21.0%,83.8%,density:Blue,"12,297 people per square mile",4
+270,0.109 square miles,0.5 people,0.8,1.6,14.2 years,13.3 years,"$23,234",$305,Bon-Air,11.1%,9.4%,14.9%,45.2%,4.1%,26.5%,19.1%,41.3%,45.2%,3.4%,3.7%,39.4%,28,256 people per square mile,13
+271,0.014 square miles,2.2 people,1.7,1.4,42.4 years,51.3 years,"$24,009",$649,Bonniehaven,27.9%,28.6%,21.8%,37.5%,6.5%,10.4%,28.9%,24.3%,40.6%,21.9%,71.0%,66.7%,77,"5,333 people per square mile",42
+272,0.011 square miles,2.3 people,0.8,1.1,25.4 years,17.0 years,"$15,789",$603,Booker-T-Park,40.6%,3.8%,5.8%,1.6%,4.9%,40.2%,18.3%,24.5%,66.8%,3.8%,37.0%,53.3%,108,"10,059 people per square mile",36
+273,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Bordeaux-Village-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+274,0.007 square miles,2.5 people,0.8,0.8,29.2 years,23.1 years,"$16,516",$655,Bougainvillea-Oaks,51.4%,14.5%,9.0%,12.1%,3.9%,38.0%,21.9%,33.7%,47.9%,0.0%,35.3%,46.8%,59,"8,485 people per square mile",25
+275,0.014 square miles,1.8 people,1.1,1.3,37.2 years,49.4 years,"$16,494",$450,Bougenvista,46.6%,19.4%,15.8%,22.1%,16.9%,6.4%,11.7%,32.9%,30.8%,20.9%,31.3%,23.0%,45,"3,179 people per square mile",23
+276,0.071 square miles,5.9 people,1.6,2.0,27.4 years,24.5 years,"$67,069",$844,Boulevard-Heights,49.3%,11.4%,54.8%,28.8%,2.1%,9.2%,16.0%,49.0%,37.5%,1.1%,11.9%,72.6%,48,679 people per square mile,25
+277,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,Boulevard-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+278,0.034 square miles,2.7 people,1.8,1.4,38.9 years,46.0 years,"$24,683",$785,Bowman-Heights,47.8%,41.4%,30.1%,26.5%,3.3%,17.2%,13.0%,18.1%,37.2%,27.0%,9.4%,35.8%,228,"6,651 people per square mile",117
+279,1,47.2%,15.3%,242.5,38.6%,48.0%,"$49,076",$794,Branch-Court-Condo,27.1%,90.1%,17.2%,19.1%,1.3,48.7%,42.3%,1.7,6.0%,3.0%,0.0%,5.1%,density:Branch,"1,784 people per square mile",2.4 people
+280,0.009 square miles,25.0 people,1.9,1.7,43.6 years,46.5 years,"$63,472",$636,Brandychase-Condo,37.7%,10.8%,42.4%,34.0%,2.1%,23.0%,17.7%,48.7%,38.3%,0.0%,27.8%,58.7%,22,"2,580 people per square mile",9
+281,0.051 square miles,2.0 people,1.0,1.7,27.9 years,30.8 years,"$29,063",$712,Breckenridge-Park,34.4%,21.1%,28.1%,21.2%,4.0%,18.5%,32.0%,29.1%,45.8%,7.7%,31.5%,69.7%,14,274 people per square mile,8
+282,0.045 square miles,NA,NA,NA,NA,NA,NA,NA,Brentwood-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+283,0.063 square miles,2.7 people,1.4,2.0,43.8 years,40.2 years,"$80,000",$897,Brentwood,48.6%,14.2%,57.8%,34.6%,1.7%,12.2%,19.5%,40.9%,43.3%,4.6%,1.9%,56.8%,363,"5,784 people per square mile",192
+284,0.002 square miles,2.2 people,1.2,1.5,47.4 years,39.6 years,"$51,793",$897,Bretton-Woods-at-Westshore-Condo,38.6%,26.5%,34.3%,25.3%,7.3%,9.2%,12.7%,31.9%,34.2%,0.0%,13.3%,75.9%,5,"2,448 people per square mile",2
+285,0.076 square miles,NA,NA,NA,NA,NA,NA,NA,Briarwood,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+286,0.036 square miles,2.6 people,1.4,2.2,33.8 years,33.9 years,"$47,101",$816,Bridgeford-Oaks,59.9%,14.4%,43.5%,27.8%,7.2%,17.7%,18.6%,35.2%,43.1%,6.9%,10.0%,72.3%,173,"4,767 people per square mile",82
+287,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Bridgeview-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+288,0.049 square miles,3.6 people,82.7%,2.3,56.3 years,55.8 years,"$75,552",$869,Brigadoon-on-Lake-Heather-Townhome,59.5%,2.2,73.2%,23.5%,19.0%,3.2%,14.4%,5.3%,41.2%,34.5%,8.5%,"$815,628",12,247 people per square mile,7
+289,0.002 square miles,13.4%,2.4%,7.0%,11.4%,60.5%,"$1,034",2.4 people,Brigantine-Condo,38.0%,4.8%,47.9%,8.2%,3.7%,1.8,1.8,4.5%,242.5,67.2%,5.8%,4.5%,NA,"$68,875",50.7%
+290,0.046 square miles,3.2 people,1.2,1.8,43.7 years,29.2 years,"$46,500","$1,043",Brightside-Village,52.4%,27.8%,40.5%,21.1%,8.0%,16.5%,14.5%,32.8%,31.4%,10.7%,8.3%,72.0%,345,"7,550 people per square mile",160
+291,0.040 square miles,NA,NA,NA,NA,NA,NA,NA,Brightwater,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+292,0.109 square miles,2.1 people,1.0,1.5,34.0 years,31.9 years,"$72,454","$1,116",Broadmoor-Park,54.9%,26.5%,37.5%,13.1%,7.3%,8.9%,31.3%,31.9%,34.2%,12.9%,26.1%,69.6%,300,"2,745 people per square mile",170
+293,0.032 square miles,2.5 people,0.8,1.6,28.8 years,36.1 years,"$17,583",$621,Broadway,45.9%,9.5%,38.4%,14.2%,1.3%,14.1%,22.9%,33.8%,55.4%,0.0%,20.3%,46.9%,42,"1,327 people per square mile",21
+294,0.005 square miles,NA,NA,NA,NA,NA,NA,NA,Brompton-Place,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+295,0.042 square miles,2.9 people,2.0,1.7,49.9 years,33.4 years,"$58,991",$829,Brookgreen-Village,53.0%,27.8%,46.8%,15.4%,8.0%,13.0%,26.2%,32.8%,31.4%,7.7%,4.9%,71.3%,287,"6,860 people per square mile",151
+296,0.003 square miles,2.9 people,0.8,1.7,38.8 years,40.9 years,"$42,167",$517,Brookshire-Condo,60.7%,22.8%,37.2%,22.1%,8.2%,16.9%,16.5%,32.3%,36.7%,7.1%,14.6%,52.0%,14,"4,786 people per square mile",6
+297,0.060 square miles,8.3 people,1.8,2.1,18.0 years,16.2 years,"$35,064",$547,Brookshire,60.4%,18.2%,60.0%,30.7%,1.9%,13.2%,16.4%,39.8%,40.2%,7.1%,2.5%,70.8%,42,703 people per square mile,22
+298,0.034 square miles,3.2 people,1.0,1.7,20.6 years,22.5 years,"$29,097",$730,Brookside,58.4%,17.5%,28.6%,8.4%,9.5%,12.0%,21.4%,22.1%,51.0%,0.0%,19.9%,44.0%,19,562 people per square mile,9
+299,0.010 square miles,1.9 people,1.4,1.7,30.7 years,32.5 years,"$70,688","$1,472",Brownell-s-Memorial-Villa,34.5%,18.1%,21.0%,32.2%,3.9%,16.5%,29.2%,39.4%,38.6%,0.0%,17.3%,42.3%,3,291 people per square mile,1
+300,0.002 square miles,32.0 people,1.8,1.9,30.9 years,30.8 years,"$135,985","$1,620",Brownstones-of-Soho,60.6%,6.9%,48.0%,31.0%,0.4%,12.4%,16.1%,48.8%,43.9%,0.0%,2.8%,81.5%,8,"4,189 people per square mile",3
+301,,16.5%,1.7%,2.9%,29.2%,21.0%,"$1,472",1.9 people,Buccaneer-Center-Condo,38.6%,4.1%,39.4%,3.9%,12.5%,1.4,1.7,15.9%,242.5,42.3%,18.1%,2.3%,NA,"$70,688",34.5%
+302,0.006 square miles,2.2 people,0.7,1.7,36.8 years,31.5 years,"$32,969",$771,Buckeye-Heights,37.7%,6.8%,19.1%,9.5%,7.9%,19.4%,34.4%,35.3%,50.0%,0.0%,35.2%,68.5%,28,"4,478 people per square mile",15
+303,0.142 square miles,NA,NA,NA,NA,NA,NA,NA,Buckingham-at-Tampa-Palms,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+304,0.097 square miles,32.4 people,1.2,1.6,24.3 years,22.4 years,"$30,099",$651,Buffalo-Ave-Farms,56.8%,12.5%,37.1%,20.9%,7.8%,22.8%,20.5%,32.5%,47.2%,0.0%,11.6%,69.1%,67,694 people per square mile,34
+305,0.039 square miles,2.9 people,0.6,2.0,46.2 years,43.3 years,"$28,371",$790,Buffalo-Estates,56.1%,18.2%,17.6%,5.4%,6.9%,30.2%,26.5%,19.7%,55.2%,7.5%,26.8%,66.3%,228,"5,883 people per square mile",103
+306,0.004 square miles,2.5 people,0.7,1.4,28.9 years,33.3 years,"$28,571",$752,Buffalo-Gardens,47.2%,15.7%,10.6%,4.1%,4.2%,24.0%,29.8%,20.0%,60.1%,0.0%,27.1%,53.2%,13,"3,422 people per square mile",5
+307,0.090 square miles,2.4 people,2.5,1.8,45.6 years,38.8 years,"$57,919","$1,251",Buffalo-Heights,50.1%,11.8%,32.9%,17.7%,2.7%,28.5%,20.1%,38.0%,47.5%,0.9%,20.8%,65.0%,472,"5,246 people per square mile",204
+308,0.016 square miles,3.0 people,0.7,1.4,34.4 years,39.7 years,"$34,051",$896,Buffalo-Park,47.2%,15.7%,10.6%,4.0%,4.2%,24.0%,29.8%,20.0%,60.1%,5.7%,26.4%,53.2%,43,"2,713 people per square mile",19
+309,0.007 square miles,3.2 people,1.0,1.6,39.2 years,25.9 years,"$42,634",$579,Buffalo,56.1%,6.8%,40.2%,6.6%,7.9%,23.2%,34.9%,35.3%,50.0%,0.0%,9.5%,88.6%,57,"8,126 people per square mile",34
+310,0.063 square miles,2.6 people,0.8,1.8,29.5 years,34.9 years,"$17,504",$622,Bunchville,45.8%,9.5%,38.3%,15.1%,1.3%,14.1%,23.0%,33.8%,55.4%,1.5%,20.3%,45.3%,79,"1,253 people per square mile",39
+311,0.044 square miles,2.2 people,1.2,1.5,26.9 years,43.5 years,"$112,472",$908,Bungalow-City,23.1%,9.1%,21.9%,33.7%,4.5%,50.6%,13.3%,41.0%,45.4%,1.6%,3.7%,81.6%,329,"7,417 people per square mile",92
+312,0.001 square miles,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Bungalow-Park-Condo,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,18,"12,685 people per square mile",5
+313,0.040 square miles,1.8 people,1.3,1.7,20.8 years,24.1 years,"$32,667",$516,Bungalow-Park,53.9%,17.8%,50.3%,33.3%,6.5%,6.4%,9.4%,31.5%,44.2%,4.3%,1.9%,73.1%,31,778 people per square mile,13
+314,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Bungalow-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+315,0.031 square miles,2.2 people,1.1,1.9,47.2 years,45.5 years,"$78,750",$807,Burnbrook,41.9%,6.9%,54.2%,37.5%,7.1%,7.3%,7.5%,53.4%,32.6%,0.0%,1.2%,67.8%,31,986 people per square mile,15
+316,0.004 square miles,2.4 people,1.3,1.8,33.3 years,38.9 years,"$45,152",$872,Burnes-Lake-Condo,39.2%,8.2%,33.7%,29.6%,3.5%,13.2%,19.3%,38.5%,49.8%,0.0%,11.6%,56.7%,13,"3,555 people per square mile",6
+317,0.022 square miles,2.4 people,1.3,1.8,33.3 years,38.9 years,"$45,152",$872,Burnes-Lake-Estates,39.2%,8.2%,33.7%,27.9%,3.5%,13.2%,19.3%,38.5%,49.8%,0.0%,10.9%,56.7%,81,"3,629 people per square mile",37
+318,0.002 square miles,2.2 people,1.0,1.5,54.2 years,50.5 years,"$35,333",$701,Burnette-Place,36.6%,16.8%,31.6%,32.5%,5.2%,6.2%,20.8%,35.3%,42.6%,0.0%,17.3%,39.5%,4,"2,131 people per square mile",2
+319,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Busch-Professional-Center-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+320,0.147 square miles,3.0 people,9.6,0.7,68.3 years,55.4 years,"$62,556",$811,Butlers-First-Lake,42.0%,14.8%,59.0%,33.3%,11.2%,5.2%,18.3%,39.3%,34.7%,13.5%,4.8%,77.1%,237,"1,616 people per square mile",112
+321,0.175 square miles,NA,NA,NA,NA,NA,NA,NA,Byars-Heights,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+322,0.115 square miles,NA,NA,NA,NA,NA,NA,NA,Byars-Revision-of-Sunnyland-Acres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+323,0.015 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Byrd-Lake-Woods,59.5%,14.3%,73.2%,24.2%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.8%,82.7%,4,264 people per square mile,2
+324,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Cabrera-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Cabrera,"6,573 people per square mile",2
+325,0.002 square miles,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Cafe-Pepe-Townhomes,5.1%,11.2%,8.0%,43.3%,0.4%,34.1%,39.0%,56.3%,32.2%,6.7%,9.8%,70.3%,14,"8,173 people per square mile",8
+326,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Cairo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+327,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Caleb-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+328,0.027 square miles,2.5 people,1.1,1.5,34.7 years,37.8 years,"$36,880",$787,California-Heights,46.8%,18.2%,43.5%,40.4%,0.7%,22.0%,19.1%,34.2%,46.9%,5.5%,14.6%,75.0%,58,"2,152 people per square mile",27
+329,0.002 square miles,28.6%,10.3%,242.5,51.0%,56.4%,"$98,824","$1,100",Calvino-s-Liberty,13.9%,64.8%,9.5%,16.5%,1.5,46.2%,29.8%,1.7,18.5%,5.5%,0.0%,3.8%,1,504 people per square mile,2.8 people
+330,0.030 square miles,2.9 people,1.3,2.1,32.3 years,34.0 years,"$68,529","$1,059",Cambridge-Villas,65.9%,24.0%,52.8%,22.4%,8.7%,18.4%,16.9%,38.1%,29.2%,3.7%,11.2%,85.0%,89,"2,999 people per square mile",42
+331,0.053 square miles,3.6 people,1.5,1.3,31.4 years,19.7 years,"$36,152",$950,Camden-Woods,48.7%,11.9%,31.1%,19.2%,12.7%,19.3%,24.0%,35.6%,39.8%,9.1%,3.1%,33.0%,511,"9,644 people per square mile",237
+332,0.458 square miles,2.8 people,3.3,0.6,47.0 years,46.5 years,"$53,938",$801,Cameo-Villas,52.9%,43.9%,57.6%,31.6%,10.0%,12.1%,13.4%,22.0%,24.1%,20.2%,4.0%,67.3%,"1,600","3,490 people per square mile",685
+333,0.059 square miles,2.8 people,0.5,1.4,42.5 years,27.6 years,"$27,553",$694,Campobella,41.6%,2.6%,14.6%,14.7%,3.8%,28.1%,26.9%,24.2%,69.4%,2.2%,25.9%,65.2%,291,"4,943 people per square mile",131
+334,0.118 square miles,2.8 people,0.7,1.2,31.0 years,17.2 years,"$21,286",$746,Campobello,46.3%,6.4%,10.3%,4.9%,3.4%,31.6%,21.3%,13.8%,76.4%,1.2%,31.2%,62.9%,622,"5,260 people per square mile",253
+335,0.030 square miles,NA,NA,NA,NA,NA,NA,NA,Campus-Hill-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+336,0.065 square miles,NA,NA,NA,NA,NA,NA,NA,Canal-Industrial-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+337,0.026 square miles,1.3 people,3.9,0.5,23.9 years,13.9 years,"$19,367",$382,Canal-Shores,21.2%,31.4%,66.7%,29.0%,4.0%,7.6%,25.4%,31.2%,33.5%,36.8%,9.0%,92.7%,50,"1,941 people per square mile",28
+338,0.010 square miles,2.9 people,0.6,2.0,46.2 years,43.3 years,"$28,371",$790,Candlewood,56.1%,18.2%,17.6%,5.4%,6.9%,30.2%,26.5%,19.7%,55.2%,1.8%,27.0%,66.3%,59,"5,719 people per square mile",26
+339,0.198 square miles,NA,NA,NA,NA,NA,NA,NA,Canterbury-Lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+340,1,65.4%,15.6%,242.5,27.5%,34.1%,"$36,141",$740,Capal-An-Office-Condo,5.6%,41.8%,18.8%,8.9%,1.0,18.1%,37.2%,1.7,41.4%,3.3%,0.0%,3.2%,density:Capal,"1,897 people per square mile",2.3 people
+341,0.003 square miles,40.1%,10.3%,242.5,51.0%,56.4%,"$98,824","$1,100",Capital-Tampa,19.5%,64.8%,9.5%,16.5%,1.5,46.2%,29.8%,1.7,18.5%,5.5%,0.0%,3.8%,1,351 people per square mile,2.8 people
+342,0.007 square miles,3.4 people,2.1,2.1,26.8 years,31.2 years,"$55,898","$1,014",Capri-Manor,56.6%,14.4%,53.0%,25.0%,7.2%,31.7%,20.4%,35.2%,43.1%,0.0%,5.9%,41.4%,17,"2,343 people per square mile",7
+343,0.005 square miles,3.7 people,0.9,2.4,26.1 years,41.2 years,"$20,750",$645,Carlton-Place,48.1%,28.6%,28.5%,14.2%,6.5%,27.2%,9.4%,24.3%,40.6%,12.3%,11.4%,44.3%,63,"12,706 people per square mile",25
+344,0.003 square miles,3.5 people,0.9,1.4,26.7 years,22.4 years,"$27,637",$755,Carlye-Garden-Townhomes-Condo,71.1%,19.3%,32.9%,10.8%,11.3%,27.0%,26.3%,24.1%,45.3%,12.5%,14.4%,51.2%,19,"6,360 people per square mile",9
+345,0.018 square miles,3.3 people,1.4,2.7,32.8 years,45.9 years,"$214,464","$1,535",Carol-Shores,75.4%,7.7%,74.4%,33.9%,2.1%,12.0%,19.5%,45.4%,44.7%,0.0%,3.0%,69.1%,7,393 people per square mile,4
+346,0.028 square miles,3.5 people,1.5,1.8,27.3 years,25.9 years,"$22,794",$815,Carolina-Terrace,57.6%,2.6%,24.7%,14.6%,3.8%,29.0%,32.8%,24.2%,69.4%,2.6%,14.1%,60.0%,91,"3,278 people per square mile",46
+347,0.008 square miles,2.5 people,0.9,1.5,51.3 years,53.1 years,"$33,900",$472,Carolyn-Estates,32.3%,19.4%,47.0%,39.3%,16.9%,8.3%,11.3%,32.9%,30.8%,0.0%,1.7%,47.8%,31,"4,082 people per square mile",14
+348,0.040 square miles,2.9 people,1.7,1.6,42.9 years,39.9 years,"$60,119",$978,Carriage-Hills,40.6%,15.3%,38.7%,22.7%,3.6%,14.4%,28.6%,34.4%,46.7%,6.3%,31.1%,56.9%,140,"3,521 people per square mile",83
+349,0.075 square miles,16.0 people,17.7,6.2,40.8 years,40.2 years,"$95,385","$1,178",Carrillion-Estates,63.5%,16.1%,72.8%,30.4%,1.4%,13.6%,11.6%,41.7%,40.8%,0.0%,1.0%,77.6%,58,770 people per square mile,27
+350,0.037 square miles,2.8 people,1.7,1.9,37.3 years,39.3 years,"$50,972",$742,Carroll-City-Center,59.4%,13.4%,51.4%,26.7%,1.4%,20.9%,20.6%,40.9%,44.4%,6.5%,5.7%,57.7%,159,"4,324 people per square mile",77
+351,0.027 square miles,NA,NA,NA,NA,NA,NA,NA,Carroll-City,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+352,0.009 square miles,0.6 people,9.5,1.5,13.8 years,12.3 years,"$17,670",$220,Carroll-Heights,48.9%,13.4%,53.4%,39.7%,1.4%,6.1%,10.7%,40.9%,44.4%,0.0%,9.3%,69.9%,4,434 people per square mile,2
+353,0.028 square miles,NA,NA,NA,NA,NA,NA,NA,Carroll-Landing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+354,0.007 square miles,2.5 people,1.5,1.6,33.9 years,32.8 years,"$61,453",$874,Carroll-Oaks,53.0%,31.2%,40.4%,36.5%,11.6%,14.4%,16.1%,31.2%,26.0%,4.5%,4.4%,66.9%,23,"3,524 people per square mile",10
+355,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollbrook-Lakeside-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+356,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollbrook-Patio-Townhouse-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+357,0.072 square miles,25.0 people,1.3,1.9,33.6 years,30.9 years,"$39,063",$797,Carrollton-Lakes,42.5%,19.0%,26.5%,23.2%,5.3%,16.3%,24.4%,41.2%,34.5%,1.9%,23.2%,67.6%,398,"5,546 people per square mile",200
+358,0.016 square miles,2.9 people,4.5,1.7,49.7 years,51.2 years,"$130,809","$1,081",Carrollwood-Cove,66.7%,17.3%,77.9%,27.6%,8.3%,18.0%,15.7%,35.8%,38.7%,0.0%,2.0%,52.6%,29,"1,866 people per square mile",13
+359,0.008 square miles,2.0 people,1.6,1.6,57.1 years,52.1 years,"$70,846","$1,089",Carrollwood-Cove-at-Emerald-Greens-Condo,26.2%,7.5%,45.1%,50.4%,1.0%,8.7%,10.8%,55.3%,36.1%,0.0%,8.0%,60.4%,30,"3,698 people per square mile",14
+360,0.025 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollwood-Creek,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+361,0.048 square miles,2.9 people,4.5,1.7,49.7 years,51.2 years,"$130,809","$1,081",Carrollwood-Crossing,66.7%,17.3%,77.9%,27.1%,8.3%,18.0%,15.7%,35.8%,38.7%,2.2%,2.0%,52.6%,91,"1,887 people per square mile",41
+362,0.035 square miles,0.3 people,1.1,1.9,5.9 years,5.7 years,"$8,310",$96,Carrollwood-Estates,40.1%,6.9%,51.1%,36.8%,7.1%,8.1%,8.1%,53.4%,32.6%,0.0%,1.8%,65.1%,10,286 people per square mile,5
+363,0.012 square miles,2.4 people,1.3,1.8,33.3 years,38.9 years,"$45,152",$872,Carrollwood-Gables-Condo,39.2%,8.2%,33.7%,27.8%,3.5%,13.2%,19.3%,38.5%,49.8%,0.0%,10.9%,56.7%,43,"3,649 people per square mile",19
+364,0.045 square miles,2.4 people,1.4,1.6,39.0 years,36.3 years,"$58,438","$1,327",Carrollwood-Key,50.3%,26.5%,36.3%,21.2%,4.8%,13.0%,15.2%,34.5%,34.2%,7.0%,34.5%,90.9%,89,"1,966 people per square mile",42
+365,0.682 square miles,2.7 people,3.6,4.2,41.9 years,39.5 years,"$60,091","$1,153",Carrollwood-Meadows,50.9%,18.6%,45.1%,25.9%,6.7%,20.9%,14.3%,39.4%,35.3%,1.6%,4.5%,75.9%,"4,652","6,819 people per square mile","2,001"
+366,0.015 square miles,2.2 people,1.5,2.0,31.8 years,32.4 years,"$47,253",$829,Carrollwood-Oaks,42.2%,27.8%,25.4%,31.8%,8.0%,28.0%,15.8%,32.8%,31.4%,7.0%,6.5%,85.8%,45,"3,048 people per square mile",19
+367,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollwood-Pines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+368,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollwood-Place-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+369,0.043 square miles,3.6 people,9.4,1.9,34.0 years,35.7 years,"$66,250","$1,134",Carrollwood-Reserve,84.6%,18.6%,62.3%,14.9%,6.7%,19.5%,19.8%,39.4%,35.3%,0.0%,5.0%,77.5%,41,960 people per square mile,18
+370,0.031 square miles,2.1 people,1.1,1.9,45.1 years,43.5 years,"$63,750",$736,Carrollwood-South,40.1%,6.9%,51.1%,35.6%,7.1%,8.1%,8.1%,53.4%,32.6%,0.0%,1.7%,65.1%,85,"2,729 people per square mile",41
+371,0.051 square miles,2.4 people,1.2,2.0,42.4 years,35.4 years,"$62,196",$978,Carrollwood-Springs-Cluster-Homes,39.1%,14.6%,41.8%,32.3%,1.4%,16.4%,17.3%,52.1%,31.9%,0.6%,5.3%,65.8%,180,"3,532 people per square mile",90
+372,0.389 square miles,2.4 people,1.2,2.0,42.4 years,35.4 years,"$62,196",$978,Carrollwood-Springs,39.1%,14.6%,41.8%,32.2%,1.4%,16.4%,17.3%,52.1%,31.9%,0.6%,5.3%,65.8%,"1,379","3,549 people per square mile",689
+373,0.629 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollwood,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+374,0.013 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollwood-Village-Chase-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+375,0.022 square miles,2.0 people,1.6,1.6,57.1 years,52.1 years,"$70,846","$1,089",Carrollwood-Village-Cypress-Cluster-Houses,26.2%,7.5%,45.1%,50.5%,1.0%,8.7%,10.8%,55.3%,36.1%,0.0%,8.0%,60.4%,82,"3,772 people per square mile",39
+376,0.014 square miles,2.6 people,1.6,1.6,53.2 years,52.5 years,"$137,986",$969,Carrollwood-Village-Fairway-Townhouses-Condo,48.4%,6.9%,65.5%,38.3%,7.1%,4.7%,5.9%,53.4%,32.6%,0.0%,0.7%,75.8%,64,"4,455 people per square mile",28
+377,0.008 square miles,2.0 people,1.6,1.6,56.6 years,52.4 years,"$68,906","$1,088",Carrollwood-Village-Greenfield-Midrises,27.4%,7.5%,44.5%,44.8%,1.0%,7.7%,11.5%,55.3%,36.1%,0.0%,7.4%,58.9%,9,"1,178 people per square mile",4
+378,0.025 square miles,2.0 people,1.6,1.6,56.0 years,52.7 years,"$65,679","$1,088",Carrollwood-Village-Northmeadow-Cluster-Houses,28.8%,7.5%,43.8%,37.1%,1.0%,6.2%,12.5%,55.3%,36.1%,0.0%,14.0%,56.0%,81,"3,197 people per square mile",38
+379,0.013 square miles,2.1 people,1.1,1.9,45.1 years,43.5 years,"$63,750",$736,Carrollwood-Village-Pine-Lake-Garden-Villas,40.1%,6.9%,51.1%,36.1%,7.1%,8.1%,8.1%,53.4%,32.6%,0.0%,1.7%,65.1%,34,"2,671 people per square mile",17
+380,0.004 square miles,2.6 people,1.6,1.6,53.2 years,52.5 years,"$137,986",$969,Carrollwood-Village-Rolling-Green-Townhouses,48.4%,6.9%,65.5%,40.0%,7.1%,4.7%,5.9%,53.4%,32.6%,0.0%,0.8%,75.8%,18,"4,121 people per square mile",8
+381,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,Carrollwood-West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+382,2,26.0 people,1.2,1.7,43.2 years,31.3 years,"$46,667",$843,Cartagena-City-Townhomes,49.4%,26.5%,41.4%,62.3%,7.3%,23.5%,29.6%,31.9%,34.2%,0.0%,10.1%,58.2%,density:Cartagena,"4,059 people per square mile",1
+383,0.003 square miles,2.5 people,1.2,1.8,48.9 years,45.1 years,"$54,760",$851,Cartertown,62.1%,16.0%,42.9%,11.4%,1.7%,11.6%,25.5%,46.5%,35.9%,0.0%,22.9%,74.9%,12,"4,483 people per square mile",7
+384,0.866 square miles,1.9 people,1.4,1.6,40.4 years,33.9 years,"$53,921","$1,438",Carver-City,34.9%,18.3%,21.5%,26.5%,4.0%,16.1%,29.2%,39.2%,38.5%,1.7%,15.2%,45.8%,324,374 people per square mile,165
+385,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Amelia-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"10,437 people per square mile",2
+386,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Arthur-Candito-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"10,354 people per square mile",2
+387,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Beverly-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"9,822 people per square mile",2
+388,0.020 square miles,39.0 people,1.8,2.2,39.9 years,43.1 years,"$142,695",$970,Casa-Blanca,80.0%,14.8%,78.8%,29.9%,4.8%,9.6%,6.5%,49.4%,30.9%,0.0%,2.9%,82.6%,25,"1,275 people per square mile",12
+389,,34.9%,23.4%,12.6%,32.0%,10.7%,$911,1.3 people,Casa-Blanca-Townhomes,30.1%,17.6%,58.5%,3.0%,33.4%,1.2,1.6,61.8%,242.5,36.8%,8.3%,26.4%,NA,"$52,778",20.7%
+390,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Casa-Clara-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Casa,"16,852 people per square mile",2
+391,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Casa-Elizabeth-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Casa,"18,377 people per square mile",2
+392,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Isabel-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"9,975 people per square mile",2
+393,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Casa-Krista-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Casa,"13,662 people per square mile",2
+394,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Casa-Lana-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Casa,"13,789 people per square mile",2
+395,0.111 square miles,NA,NA,NA,NA,NA,NA,NA,Casa-Loma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+396,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Casa-Mara-Townhomes,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Casa,"13,730 people per square mile",2
+397,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Martino-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"10,287 people per square mile",2
+398,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Moneca-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"10,129 people per square mile",2
+399,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Casa-Nora-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Casa,"10,354 people per square mile",2
+400,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Cascade-Landing-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+401,0.032 square miles,2.1 people,1.1,1.9,45.1 years,43.5 years,"$63,750",$736,Casey-Lake-Manors,40.1%,6.9%,51.1%,35.8%,7.1%,8.1%,8.1%,53.4%,32.6%,0.0%,1.7%,65.1%,88,"2,721 people per square mile",43
+402,0.002 square miles,2.4 people,1.2,2.0,42.4 years,35.4 years,"$62,196",$978,Casey-Road-Professional-Center,39.1%,14.6%,41.8%,34.3%,1.4%,16.4%,17.3%,52.1%,31.9%,0.0%,5.6%,65.8%,7,"3,126 people per square mile",3
+403,0.019 square miles,2.8 people,1.9,2.1,41.1 years,41.2 years,"$85,813","$1,081",Casey-s-Landing,59.3%,17.3%,62.2%,31.0%,8.3%,14.4%,15.9%,35.8%,38.7%,2.5%,2.1%,71.8%,167,"8,603 people per square mile",82
+404,0.007 square miles,2.8 people,1.6,1.9,41.7 years,37.7 years,"$54,268","$1,273",Castillo,51.1%,38.6%,46.1%,20.7%,3.9%,20.1%,14.8%,20.7%,36.9%,5.9%,10.8%,68.9%,17,"2,474 people per square mile",8
+405,0.002 square miles,2.3 people,1.8,1.5,32.3 years,55.5 years,"$36,806",$831,Castillo-Villa,36.2%,41.4%,59.7%,44.3%,3.3%,4.1%,6.9%,18.1%,37.2%,0.0%,4.4%,70.3%,9,"3,759 people per square mile",3
+406,0.011 square miles,3.3 people,1.2,1.8,39.3 years,29.5 years,"$34,694",$919,Castle-Gardens,57.5%,14.5%,42.2%,22.3%,3.9%,19.9%,25.4%,33.7%,47.9%,5.7%,8.3%,80.8%,76,"6,626 people per square mile",40
+407,0.004 square miles,2.6 people,1.4,1.7,48.6 years,23.7 years,"$32,235",$914,Castle-Homes,44.8%,3.8%,15.2%,33.5%,4.9%,35.6%,23.0%,24.5%,66.8%,0.0%,39.3%,56.0%,10,"2,383 people per square mile",3
+408,0.004 square miles,2.1 people,1.3,1.6,37.3 years,40.9 years,"$50,827",$825,Cathcart-s-Square,47.6%,5.8%,37.4%,16.7%,5.0%,9.1%,21.3%,41.6%,47.6%,0.0%,12.6%,60.5%,14,"3,257 people per square mile",6
+409,0.003 square miles,2.5 people,1.2,1.8,48.9 years,45.1 years,"$54,760",$851,Catherine-City,62.1%,16.0%,42.9%,11.4%,1.7%,11.6%,25.5%,46.5%,35.9%,0.0%,22.9%,74.9%,14,"5,100 people per square mile",8
+410,0.026 square miles,2.3 people,1.2,1.9,36.7 years,28.7 years,"$34,572",$817,Causeway-Boulevard,45.3%,19.0%,25.2%,15.6%,5.8%,10.9%,31.6%,24.1%,51.0%,8.0%,27.0%,46.8%,26,995 people per square mile,14
+411,0.030 square miles,36.0 people,1.5,2.2,46.3 years,41.6 years,"$51,833",$784,Causeway-Manor,49.5%,17.5%,45.7%,11.1%,9.5%,12.0%,15.7%,22.1%,51.0%,11.0%,16.8%,44.6%,133,"4,504 people per square mile",71
+412,0.005 square miles,NA,NA,NA,NA,NA,NA,NA,Causeway-Plaza-Centre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+413,0.012 square miles,NA,NA,NA,NA,NA,NA,NA,Causeway-Sites,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+414,0.002 square miles,2.4 people,1.1,1.5,36.3 years,28.4 years,"$38,828",$779,Cedar-Center-Office-Condo,39.6%,13.7%,27.1%,19.4%,4.6%,21.8%,20.5%,30.8%,50.9%,0.0%,24.5%,71.9%,6,"3,756 people per square mile",3
+415,0.113 square miles,2.6 people,2.0,1.9,44.6 years,35.4 years,"$60,675",$961,Cedar-Creek-At-Country-Run,53.5%,26.5%,47.8%,29.0%,4.8%,10.0%,19.5%,34.5%,34.2%,10.3%,4.1%,81.4%,293,"2,599 people per square mile",146
+416,0.008 square miles,2.2 people,1.1,1.9,47.2 years,45.5 years,"$78,750",$807,Cedar-Hollow-Condo-Townhomes,41.9%,6.9%,54.2%,39.8%,7.1%,7.3%,7.5%,53.4%,32.6%,0.0%,1.3%,67.8%,7,917 people per square mile,3
+417,0.025 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Cedarwood-Subdivision,59.5%,14.3%,73.2%,23.0%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.3%,82.7%,7,279 people per square mile,4
+418,0.054 square miles,2.2 people,1.5,2.0,31.8 years,32.4 years,"$47,253",$829,Cedarwood-Village,42.2%,27.8%,25.4%,31.2%,8.0%,28.0%,15.8%,32.8%,31.4%,7.0%,6.4%,85.8%,169,"3,119 people per square mile",71
+419,0.038 square miles,2.8 people,0.6,5.5,28.6 years,24.9 years,"$18,811",$184,Cental-Park,62.0%,6.6%,8.7%,1.1%,2.7%,40.9%,17.6%,22.1%,68.6%,3.2%,32.6%,86.2%,210,"5,495 people per square mile",71
+420,0.030 square miles,2.2 people,1.9,1.6,37.3 years,42.9 years,"$49,169",$967,Center-Hill,49.6%,5.8%,29.7%,34.6%,5.0%,22.1%,21.8%,41.6%,47.6%,3.7%,6.4%,71.5%,142,"4,681 people per square mile",66
+421,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Center-Port-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+422,0.004 square miles,3.1 people,0.6,30.1,20.3 years,9.2 years,"$9,776",$126,Central-Court,65.4%,6.6%,10.6%,1.5%,2.7%,45.8%,15.0%,22.1%,68.6%,0.0%,32.5%,94.2%,23,"5,876 people per square mile",7
+423,0.010 square miles,34.0 people,0.8,1.6,34.3 years,33.8 years,"$22,375",$815,Central-Heights,55.4%,7.4%,23.1%,3.0%,8.4%,25.1%,11.4%,36.6%,47.6%,7.0%,20.3%,66.9%,52,"5,029 people per square mile",24
+424,0.017 square miles,3.2 people,0.8,1.7,26.0 years,20.8 years,"$24,554",$656,Central-Village,67.3%,6.4%,8.7%,4.4%,3.4%,46.4%,30.7%,13.8%,76.4%,3.9%,27.1%,59.6%,90,"5,302 people per square mile",35
+425,0.009 square miles,2.5 people,1.0,1.3,36.3 years,39.5 years,"$27,250",$511,Centralia,36.0%,6.6%,14.5%,15.8%,2.7%,19.1%,29.3%,22.1%,68.6%,0.0%,19.5%,66.2%,25,"2,891 people per square mile",15
+426,0.039 square miles,3.2 people,1.2,1.8,43.7 years,29.2 years,"$46,500","$1,043",Chadbourne-Village,52.4%,27.8%,40.5%,21.1%,8.0%,16.5%,14.5%,32.8%,31.4%,10.2%,8.3%,72.0%,294,"7,622 people per square mile",136
+427,0.285 square miles,2.8 people,2.1,2.0,39.5 years,33.1 years,"$97,955","$1,250",Champions-Forest,52.2%,18.4%,53.5%,27.0%,5.0%,12.8%,16.8%,47.7%,28.9%,6.3%,7.4%,74.1%,310,"1,088 people per square mile",159
+428,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Channelside-Lofts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+429,2,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Chanticleer-1-Condo,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Chanticleer,"3,924 people per square mile",0
+430,0.010 square miles,2.0 people,1.8,2.4,50.4 years,49.1 years,"$119,956","$2,121",Chapin-Avenue,39.3%,11.4%,48.9%,41.2%,2.1%,5.2%,19.3%,49.0%,37.5%,0.0%,7.4%,64.9%,61,"5,976 people per square mile",32
+431,0.003 square miles,2.0 people,1.3,1.7,49.0 years,53.8 years,"$133,889","$2,121",Chapin-Green,43.8%,11.4%,56.9%,51.7%,2.1%,3.7%,13.4%,49.0%,37.5%,0.0%,8.5%,58.4%,25,"8,031 people per square mile",13
+432,0.031 square miles,2.6 people,1.3,1.9,45.0 years,51.2 years,"$109,803","$1,339",Charleston-Place-Townhomes,60.3%,20.1%,62.4%,41.9%,8.5%,5.1%,12.1%,43.6%,27.8%,0.0%,18.1%,71.8%,35,"1,113 people per square mile",19
+433,0.003 square miles,58.9%,4.5%,242.5,60.5%,50.7%,"$68,875","$1,034",Charleston-Square-Condo,1.5%,67.2%,11.4%,13.4%,1.8,47.9%,38.0%,1.8,5.8%,8.2%,0.0%,3.7%,1,395 people per square mile,2.4 people
+434,0.001 square miles,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Chateau-De-Seville-Condo,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,18,"12,810 people per square mile",5
+435,0.026 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Chateau-Villa,54.5%,7.7%,57.1%,28.6%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,6.6%,47.6%,128,"4,960 people per square mile",51
+436,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Chater-Mill-Townhomes-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+437,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Chelsea-Place-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+438,0.153 square miles,2.3 people,0.9,1.9,56.2 years,51.2 years,"$69,219",$998,Cherry-Creek,45.7%,14.2%,61.9%,40.6%,1.7%,9.9%,10.9%,40.9%,43.3%,3.8%,1.5%,67.5%,453,"2,953 people per square mile",218
+439,0.006 square miles,3.0 people,1.4,1.5,37.9 years,40.0 years,"$33,571",$694,Chesterfield-Heights,52.3%,10.7%,35.4%,16.3%,2.8%,15.7%,26.8%,19.4%,67.0%,0.0%,9.3%,41.3%,29,"4,539 people per square mile",16
+440,0.006 square miles,2.2 people,0.7,1.7,36.8 years,31.5 years,"$32,969",$771,Chesterville-Park,37.7%,6.8%,19.1%,9.5%,7.9%,19.4%,34.4%,35.3%,50.0%,0.0%,35.2%,68.5%,28,"4,561 people per square mile",15
+441,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Chicago-Avenue,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+442,3,1.9 people,1.6,1.7,26.8 years,40.4 years,"$94,049","$1,267",Christiansted-Condo,27.1%,8.3%,26.5%,23.4%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,25.0%,89.7%,density:Christiansted,"3,228 people per square mile",1
+443,0.001 square miles,31.0 people,1.5,1.7,49.7 years,35.7 years,"$36,632",$717,Church-Arbor-Condo,37.4%,54.5%,42.1%,19.9%,3.5%,10.5%,21.6%,17.5%,24.6%,11.1%,3.2%,59.2%,11,"7,356 people per square mile",5
+444,8,2.1 people,1.1,2.2,47.2 years,35.8 years,"$103,810","$1,395",Churchill-Townhomes,26.8%,6.9%,32.2%,44.7%,0.4%,24.3%,19.6%,48.8%,43.9%,0.0%,3.2%,77.4%,density:Churchill,"9,558 people per square mile",4
+445,1,2.4%,7.7%,22.0%,13.2%,12.2%,"$55,643",$880,Citilofts-Fifth-Avenue-Townhomes,63.0%,242.5,34.9%,24.4%,56.1%,7.2%,32.5%,1.1,1.3,12.3%,48.0%,2.2%,density:Citilofts,"2,814 people per square mile",1.6 people
+446,2,1.6 people,1.1,1.3,33.8 years,42.7 years,"$55,643",$880,Citilofts-Townhomes-of-Ybor,12.2%,12.3%,13.2%,2.4%,7.2%,24.4%,34.9%,32.5%,48.0%,0.0%,63.0%,56.1%,density:Citilofts,"2,193 people per square mile",1
+447,0.018 square miles,2.5 people,1.1,1.9,46.1 years,38.5 years,"$89,236",$877,Citrus-Acres,44.5%,15.2%,62.7%,41.7%,1.7%,6.8%,3.8%,50.2%,33.0%,0.0%,5.0%,67.9%,6,326 people per square mile,3
+448,0.003 square miles,2.8 people,1.4,1.9,35.8 years,25.4 years,"$46,056",$841,Citrus-Park-Commons,66.9%,24.0%,38.9%,16.0%,8.7%,21.6%,18.4%,38.1%,29.2%,0.0%,20.5%,67.2%,9,"3,201 people per square mile",5
+449,0.008 square miles,2.3 people,1.3,1.4,52.6 years,32.3 years,"$41,033",$845,Citrus-Park-Crossing,36.7%,18.3%,31.5%,30.5%,6.4%,8.3%,21.4%,37.8%,37.5%,0.0%,8.5%,51.6%,10,"1,207 people per square mile",5
+450,0.022 square miles,1.2 people,1.0,1.8,18.9 years,23.5 years,"$34,689",$475,Citrus-Park,35.2%,6.0%,41.7%,34.3%,3.0%,14.6%,16.7%,48.7%,42.3%,0.0%,11.2%,71.6%,21,964 people per square mile,10
+451,0.225 square miles,2.5 people,1.5,1.8,36.8 years,33.5 years,"$48,750","$1,230",Citrus-Park-Town-Center,46.1%,18.3%,40.9%,17.7%,6.4%,10.6%,23.6%,37.8%,37.5%,7.0%,21.3%,76.4%,347,"1,539 people per square mile",171
+452,0.129 square miles,2.5 people,1.5,1.8,36.8 years,33.5 years,"$48,750","$1,230",Citrus-Pointe,46.1%,18.3%,40.9%,17.8%,6.4%,10.6%,23.6%,37.8%,37.5%,5.9%,21.3%,76.4%,198,"1,534 people per square mile",97
+453,,NA,NA,NA,NA,NA,NA,NA,City-Blue,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+454,0.002 square miles,1.9 people,0.9,1.7,60.8 years,32.3 years,"$50,221","$1,067",City-Central-Condo,10.3%,11.2%,10.9%,37.6%,0.4%,23.9%,58.7%,56.3%,32.2%,0.0%,8.6%,30.8%,3,"1,992 people per square mile",2
+455,0.018 square miles,NA,NA,NA,NA,NA,NA,NA,City-of-Temple-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+456,0.003 square miles,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Cityplace-Condo,5.1%,11.2%,8.0%,41.4%,0.4%,34.1%,39.0%,56.3%,32.2%,9.1%,9.4%,70.3%,22,"8,501 people per square mile",12
+457,0.641 square miles,3.3 people,1.7,2.0,39.8 years,33.5 years,"$34,623",$857,Clair-Mel-City,51.9%,31.4%,44.2%,21.5%,9.9%,11.1%,20.3%,14.6%,44.1%,13.5%,7.1%,60.9%,"4,242","6,621 people per square mile","2,205"
+458,0.044 square miles,2.2 people,1.1,14.0,29.4 years,27.6 years,"$38,214",$773,Claonia-Highlands,40.0%,15.7%,19.8%,15.6%,8.2%,26.3%,23.9%,35.7%,40.4%,4.1%,29.3%,25.5%,222,"5,084 people per square mile",108
+459,0.006 square miles,2.0 people,1.3,1.6,60.6 years,52.6 years,"$35,417",$866,Clarice-Place,20.5%,6.1%,23.4%,20.7%,3.3%,12.5%,9.3%,53.9%,36.7%,0.0%,27.2%,75.1%,19,"3,328 people per square mile",9
+460,0.015 square miles,NA,NA,NA,NA,NA,NA,NA,Clearview,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+461,2,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Cleveland-Park,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Cleveland,"4,745 people per square mile",1
+462,4,2.2 people,1.3,1.8,54.0 years,40.5 years,"$85,250",$928,Cleveland-Street-Villas,39.6%,11.1%,28.4%,17.4%,1.8%,12.4%,30.5%,43.7%,43.4%,0.0%,6.6%,57.4%,density:Cleveland,"6,276 people per square mile",2
+463,,NA,NA,NA,NA,NA,NA,NA,Clewis-Court-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+464,0.055 square miles,2.6 people,1.0,1.8,45.4 years,46.7 years,"$33,663",$844,Clewis-Garden,37.3%,20.4%,30.9%,26.5%,3.8%,18.0%,28.8%,29.2%,46.5%,0.0%,29.7%,66.7%,10,182 people per square mile,5
+465,0.341 square miles,14.6%,1.5%,2.9%,8.6%,53.8%,$16,0.1 people,Clewis-Muck-Farms,0.0%,1.1%,56.9%,30.7%,9.3%,2.0,10.6%,242.5,61.1%,1.7,1.8%,14.0%,NA,$865,60.4%
+466,0.010 square miles,NA,NA,NA,NA,NA,NA,NA,Clifton-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+467,0.014 square miles,2.9 people,1.3,1.9,40.4 years,28.7 years,"$42,482","$1,027",Clo-Mar-Homes,71.5%,17.1%,56.7%,18.0%,8.8%,9.0%,11.5%,27.8%,46.3%,10.4%,18.6%,75.0%,68,"5,021 people per square mile",35
+468,0.014 square miles,1.9 people,1.4,1.7,30.7 years,32.5 years,"$70,688","$1,472",Cloverdale,34.5%,18.1%,21.0%,33.2%,3.9%,16.5%,29.2%,39.4%,38.6%,0.0%,17.9%,42.3%,4,291 people per square mile,2
+469,0.003 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Club-Bayshore-Condo,44.5%,5.8%,42.6%,36.0%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,7.0%,63.4%,15,"4,972 people per square mile",7
+470,0.018 square miles,NA,NA,NA,NA,NA,NA,NA,Club-Manor-East-of-Grand-Hampton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+471,0.016 square miles,2.0 people,1.6,1.6,56.0 years,52.7 years,"$65,679","$1,088",Clubside-Patio-Homes-of-Carrollwood-Village,28.8%,7.5%,43.8%,37.0%,1.0%,6.2%,12.5%,55.3%,36.1%,0.0%,13.9%,56.0%,50,"3,202 people per square mile",23
+472,0.019 square miles,3.3 people,2.0,2.2,33.4 years,36.9 years,"$111,941","$1,484",Clubview,72.9%,25.7%,68.7%,26.2%,3.2%,10.4%,13.4%,43.1%,28.0%,0.0%,4.0%,84.7%,44,"2,261 people per square mile",20
+473,0.014 square miles,2.4 people,1.3,1.8,46.6 years,37.4 years,"$46,154","$1,181",Coarsey-Grove-Estates,72.1%,17.1%,61.4%,23.0%,8.8%,3.5%,2.4%,27.8%,46.3%,7.7%,7.5%,75.1%,41,"3,008 people per square mile",21
+474,6,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Cobblestone-Court-Condo,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,density:Cobblestone,"12,406 people per square mile",1
+475,0.019 square miles,3.2 people,0.8,1.7,26.0 years,20.8 years,"$24,554",$656,College-Heights,67.3%,6.4%,8.7%,4.4%,3.4%,46.4%,30.7%,13.8%,76.4%,3.4%,27.0%,59.6%,104,"5,391 people per square mile",40
+476,0.100 square miles,2.7 people,0.6,1.1,36.9 years,21.1 years,"$21,669",$775,College-Hill,42.7%,6.4%,11.3%,5.1%,3.4%,27.8%,19.3%,13.8%,76.4%,0.6%,31.5%,62.9%,558,"5,561 people per square mile",231
+477,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,College-Park-East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+478,0.022 square miles,NA,NA,NA,NA,NA,NA,NA,College-Village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+479,0.113 square miles,2.3 people,1.0,1.7,56.2 years,39.6 years,"$36,141",$740,Collins-Armenia-Park,34.1%,41.4%,27.5%,41.0%,3.3%,8.9%,18.8%,18.1%,37.2%,21.0%,3.5%,41.8%,429,"3,789 people per square mile",219
+480,0.037 square miles,3.0 people,0.2,4.1,38.9 years,30.6 years,"$45,498",$884,Colonial-Beach,66.8%,38.6%,43.6%,14.6%,3.9%,16.2%,31.8%,20.7%,36.9%,10.4%,12.8%,50.9%,206,"5,575 people per square mile",114
+481,0.015 square miles,2.9 people,1.7,1.6,42.9 years,39.9 years,"$60,119",$978,Colonial-Grove,40.6%,15.3%,38.7%,22.7%,3.6%,14.4%,28.6%,34.4%,46.7%,2.2%,31.1%,56.9%,52,"3,537 people per square mile",30
+482,2,2.2 people,1.3,1.8,54.0 years,40.5 years,"$85,250",$928,Colonial-Oaks-Townhouses,39.6%,11.1%,28.4%,17.4%,1.8%,12.4%,30.5%,43.7%,43.4%,0.0%,6.6%,57.4%,density:Colonial,"4,297 people per square mile",1
+483,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Colony-Bay-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+484,0.003 square miles,68.7%,4.5%,242.5,60.5%,50.7%,"$68,875","$1,034",Colony-Key,1.7%,67.2%,11.4%,13.4%,1.8,47.9%,38.0%,1.8,5.8%,8.2%,0.0%,3.7%,1,319 people per square mile,2.4 people
+485,0.006 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Colony-Oaks-Townhomes,44.5%,5.8%,42.6%,34.0%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,6.6%,63.4%,34,"5,523 people per square mile",16
+486,0.003 square miles,58.9%,4.5%,242.5,60.5%,50.7%,"$68,875","$1,034",Commodores-Cove-Condo,1.5%,67.2%,11.4%,13.4%,1.8,47.9%,38.0%,1.8,5.8%,8.2%,0.0%,3.7%,1,371 people per square mile,2.4 people
+487,0.011 square miles,3.1 people,1.2,2.2,15.0 years,32.5 years,"$39,125",$782,Community-Estates,38.5%,38.6%,57.1%,17.1%,3.9%,2.8%,18.7%,20.7%,36.9%,12.5%,11.4%,72.5%,28,"2,470 people per square mile",13
+488,0.006 square miles,2.0 people,1.0,1.6,45.3 years,44.8 years,"$43,750",$840,Cooper-Heights,36.2%,6.8%,20.7%,24.9%,7.9%,16.1%,27.7%,35.3%,50.0%,0.0%,26.8%,71.6%,21,"3,406 people per square mile",10
+489,0.245 square miles,2.8 people,4.3,0.6,47.2 years,46.7 years,"$54,149",$804,Copperfield,52.5%,43.9%,57.2%,32.1%,10.0%,12.5%,13.4%,22.0%,24.1%,17.2%,3.5%,67.2%,933,"3,804 people per square mile",390
+490,0.106 square miles,2.8 people,10.4,2.2,45.4 years,45.0 years,"$56,813",$837,Copperfield-Townhomes,52.2%,43.9%,56.9%,32.4%,10.0%,12.7%,13.4%,22.0%,24.1%,38.9%,3.1%,67.2%,432,"4,068 people per square mile",177
+491,0.009 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Cordoba-at-Beach-Park-Condo,54.5%,7.7%,57.1%,28.8%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,6.7%,47.6%,48,"5,057 people per square mile",19
+492,0.032 square miles,1.8 people,1.3,1.3,36.4 years,36.1 years,"$48,333","$1,247",Cornerstone-Plaza,28.2%,18.1%,20.2%,31.1%,3.9%,18.5%,27.5%,39.4%,38.6%,3.6%,14.9%,42.3%,116,"3,581 people per square mile",57
+493,0.038 square miles,NA,NA,NA,NA,NA,NA,NA,Cornerstone-Ranch,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+494,0.011 square miles,2.7 people,0.4,5.9,27.6 years,23.0 years,"$14,336",$538,Corona,61.7%,15.7%,6.0%,6.9%,4.2%,44.5%,21.5%,20.0%,60.1%,6.0%,30.8%,50.0%,54,"4,966 people per square mile",16
+495,0.015 square miles,1.9 people,1.4,1.7,30.7 years,32.5 years,"$70,688","$1,472",Corporate-Oaks-Office-Park,34.5%,18.1%,21.0%,28.2%,3.9%,16.5%,29.2%,39.4%,38.6%,0.0%,15.1%,42.3%,5,343 people per square mile,2
+496,0.181 square miles,2.9 people,1.0,1.9,33.2 years,35.6 years,"$27,419",$825,Corporex-Business-Park,53.1%,18.2%,30.7%,12.4%,6.9%,21.7%,21.1%,19.7%,55.2%,10.2%,18.6%,67.5%,"1,295","7,145 people per square mile",631
+497,0.034 square miles,2.5 people,1.5,1.6,33.9 years,32.8 years,"$61,453",$874,Cortez-Of-Carrollwood-Condo,53.0%,31.2%,40.4%,36.5%,11.6%,14.4%,16.1%,31.2%,26.0%,12.2%,4.5%,66.9%,124,"3,640 people per square mile",58
+498,0.940 square miles,NA,NA,NA,NA,NA,NA,NA,Cory-Lake-Isles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+499,0.021 square miles,33.1 people,0.9,1.2,47.5 years,54.1 years,"$19,946",$978,Cotter-s-Spring-Hill,27.7%,17.8%,26.2%,48.5%,6.5%,33.0%,18.6%,31.5%,44.2%,1.9%,328.7%,60.0%,65,"3,084 people per square mile",29
+500,0.129 square miles,3.7 people,1.8,2.0,42.8 years,43.4 years,"$75,012","$1,338",Country-Chase,63.4%,18.7%,47.6%,18.1%,6.2%,22.0%,11.9%,44.4%,30.7%,6.2%,10.9%,75.1%,725,"5,605 people per square mile",326
+501,0.008 square miles,2.5 people,9.5,1.5,55.3 years,49.3 years,"$70,778",$880,Country-Club-Court,48.9%,13.4%,53.4%,34.1%,1.4%,6.1%,10.7%,40.9%,44.4%,5.0%,8.0%,69.9%,21,"2,792 people per square mile",10
+502,0.003 square miles,2.2 people,1.0,1.5,54.2 years,50.5 years,"$35,333",$701,Country-Club-Place,36.6%,16.8%,31.6%,32.5%,5.2%,6.2%,20.8%,35.3%,42.6%,0.0%,17.3%,39.5%,7,"2,299 people per square mile",4
+503,0.036 square miles,2.0 people,1.6,1.6,56.6 years,52.4 years,"$68,412","$1,089",Country-Club-Village-At-Carrollwood,26.7%,7.5%,44.8%,47.0%,1.0%,8.3%,11.1%,55.3%,36.1%,0.0%,16.0%,59.8%,132,"3,636 people per square mile",62
+504,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Country-Inn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+505,0.058 square miles,1.7 people,3.0,1.5,62.5 years,60.7 years,"$28,977",$387,Country-Lakes,13.4%,17.4%,23.7%,47.0%,5.7%,7.1%,12.8%,44.0%,32.9%,5.4%,6.7%,15.9%,37,633 people per square mile,14
+506,1.034 square miles,2.5 people,2.3,1.3,45.3 years,41.4 years,"$70,111","$1,275",Country-Place,53.3%,15.2%,48.2%,23.6%,4.0%,8.6%,11.5%,39.5%,41.2%,2.0%,8.9%,80.8%,"3,188","3,083 people per square mile","1,678"
+507,0.005 square miles,3.4 people,2.1,2.1,26.8 years,31.2 years,"$55,898","$1,014",Country-Road-Acres,56.6%,14.4%,53.0%,25.0%,7.2%,31.7%,20.4%,35.2%,43.1%,0.0%,5.9%,41.4%,12,"2,325 people per square mile",5
+508,0.555 square miles,2.9 people,1.7,1.7,41.2 years,35.5 years,"$62,461","$1,105",Country-Run,52.0%,26.5%,42.3%,33.4%,4.8%,11.3%,17.7%,34.5%,34.2%,10.3%,17.1%,86.0%,"1,272","2,292 people per square mile",619
+509,0.051 square miles,3.0 people,2.2,2.3,45.2 years,39.5 years,"$81,827",$981,Country-Village,62.1%,15.1%,62.8%,24.6%,2.4%,12.9%,13.5%,39.3%,43.2%,3.4%,1.7%,77.7%,460,"9,104 people per square mile",229
+510,1.239 square miles,2.9 people,1.7,2.0,40.8 years,39.5 years,"$78,481","$1,177",Countryway,59.7%,19.8%,52.8%,24.9%,7.9%,14.6%,13.1%,44.0%,28.3%,3.6%,21.6%,74.1%,"2,130","1,719 people per square mile","1,061"
+511,0.250 square miles,10.9 people,1.5,1.4,34.5 years,33.7 years,"$74,540","$1,297",Courier-City,9.8%,11.2%,12.5%,44.3%,0.4%,33.5%,35.1%,56.3%,32.2%,5.6%,13.9%,72.2%,"2,395","9,594 people per square mile","1,192"
+512,0.040 square miles,NA,NA,NA,NA,NA,NA,NA,Courtney-Palms-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+513,0.001 square miles,2.2 people,0.9,1.8,34.5 years,45.1 years,"$43,750",$631,Courtney-Place,37.7%,3.6%,23.4%,27.2%,0.3%,25.4%,33.8%,41.6%,54.5%,0.0%,18.1%,86.0%,2,"1,764 people per square mile",1
+514,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Courtyard-Square-Medical-Center-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+515,0.003 square miles,2.1 people,1.4,1.8,30.6 years,31.8 years,"$58,281",$958,Courtyards-Of-Tampa-Condo,36.4%,11.4%,38.3%,57.7%,2.1%,16.4%,18.8%,49.0%,37.5%,0.0%,2.8%,88.6%,2,632 people per square mile,1
+516,3,3.7 people,1.5,2.1,37.6 years,23.5 years,"$41,645",$747,Crawford-Estates,70.0%,17.1%,44.8%,14.1%,8.8%,17.3%,25.1%,27.8%,46.3%,0.0%,17.5%,74.7%,density:Crawford,"3,842 people per square mile",1
+517,0.050 square miles,0.2 people,1.7,1.7,3.1 years,3.1 years,"$5,017",$99,Crawford-Place,38.3%,8.5%,29.7%,15.4%,2.7%,17.5%,21.2%,34.0%,54.9%,7.0%,8.8%,69.6%,17,337 people per square mile,9
+518,0.082 square miles,17.2 people,1.7,1.6,42.2 years,37.9 years,"$50,217","$1,428",Crescent-Park,63.2%,18.5%,34.6%,9.3%,5.5%,8.2%,25.4%,46.2%,29.8%,4.1%,25.9%,71.1%,236,"2,864 people per square mile",124
+519,0.003 square miles,78.5%,4.5%,242.5,60.5%,50.7%,"$68,875","$1,034",Crescent-Place-Condo,2.0%,67.2%,11.4%,13.4%,1.8,47.9%,38.0%,1.8,5.8%,8.2%,0.0%,3.7%,1,294 people per square mile,2.4 people
+520,1,20.8%,2.3%,242.5,43.4%,67.0%,"$25,362",$647,Crest-Avenue-Medical-Building-Condo,37.3%,73.1%,23.2%,0.8%,0.9,22.1%,29.2%,1.7,39.3%,9.4%,0.0%,11.8%,density:Crest,"1,385 people per square mile",2.5 people
+521,0.006 square miles,0.6 people,1.2,1.3,7.9 years,6.5 years,"$7,101",$263,Crest-Place,55.0%,18.2%,26.1%,13.1%,0.7%,23.2%,23.0%,34.2%,46.9%,0.0%,45.1%,55.0%,3,501 people per square mile,1
+522,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Crest-View,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+523,0.062 square miles,3.4 people,1.6,2.0,48.2 years,57.1 years,"$61,050","$1,146",Crestridge,48.1%,32.4%,46.5%,31.4%,9.9%,12.6%,15.1%,26.3%,31.4%,25.6%,2.6%,65.0%,257,"4,171 people per square mile",122
+524,0.001 square miles,2.9 people,1.3,1.7,33.4 years,38.6 years,"$52,375",$828,Crichlow-Heights,53.9%,17.8%,50.3%,48.4%,6.5%,6.4%,9.4%,31.5%,44.2%,0.0%,2.8%,73.1%,2,"1,736 people per square mile",1
+525,0.026 square miles,NA,NA,NA,NA,NA,NA,NA,Cross-Creek-Commons,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+526,0.021 square miles,NA,NA,NA,NA,NA,NA,NA,Cross-Creek-Gardens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+527,1.326 square miles,3.9 people,2.0,2.2,39.0 years,43.1 years,"$130,728","$1,733",Cross-Creek,72.9%,25.7%,68.7%,26.0%,3.2%,10.4%,13.4%,43.1%,28.0%,1.9%,4.0%,84.7%,"3,039","2,292 people per square mile","1,428"
+528,0.404 square miles,NA,NA,NA,NA,NA,NA,NA,Crosstown-Center,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+529,0.038 square miles,NA,NA,NA,NA,NA,NA,NA,Crosswynde-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+530,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Crowder-Manor-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+531,0.011 square miles,2.8 people,1.5,2.1,48.9 years,48.4 years,"$51,518",$804,Cuervo-Villas-Condo,57.3%,43.9%,61.9%,17.9%,10.0%,8.4%,13.3%,22.0%,24.1%,5.3%,18.8%,68.6%,20,"1,775 people per square mile",11
+532,0.074 square miles,2.6 people,1.4,2.2,55.2 years,53.0 years,"$161,875","$1,535",Culbreath-Bayou,52.1%,7.7%,82.0%,38.5%,2.1%,8.2%,5.2%,45.4%,44.7%,0.3%,9.0%,62.1%,303,"4,071 people per square mile",142
+533,0.159 square miles,2.9 people,1.4,2.7,48.0 years,50.7 years,"$178,888","$1,535",Culbreath-Isles,75.3%,7.7%,74.4%,30.0%,2.1%,12.0%,19.5%,45.4%,44.7%,0.0%,2.7%,69.1%,71,447 people per square mile,35
+534,0.012 square miles,NA,NA,NA,NA,NA,NA,NA,Culbreath-Key-Bayside-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+535,0.029 square miles,3.0 people,3.0,3.5,48.1 years,48.1 years,"$123,782","$1,163",Culbreath-Oaks,67.3%,17.3%,68.5%,26.8%,8.3%,11.1%,14.0%,35.8%,38.7%,5.3%,9.0%,72.7%,157,"5,357 people per square mile",87
+536,0.077 square miles,1.6 people,0.8,1.5,22.6 years,21.3 years,"$20,620",$714,Cultural-Arts-District,7.2%,17.1%,10.2%,0.0%,6.1%,53.7%,37.8%,57.4%,19.4%,3.1%,8.2%,55.1%,"1,312","17,057 people per square mile",544
+537,0.047 square miles,3.2 people,11.9,2.4,36.9 years,45.4 years,"$108,438","$1,315",Cumberland-Estates,64.1%,16.1%,75.6%,30.6%,1.4%,13.7%,10.3%,41.7%,40.8%,0.0%,1.1%,79.4%,31,657 people per square mile,14
+538,0.210 square miles,3.2 people,11.9,2.4,36.9 years,45.4 years,"$108,438","$1,315",Cumberland-Manors,64.1%,16.1%,75.6%,30.0%,1.4%,13.7%,10.3%,41.7%,40.8%,3.1%,1.1%,79.4%,141,671 people per square mile,64
+539,0.011 square miles,2.6 people,1.4,2.1,28.6 years,43.2 years,"$44,375",$920,Curlin-Place,61.3%,16.0%,36.5%,21.6%,1.7%,27.4%,11.5%,46.5%,35.9%,6.5%,7.0%,84.1%,34,"3,008 people per square mile",13
+540,0.003 square miles,3.2 people,1.0,2.6,37.7 years,32.1 years,"$29,028",$720,Curlin-s-North,50.9%,15.7%,38.1%,5.4%,8.2%,16.3%,26.6%,35.7%,40.4%,9.1%,21.4%,45.2%,12,"4,742 people per square mile",6
+541,0.027 square miles,2.3 people,0.9,1.2,30.1 years,27.5 years,"$14,264",$532,Cuscaden-Grove,21.3%,28.6%,29.2%,3.8%,6.5%,26.5%,27.6%,24.3%,40.6%,22.1%,30.2%,29.9%,106,"3,922 people per square mile",56
+542,0.048 square miles,2.2 people,2.1,1.8,32.0 years,34.5 years,"$47,010",$685,Custom-Industrial-Park,36.5%,37.6%,37.0%,11.2%,11.3%,8.2%,31.9%,22.4%,28.7%,6.7%,4.8%,61.5%,13,273 people per square mile,6
+543,0.028 square miles,2.8 people,2.0,1.9,47.0 years,35.0 years,"$61,618",$952,Cypress-Cove-Townhomes,53.6%,26.5%,48.3%,28.6%,4.8%,9.9%,19.6%,34.5%,34.2%,8.8%,3.2%,81.0%,74,"2,618 people per square mile",37
+544,0.057 square miles,1.9 people,1.4,1.7,30.7 years,32.5 years,"$70,688","$1,472",Cypress-Estates,34.5%,18.1%,21.0%,27.4%,3.9%,16.5%,29.2%,39.4%,38.6%,6.7%,14.7%,42.3%,20,350 people per square mile,10
+545,0.015 square miles,3.0 people,1.5,1.6,40.9 years,39.5 years,"$74,083","$1,054",Cypress-Glen,53.0%,31.2%,40.4%,36.4%,11.6%,14.4%,16.1%,31.2%,26.0%,9.1%,4.4%,66.9%,163,"11,043 people per square mile",76
+546,0.023 square miles,2.7 people,4.8,4.5,42.0 years,45.9 years,"$93,811","$1,103",Cypress-Hollow,51.5%,17.3%,50.9%,37.6%,8.3%,14.3%,17.2%,35.8%,38.7%,4.5%,3.7%,85.4%,209,"9,119 people per square mile",101
+547,0.218 square miles,NA,NA,NA,NA,NA,NA,NA,Cypress-Meadows,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+548,0.008 square miles,39.0 people,1.8,2.2,39.9 years,43.1 years,"$142,695",$970,Cypress-Park-Garden-Homes-Condo,80.0%,14.8%,78.8%,30.2%,4.8%,9.6%,6.5%,49.4%,30.9%,0.0%,3.0%,82.6%,10,"1,251 people per square mile",4
+549,0.007 square miles,3.4 people,1.5,1.1,28.3 years,24.0 years,"$37,927",$796,Cypress-Point,61.6%,6.5%,28.3%,8.0%,5.8%,25.3%,32.9%,43.4%,44.4%,0.0%,19.6%,69.4%,11,"1,642 people per square mile",6
+550,0.019 square miles,2.3 people,1.3,2.0,63.4 years,58.1 years,"$96,702","$2,683",Cypress-Run,33.4%,11.3%,65.1%,38.1%,0.5%,7.4%,7.5%,72.3%,15.9%,0.0%,6.4%,51.9%,122,"6,477 people per square mile",58
+551,0.032 square miles,NA,NA,NA,NA,NA,NA,NA,Cypress-Trace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+552,0.046 square miles,3.2 people,3.8,1.3,39.4 years,34.7 years,"$34,350",$632,Cypress-Tree,34.0%,39.0%,37.8%,21.1%,11.2%,15.7%,18.6%,23.1%,26.7%,22.8%,10.5%,33.6%,58,"1,260 people per square mile",27
+553,0.003 square miles,1.7 people,1.0,1.0,51.5 years,34.6 years,"$31,618",$853,Cypress-Willows,32.3%,31.2%,20.6%,109.7%,11.6%,3.0%,43.8%,31.2%,26.0%,0.0%,73.2%,45.1%,3,"1,105 people per square mile",2
+554,0.107 square miles,3.2 people,1.2,1.9,35.4 years,26.3 years,"$26,806",$793,Dairy-Farm,61.9%,9.6%,34.3%,10.0%,2.5%,21.6%,23.3%,19.9%,67.9%,3.4%,16.9%,72.1%,345,"3,224 people per square mile",176
+555,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Dakota-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Dakota,"6,199 people per square mile",2
+556,0.011 square miles,1.6 people,1.4,0.9,58.4 years,40.8 years,"$20,903","$1,266",Dale-Mabry-Highway-Beach-Street,13.6%,18.1%,17.6%,39.3%,3.9%,18.6%,19.2%,39.4%,38.6%,4.8%,25.5%,43.9%,42,"3,798 people per square mile",16
+557,0.166 square miles,3.1 people,1.5,2.1,52.2 years,46.6 years,"$105,930","$1,049",Dana-Shores,52.9%,15.2%,54.5%,22.9%,8.1%,11.7%,15.2%,45.0%,31.8%,2.6%,13.1%,63.3%,274,"1,649 people per square mile",142
+558,0.018 square miles,2.6 people,9.6,0.7,60.5 years,49.1 years,"$55,426",$719,Daneli-North,42.0%,14.8%,59.0%,33.8%,11.2%,5.2%,18.3%,39.3%,34.7%,10.2%,4.9%,77.1%,50,"2,788 people per square mile",23
+559,0.020 square miles,NA,NA,NA,NA,NA,NA,NA,Daphne-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+560,,NA,NA,NA,NA,NA,NA,NA,Davis-Island-Harmony-Run,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+561,1.663 square miles,1.9 people,1.6,1.7,26.8 years,40.4 years,"$94,049","$1,267",Davis-Islands,27.1%,8.3%,26.5%,19.7%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,21.1%,89.7%,"7,002","4,210 people per square mile","3,185"
+562,0.015 square miles,2.6 people,1.4,2.2,33.8 years,33.9 years,"$47,101",$816,Davis-Terrace,59.9%,14.4%,43.5%,27.9%,7.2%,17.7%,18.6%,35.2%,43.1%,6.0%,10.1%,72.3%,72,"4,720 people per square mile",34
+563,0.013 square miles,2.4 people,1.3,1.7,37.5 years,34.2 years,"$49,076",$794,De-Leon-Park,48.0%,6.0%,38.6%,25.6%,3.0%,19.1%,17.2%,48.7%,42.3%,0.0%,14.7%,90.1%,59,"4,378 people per square mile",28
+564,0.123 square miles,3.2 people,2.1,2.0,60.3 years,53.6 years,"$79,599",$939,Deer-Creek,55.3%,12.7%,64.5%,20.8%,3.3%,4.4%,14.9%,44.3%,39.6%,0.0%,13.2%,78.5%,21,170 people per square mile,11
+565,,NA,NA,NA,NA,NA,NA,NA,Dekle-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+566,0.231 square miles,NA,NA,NA,NA,NA,NA,NA,Del-Rio-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+567,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Del-Rio-Townhouses,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+568,0.027 square miles,3.3 people,1.5,1.8,31.8 years,30.4 years,"$37,262",$824,Delaney-Creek-Estates,59.8%,16.5%,31.9%,10.9%,11.8%,19.3%,20.6%,20.0%,51.8%,6.1%,16.0%,67.6%,36,"1,337 people per square mile",16
+569,0.011 square miles,3.3 people,1.5,1.8,31.8 years,30.4 years,"$37,262",$824,Delaney-Woods,59.8%,16.5%,31.9%,11.3%,11.8%,19.3%,20.6%,20.0%,51.8%,0.0%,16.7%,67.6%,14,"1,287 people per square mile",6
+570,,34.9%,22.8%,12.3%,32.0%,10.7%,$911,1.3 people,Delaware-Avenue-Townhomes,30.1%,17.2%,58.5%,3.0%,32.6%,1.2,1.6,60.2%,242.5,36.8%,8.3%,26.4%,NA,"$52,778",20.7%
+571,0.002 square miles,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Deleon-Medical-Professional-Condo,23.1%,9.1%,21.9%,33.7%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.7%,81.6%,31,"14,458 people per square mile",8
+572,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Deleon-Place-Townhouses,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Deleon,"13,118 people per square mile",2
+573,0.003 square miles,2.6 people,1.2,1.3,31.5 years,26.0 years,"$28,426","$1,054",Delmar-Terrace,55.0%,18.2%,26.1%,11.5%,0.7%,23.2%,23.0%,34.2%,46.9%,0.0%,39.4%,55.0%,8,"2,842 people per square mile",4
+574,0.004 square miles,1.7 people,0.5,1.3,23.4 years,44.1 years,"$11,865",$438,Denis-Place,42.0%,12.3%,4.4%,2.1%,7.2%,46.9%,18.9%,32.5%,48.0%,0.0%,56.8%,56.1%,17,"4,575 people per square mile",7
+575,0.013 square miles,2.5 people,0.8,1.7,35.1 years,33.2 years,"$17,165",$649,Desoto-Heights,43.6%,9.5%,31.1%,11.9%,1.3%,17.6%,26.5%,33.8%,55.4%,0.0%,24.0%,53.2%,7,523 people per square mile,4
+576,0.013 square miles,2.3 people,1.2,1.8,37.3 years,40.2 years,"$85,250",$868,Deuber-Place,42.4%,11.1%,40.3%,31.1%,1.8%,18.3%,18.5%,43.7%,43.4%,0.0%,4.5%,70.8%,68,"5,244 people per square mile",32
+577,0.012 square miles,2.5 people,1.4,1.7,44.6 years,44.1 years,"$49,063",$695,Devon-Park,32.3%,14.5%,25.5%,11.7%,8.6%,19.8%,28.2%,37.6%,39.4%,5.0%,29.5%,65.4%,60,"4,868 people per square mile",34
+578,0.015 square miles,2.4 people,1.2,2.0,42.4 years,35.4 years,"$62,196",$978,Devonshire-Woods,39.1%,14.6%,41.8%,32.7%,1.4%,16.4%,17.3%,52.1%,31.9%,0.0%,5.3%,65.8%,53,"3,455 people per square mile",26
+579,,NA,NA,NA,NA,NA,NA,NA,Diaz-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+580,0.120 square miles,2.5 people,0.8,1.6,28.8 years,36.1 years,"$17,583",$621,Dixie-Farms,45.9%,9.5%,38.4%,14.1%,1.3%,14.1%,22.9%,33.8%,55.4%,0.0%,20.2%,46.9%,160,"1,337 people per square mile",80
+581,0.015 square miles,NA,NA,NA,NA,NA,NA,NA,Dixie-Home,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+582,0.001 square miles,2.5 people,1.1,1.4,36.3 years,43.8 years,"$35,375",$641,Dixie-Park,49.6%,19.3%,36.8%,13.9%,11.3%,23.4%,13.1%,24.1%,45.3%,0.0%,30.7%,54.5%,2,"1,845 people per square mile",1
+583,0.003 square miles,2.8 people,1.4,1.8,32.3 years,32.9 years,"$49,074",$859,Dixie-Terrace,54.4%,8.5%,30.8%,11.3%,2.7%,19.8%,22.1%,34.0%,54.9%,0.0%,17.9%,72.0%,22,"7,550 people per square mile",10
+584,0.035 square miles,NA,NA,NA,NA,NA,NA,NA,Dixie-View,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+585,2,2.0 people,1.6,1.5,52.7 years,58.1 years,"$92,969","$1,287",Dockside-Condo,31.8%,11.8%,50.4%,70.2%,2.7%,10.5%,15.2%,38.0%,47.5%,0.0%,69.0%,43.4%,density:Dockside,"2,945 people per square mile",1
+586,0.007 square miles,12.1 people,1.4,1.7,38.2 years,41.2 years,"$40,590",$665,Dorothy-Park,44.1%,14.8%,34.2%,22.7%,5.7%,31.0%,12.4%,33.1%,46.4%,4.4%,6.7%,68.8%,48,"6,779 people per square mile",18
+587,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Double-Branch-Estate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+588,0.771 square miles,1.5 people,0.7,1.4,25.0 years,28.3 years,"$24,049",$779,Downtown,23.4%,17.8%,8.7%,1.2%,6.0%,48.9%,34.4%,57.0%,19.2%,1.9%,26.4%,74.4%,"8,808","11,426 people per square mile","3,823"
+589,0.704 square miles,2.5 people,1.2,1.7,40.1 years,38.9 years,"$45,004",$948,Downtown-Temple-Terrace,47.4%,7.7%,36.2%,23.5%,6.2%,19.3%,15.0%,40.0%,46.1%,2.1%,24.1%,61.2%,"2,593","3,684 people per square mile","1,167"
+590,1.630 square miles,2.9 people,0.3,1.4,53.6 years,47.0 years,"$22,782",$710,Drew-Park,49.3%,36.4%,29.9%,16.8%,8.1%,8.4%,28.1%,21.9%,33.6%,31.0%,22.2%,39.1%,"1,935","1,187 people per square mile","1,070"
+591,0.061 square miles,NA,NA,NA,NA,NA,NA,NA,Druid-Hills,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+592,0.010 square miles,2.8 people,1.3,1.8,43.9 years,43.3 years,"$35,476",$873,Durrance-Palm-River-Estates,38.4%,19.0%,31.3%,19.0%,5.8%,25.2%,16.7%,24.1%,51.0%,8.3%,6.8%,62.5%,13,"1,354 people per square mile",6
+593,0.058 square miles,3.1 people,1.7,1.7,51.4 years,50.6 years,"$49,026","$1,116",Eagle-Creek,41.7%,27.4%,47.0%,31.7%,6.1%,15.8%,15.6%,44.2%,22.3%,8.0%,5.3%,52.7%,30,521 people per square mile,14
+594,1,49.2%,5.0%,242.5,44.2%,49.4%,"$40,776",$874,Eagle-Trail,10.8%,75.4%,14.6%,17.1%,1.9,22.0%,24.1%,1.7,43.9%,10.0%,0.0%,7.7%,density:Eagle,"1,112 people per square mile",2.6 people
+595,0.167 square miles,3.2 people,11.9,2.4,36.9 years,45.4 years,"$108,438","$1,315",Eaglebrook,64.1%,16.1%,75.6%,30.0%,1.4%,13.7%,10.3%,41.7%,40.8%,2.9%,1.1%,79.4%,112,671 people per square mile,51
+596,0.074 square miles,2.3 people,1.2,1.9,36.7 years,28.7 years,"$34,572",$817,East-Bay-Farms,45.3%,19.0%,25.2%,15.2%,5.8%,10.9%,31.6%,24.1%,51.0%,11.3%,26.4%,46.8%,75,"1,013 people per square mile",41
+597,0.067 square miles,0.7 people,0.8,1.6,8.6 years,8.6 years,"$7,793",$229,East-Bay-Park,62.3%,4.0%,35.7%,5.6%,3.0%,24.9%,21.6%,26.6%,66.4%,0.0%,35.9%,44.4%,11,163 people per square mile,4
+598,0.067 square miles,2.6 people,0.8,1.6,33.1 years,33.0 years,"$29,984",$880,East-Bay,62.3%,4.0%,35.7%,5.3%,3.0%,24.9%,21.6%,26.6%,66.4%,0.0%,34.5%,44.4%,58,868 people per square mile,25
+599,0.067 square miles,2.6 people,0.8,1.6,33.1 years,33.0 years,"$29,984",$880,East-Bay,62.3%,4.0%,35.7%,5.3%,3.0%,24.9%,21.6%,26.6%,66.4%,0.0%,34.5%,44.4%,58,868 people per square mile,25
+600,0.001 square miles,3.2 people,1.0,2.6,37.7 years,32.1 years,"$29,028",$720,East-End-Place,50.9%,15.7%,38.1%,5.4%,8.2%,16.3%,26.6%,35.7%,40.4%,0.0%,21.4%,45.2%,6,"4,967 people per square mile",3
+601,0.029 square miles,36.0 people,1.4,1.7,39.2 years,31.5 years,"$46,037",$850,East-Gate-Mobile-Estates,52.7%,8.4%,46.9%,20.0%,5.1%,12.8%,14.4%,34.4%,52.1%,4.2%,12.7%,50.3%,53,"1,831 people per square mile",24
+602,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,East-Henry-Heights,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+603,0.163 square miles,2.5 people,1.8,1.5,45.2 years,45.3 years,"$47,566",$822,East-Lake-Park,49.3%,13.7%,47.0%,20.7%,2.7%,15.7%,15.9%,21.0%,62.6%,1.5%,20.2%,61.9%,70,429 people per square mile,35
+604,0.018 square miles,NA,NA,NA,NA,NA,NA,NA,East-Meadows,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+605,0.155 square miles,64.4%,70.0%,1.6,32.0 people,46.2 years,"$95,446",35,East-North-Tamp,76.5%,2.3,30.7%,2.7%,8.2%,1.5%,10.4%,3.8%,40.6%,47.5%,10.9%,16.7%,67,432 people per square mile,40.4 years
+606,0.225 square miles,1.5 people,0.8,1.3,29.5 years,41.4 years,"$30,490","$1,088",East-Office-District,21.1%,17.7%,10.6%,3.4%,5.9%,29.3%,30.7%,56.2%,20.2%,0.0%,65.4%,78.2%,"2,274","10,111 people per square mile","1,188"
+607,0.020 square miles,NA,NA,NA,NA,NA,NA,NA,East-Point,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+608,0.055 square miles,2.6 people,1.3,1.6,42.9 years,39.8 years,"$58,750",$941,East-Suwanee-Heights,53.5%,5.8%,45.9%,20.1%,5.0%,6.5%,18.6%,41.6%,47.6%,7.5%,13.1%,57.9%,175,"3,183 people per square mile",84
+609,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,East-Tampa-Map,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+610,3.782 square miles,2.7 people,0.9,1.5,35.6 years,32.0 years,"$30,799",$715,East-Tampa,43.9%,8.0%,18.8%,11.3%,3.3%,28.3%,24.5%,19.1%,69.6%,4.4%,24.1%,56.7%,"19,130","5,058 people per square mile","8,695"
+611,0.005 square miles,2.0 people,1.3,1.5,37.2 years,35.3 years,"$63,291",$929,East-View,38.1%,25.4%,32.6%,25.9%,6.9%,10.0%,14.5%,32.9%,34.8%,0.0%,13.7%,74.1%,7,"1,370 people per square mile",3
+612,0.029 square miles,2.1 people,1.1,1.9,45.1 years,43.5 years,"$63,750",$736,East-Village,40.1%,6.9%,51.1%,35.8%,7.1%,8.1%,8.1%,53.4%,32.6%,0.0%,1.7%,65.1%,80,"2,732 people per square mile",39
+613,0.009 square miles,2.9 people,1.0,1.9,33.2 years,35.6 years,"$27,419",$825,East-Way,53.1%,18.2%,30.7%,12.5%,6.9%,21.7%,21.1%,19.7%,55.2%,3.4%,18.7%,67.5%,63,"7,037 people per square mile",30
+614,0.281 square miles,2.0 people,0.5,1.3,34.0 years,42.1 years,"$41,921",$562,East-Ybor,36.5%,4.0%,26.7%,15.1%,3.0%,12.4%,28.2%,26.6%,66.3%,2.6%,9.9%,29.4%,518,"1,843 people per square mile",279
+615,0.035 square miles,37.0 people,1.8,2.0,46.4 years,32.8 years,"$76,595","$1,178",Eastbrook,60.7%,16.1%,60.5%,32.2%,1.4%,13.1%,17.1%,41.7%,40.8%,7.6%,0.8%,68.8%,85,"2,429 people per square mile",47
+616,0.062 square miles,2.8 people,0.8,1.1,41.5 years,36.4 years,"$36,897",$721,Eastern-Heights,40.7%,4.4%,6.3%,1.7%,4.8%,39.8%,18.3%,24.3%,66.5%,5.1%,36.9%,54.0%,320,"5,120 people per square mile",107
+617,0.014 square miles,3.5 people,1.3,1.8,37.3 years,20.8 years,"$26,189",$733,Eastgate-Shopping-Center,31.1%,9.6%,18.3%,9.0%,2.0%,34.4%,21.2%,10.8%,77.7%,3.1%,19.5%,52.6%,32,"2,366 people per square mile",13
+618,0.005 square miles,NA,NA,NA,NA,NA,NA,NA,Eastlyn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+619,0.341 square miles,NA,NA,NA,NA,NA,NA,NA,Easton-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+620,0.013 square miles,2.8 people,1.3,1.8,43.9 years,43.3 years,"$35,476",$873,Eastshore-Palms,38.4%,19.0%,31.3%,18.9%,5.8%,25.2%,16.7%,24.1%,51.0%,18.8%,6.8%,62.5%,17,"1,337 people per square mile",8
+621,0.033 square miles,NA,NA,NA,NA,NA,NA,NA,Echols-Lake-Carroll-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+622,0.005 square miles,27.0 people,1.2,2.3,41.4 years,42.5 years,"$47,869","$1,054",Eden-Park-Subdivision,25.1%,18.5%,25.1%,52.2%,5.5%,3.2%,24.2%,46.2%,29.8%,0.0%,29.0%,81.3%,9,"1,789 people per square mile",5
+623,0.053 square miles,NA,NA,NA,NA,NA,NA,NA,Edgewater-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+624,0.014 square miles,3.2 people,3.8,1.3,39.4 years,34.7 years,"$34,350",$632,Edgewater-Place,34.0%,39.0%,37.8%,21.8%,11.2%,15.7%,18.6%,23.1%,26.7%,17.6%,10.9%,33.6%,17,"1,207 people per square mile",8
+625,0.020 square miles,1.7 people,3.0,1.5,62.5 years,60.7 years,"$28,977",$387,Edinborough,13.4%,17.4%,23.7%,49.0%,5.7%,7.1%,12.8%,44.0%,32.9%,0.0%,7.0%,15.9%,12,605 people per square mile,4
+626,,34.9%,22.9%,12.3%,32.0%,10.7%,$911,1.3 people,Edison-Park,30.1%,17.2%,58.5%,3.0%,32.7%,1.2,1.6,60.5%,242.5,36.8%,8.3%,26.4%,NA,"$52,778",20.7%
+627,0.001 square miles,79.3%,60.9%,242.5,10.7%,20.7%,"$52,778",$911,Edison-Place-Condo,57.6%,36.8%,32.0%,34.9%,1.2,58.5%,30.1%,1.6,8.3%,3.0%,0.0%,32.9%,1,796 people per square mile,1.3 people
+628,0.013 square miles,28.0 people,1.0,1.7,31.2 years,47.3 years,"$90,179",$868,Edmondson-s,56.7%,11.1%,45.5%,36.0%,1.8%,8.9%,14.4%,43.7%,43.4%,0.0%,12.3%,73.9%,44,"3,352 people per square mile",20
+629,0.003 square miles,3.1 people,1.2,2.2,15.0 years,32.5 years,"$39,125",$782,Edna-Court,38.5%,38.6%,57.1%,17.7%,3.9%,2.8%,18.7%,20.7%,36.9%,0.0%,11.8%,72.5%,8,"2,359 people per square mile",3
+630,0.002 square miles,2.3 people,0.7,1.6,42.7 years,34.3 years,"$56,406",$703,Edwards,39.4%,16.0%,26.6%,14.1%,1.7%,23.3%,15.8%,46.5%,35.9%,0.0%,31.8%,86.8%,9,"4,526 people per square mile",3
+631,0.002 square miles,2.8 people,1.5,1.9,41.7 years,37.7 years,"$54,268","$1,273",Egypt-Lake-Beach-Club-Condo,51.1%,38.6%,46.1%,22.0%,3.9%,20.1%,14.8%,20.7%,36.9%,0.0%,11.4%,68.9%,6,"2,508 people per square mile",3
+632,0.009 square miles,2.8 people,1.2,2.0,50.3 years,42.0 years,"$73,828","$1,161",Ehrlich-Gardenlands,39.1%,14.6%,41.8%,33.4%,1.4%,16.4%,17.3%,52.1%,31.9%,0.0%,5.5%,65.8%,23,"2,668 people per square mile",11
+633,0.004 square miles,3.0 people,2.2,2.3,45.2 years,39.5 years,"$81,827",$981,Ehrlich-Road-Professional-Court-Condo,62.1%,15.1%,62.8%,25.0%,2.4%,12.9%,13.5%,39.3%,43.2%,0.0%,1.8%,77.7%,34,"9,021 people per square mile",17
+634,0.038 square miles,2.7 people,0.9,1.1,34.9 years,32.0 years,"$23,533",$619,El-Cerro,31.6%,13.6%,30.8%,10.9%,4.5%,18.7%,26.7%,26.3%,55.6%,15.8%,26.3%,61.2%,212,"5,616 people per square mile",123
+635,0.201 square miles,NA,NA,NA,NA,NA,NA,NA,El-Portal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+636,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,El-Portal-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+637,0.015 square miles,27.0 people,1.6,1.7,33.1 years,35.7 years,"$106,053",$987,El-Prado-Gardens,56.0%,7.2%,48.8%,31.9%,1.3%,14.0%,16.0%,44.2%,47.3%,0.0%,16.6%,69.9%,78,"5,308 people per square mile",37
+638,0.060 square miles,2.7 people,0.7,1.5,34.2 years,41.5 years,"$26,658",$812,El-Valle-De-Tampa,59.8%,4.0%,34.8%,6.8%,3.0%,23.5%,22.4%,26.6%,66.4%,0.0%,31.4%,42.9%,57,953 people per square mile,25
+639,0.001 square miles,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Elberon-Place-Condo,44.5%,5.8%,42.6%,38.6%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,7.5%,63.4%,6,"4,692 people per square mile",3
+640,2,2.3 people,0.8,1.9,41.4 years,42.3 years,"$82,750","$1,752",Elberon-Villas-Condo,44.5%,5.8%,42.6%,38.6%,8.2%,7.2%,7.6%,47.9%,38.0%,0.0%,7.5%,63.4%,density:Elberon,"3,330 people per square mile",1
+641,0.011 square miles,2.5 people,1.4,1.7,44.6 years,44.1 years,"$49,063",$695,Eldorado,32.3%,14.5%,25.5%,11.6%,8.6%,19.8%,28.2%,37.6%,39.4%,5.9%,29.3%,65.4%,52,"4,911 people per square mile",30
+642,0.005 square miles,52.4%,15.9%,242.5,21.0%,34.5%,"$70,688","$1,472",Eleanor-Villas,28.1%,42.3%,29.2%,16.5%,1.4,39.4%,38.6%,1.7,18.1%,3.9%,0.0%,12.5%,1,186 people per square mile,1.9 people
+643,0.003 square miles,59.3%,24.4%,242.5,31.9%,24.7%,"$15,471",$193,Elenor-Place,4.6%,69.7%,12.7%,33.7%,1.2,43.7%,43.4%,1.7,11.1%,1.8%,0.0%,6.2%,1,304 people per square mile,0.4 people
+644,0.132 square miles,2.6 people,1.4,2.0,38.2 years,37.6 years,"$32,700",$919,Elizabeth-Court,46.5%,12.5%,23.9%,17.7%,9.8%,22.6%,23.7%,27.9%,49.8%,10.3%,3.4%,58.8%,361,"2,738 people per square mile",161
+645,0.003 square miles,2.2 people,1.3,1.8,32.5 years,33.3 years,"$62,727","$1,055",Elizabeth-Court-Townhomes,48.3%,10.2%,40.0%,17.4%,3.3%,9.9%,20.4%,50.0%,36.6%,3.0%,24.1%,75.9%,31,"11,307 people per square mile",17
+646,0.041 square miles,NA,NA,NA,NA,NA,NA,NA,Emerald-Pointe-Townhomes-at-Tampa-Palms,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+647,0.026 square miles,2.8 people,1.8,2.1,38.8 years,40.3 years,"$37,166","$1,007",Emory-Heights,42.3%,18.2%,35.1%,33.0%,0.7%,15.2%,15.5%,34.2%,46.9%,9.0%,27.6%,76.0%,157,"5,966 people per square mile",65
+648,0.010 square miles,1.7 people,3.0,1.5,62.5 years,60.7 years,"$28,977",$387,Enchanted-Lake-Estates,13.4%,17.4%,23.7%,50.0%,5.7%,7.1%,12.8%,44.0%,32.9%,0.0%,7.1%,15.9%,6,598 people per square mile,2
+649,0.007 square miles,2.2 people,1.1,1.9,47.2 years,45.5 years,"$78,750",$807,Enclave-Of-Carrollwood,41.9%,6.9%,54.2%,37.6%,7.1%,7.3%,7.5%,53.4%,32.6%,0.0%,1.2%,67.8%,7,956 people per square mile,3
+650,0.032 square miles,39.0 people,1.8,2.2,39.9 years,43.1 years,"$142,695",$970,Enclave-at-Citrus-Park,80.0%,14.8%,78.8%,29.5%,4.8%,9.6%,6.5%,49.4%,30.9%,0.0%,2.9%,82.6%,41,"1,282 people per square mile",19
+651,0.100 square miles,3.2 people,1.0,1.3,30.6 years,29.3 years,"$30,836",$712,Englewood,46.1%,9.6%,12.5%,2.9%,2.0%,34.5%,25.6%,10.8%,77.7%,3.4%,25.7%,56.0%,616,"6,142 people per square mile",274
+652,0.013 square miles,2.0 people,1.3,1.6,37.2 years,35.3 years,"$63,291","$1,153",Entrada,35.8%,20.9%,25.4%,30.0%,5.1%,13.8%,23.0%,36.9%,37.1%,0.0%,16.0%,61.1%,6,447 people per square mile,3
+653,0.030 square miles,NA,NA,NA,NA,NA,NA,NA,Equestrian-Parc-at-Highwoods-Preserve-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+654,0.002 square miles,3.7 people,0.9,2.4,26.1 years,41.2 years,"$20,750",$645,Erin-Place,48.1%,28.6%,28.5%,14.4%,6.5%,27.2%,9.4%,24.3%,40.6%,8.7%,11.5%,44.3%,26,"12,599 people per square mile",10
+655,0.013 square miles,NA,NA,NA,NA,NA,NA,NA,Esco-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+656,2,2.8 people,1.8,2.0,33.4 years,29.0 years,"$93,125","$1,042",Esperanza-Street-Townhomes,65.6%,7.2%,66.5%,40.5%,1.3%,4.0%,19.6%,44.2%,47.3%,0.0%,3.9%,86.1%,density:Esperanza,"7,411 people per square mile",1
+657,0.045 square miles,2.9 people,1.2,1.6,36.2 years,45.3 years,"$51,116",$808,Essex-Downs,41.5%,18.7%,41.5%,35.3%,6.2%,13.8%,26.3%,44.4%,30.7%,14.6%,19.6%,63.0%,160,"3,523 people per square mile",89
+658,0.008 square miles,2.4 people,0.7,1.7,55.4 years,44.5 years,"$33,325",$456,Estelle-Estates,21.7%,17.1%,27.9%,30.1%,8.8%,8.9%,24.2%,27.8%,46.3%,14.8%,48.1%,64.9%,28,"3,524 people per square mile",15
+659,0.022 square miles,NA,NA,NA,NA,NA,NA,NA,Estuary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+660,0.004 square miles,1.9 people,1.2,1.7,34.0 years,37.5 years,"$61,413",$908,Etheridge,43.0%,6.1%,36.0%,38.2%,3.3%,22.6%,6.3%,53.9%,36.7%,0.0%,15.6%,75.3%,25,"5,762 people per square mile",11
+661,0.006 square miles,2.5 people,1.1,1.5,34.9 years,38.1 years,"$37,143",$793,Etzler-Grove-Heights,46.8%,18.2%,43.5%,41.0%,0.7%,22.0%,19.1%,34.2%,46.9%,4.2%,14.8%,75.0%,25,"4,191 people per square mile",11
+662,0.006 square miles,2.8 people,1.3,1.8,43.9 years,43.3 years,"$35,476",$873,Eucalyptus-Park,38.4%,19.0%,31.3%,20.1%,5.8%,25.2%,16.7%,24.1%,51.0%,0.0%,7.2%,62.5%,8,"1,307 people per square mile",4
+663,0.002 square miles,14.5%,14.5%,3.7%,8.0%,53.7%,$635,2.5 people,Eureka-Homes,56.9%,1.2%,30.7%,1.8%,2.3%,1.7,2.0,8.8%,242.5,61.0%,10.6%,9.4%,NA,"$26,607",61.0%
+664,0.013 square miles,2.3 people,1.4,1.4,32.4 years,26.7 years,"$37,396",$715,Eureka,30.6%,6.0%,16.6%,28.7%,3.0%,20.1%,36.2%,48.7%,42.3%,0.0%,15.3%,68.3%,37,"2,767 people per square mile",19
+665,0.003 square miles,2.5 people,1.9,1.9,40.1 years,38.7 years,"$53,750",$856,Eva-Egla-Terrace,37.2%,7.4%,34.0%,28.0%,8.4%,16.1%,19.8%,36.6%,47.6%,0.0%,15.5%,78.2%,10,"3,020 people per square mile",4
+666,0.059 square miles,2.7 people,1.4,1.8,31.6 years,33.2 years,"$41,807",$859,Evelyn-City,54.3%,8.5%,30.8%,11.1%,2.7%,19.9%,22.1%,34.0%,54.9%,2.6%,17.6%,71.8%,437,"7,353 people per square mile",212
+667,0.002 square miles,2.5 people,1.4,1.7,44.6 years,44.1 years,"$49,063",$695,Excelsior,32.3%,14.5%,25.5%,12.1%,8.6%,19.8%,28.2%,37.6%,39.4%,0.0%,30.5%,65.4%,12,"4,989 people per square mile",7
+668,0.216 square miles,2.3 people,1.2,1.7,45.5 years,46.8 years,"$36,440",$775,Fair-Ground-Farms,34.8%,41.4%,38.0%,41.7%,3.3%,7.3%,15.0%,18.1%,37.2%,15.6%,3.8%,51.6%,811,"3,748 people per square mile",388
+669,0.008 square miles,2.0 people,1.5,1.2,53.3 years,39.5 years,"$91,554","$1,125",Fair-Oaks-Manor,32.6%,11.4%,37.1%,28.9%,2.1%,7.4%,28.7%,49.0%,37.5%,0.0%,6.3%,74.6%,34,"4,122 people per square mile",18
+670,0.017 square miles,1.7 people,0.9,1.7,51.2 years,44.8 years,"$43,438",$698,Fair-Oaks-South-Condo,17.3%,10.8%,22.2%,28.0%,2.1%,6.8%,30.2%,48.7%,38.3%,4.3%,31.4%,69.4%,47,"2,770 people per square mile",27
+671,0.035 square miles,NA,NA,NA,NA,NA,NA,NA,Faircrest-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+672,0.007 square miles,2.5 people,0.7,1.4,28.9 years,33.3 years,"$28,571",$752,Fairfield,47.2%,15.7%,10.6%,4.1%,4.2%,24.0%,29.8%,20.0%,60.1%,4.5%,27.3%,53.2%,23,"3,483 people per square mile",10
+673,0.022 square miles,3.2 people,1.2,1.8,43.7 years,29.2 years,"$46,500","$1,043",Fairfield-Village,52.4%,27.8%,40.5%,21.1%,8.0%,16.5%,14.5%,32.8%,31.4%,9.7%,8.3%,72.0%,163,"7,552 people per square mile",75
+674,0.067 square miles,1.7 people,0.9,1.7,51.2 years,44.8 years,"$43,438",$698,Fairlawn-Estates,17.3%,10.8%,22.2%,27.6%,2.1%,6.8%,30.2%,48.7%,38.3%,6.5%,31.1%,69.4%,188,"2,814 people per square mile",109
+675,1.033 square miles,9.3 people,1.3,1.6,45.6 years,42.9 years,"$90,372",$835,Fairoaks-Manhattan-Manor,27.5%,10.9%,26.6%,27.5%,2.1%,21.2%,21.3%,48.8%,38.2%,3.8%,34.1%,66.9%,"3,080","2,981 people per square mile","1,377"
+676,0.012 square miles,1.7 people,0.9,1.7,51.2 years,44.8 years,"$43,438",$698,Fairoaks-North-Condo,17.3%,10.8%,22.2%,28.0%,2.1%,6.8%,30.2%,48.7%,38.3%,3.0%,31.5%,69.4%,34,"2,815 people per square mile",20
+677,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Fairview-Corrected,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+678,0.009 square miles,2.9 people,1.0,1.9,33.2 years,35.6 years,"$27,419",$825,Fairview-Mobile-Home-Park-Condo,53.1%,18.2%,30.7%,12.5%,6.9%,21.7%,21.1%,19.7%,55.2%,3.3%,18.7%,67.5%,66,"7,192 people per square mile",32
+679,0.008 square miles,2.0 people,0.7,1.4,35.0 years,49.2 years,"$33,867",$861,Fairview,30.9%,22.0%,29.8%,43.8%,3.0%,25.5%,14.0%,26.9%,48.1%,6.3%,8.0%,53.5%,16,"2,064 people per square mile",6
+680,0.045 square miles,21.9 people,1.2,1.8,47.8 years,44.0 years,"$47,598","$1,098",Fairview-Terrace,57.5%,14.5%,42.6%,22.4%,3.9%,19.8%,25.1%,33.7%,47.9%,7.3%,8.4%,80.3%,231,"5,118 people per square mile",123
+681,0.009 square miles,2.0 people,1.6,1.6,56.0 years,52.7 years,"$65,679","$1,088",Fairway-Lakes-Townhomes-Village-Condo,28.8%,7.5%,43.8%,38.0%,1.0%,6.2%,12.5%,55.3%,36.1%,0.0%,14.3%,56.0%,29,"3,099 people per square mile",14
+682,0.096 square miles,2.7 people,3.8,3.7,42.0 years,45.9 years,"$93,811","$1,103",Fairway-Village,50.9%,17.3%,49.8%,38.3%,8.3%,14.1%,17.2%,35.8%,38.7%,5.9%,3.8%,87.4%,"1,064","11,131 people per square mile",519
+683,0.006 square miles,32.0 people,2.2,2.3,42.5 years,36.1 years,"$65,417","$1,291",Fairway-Villas-at-Pebble-Creek-Village-Condo,58.8%,25.7%,85.9%,35.0%,3.2%,12.5%,9.4%,43.1%,28.0%,0.0%,3.7%,75.6%,14,"2,514 people per square mile",8
+684,0.002 square miles,2.9 people,1.5,1.8,45.1 years,40.8 years,"$31,060",$653,Faith-Park,50.3%,32.6%,41.1%,18.6%,4.3%,14.0%,21.2%,19.8%,43.4%,0.0%,14.6%,55.0%,3,"1,947 people per square mile",1
+685,0.024 square miles,2.5 people,0.8,1.6,28.8 years,36.1 years,"$17,583",$621,Farm-Land,45.9%,16.7%,38.4%,14.4%,5.9%,14.1%,22.9%,22.2%,55.2%,0.0%,20.5%,46.9%,31,"1,318 people per square mile",15
+686,0.047 square miles,2.9 people,1.0,1.9,33.2 years,35.6 years,"$27,419",$825,FarmLand,53.1%,18.2%,30.7%,12.5%,6.9%,21.7%,21.1%,19.7%,55.2%,9.1%,18.6%,67.5%,334,"7,157 people per square mile",163
+687,0.028 square miles,2.6 people,1.2,1.7,30.7 years,26.8 years,"$42,466",$831,Faulkenburg-Heights,54.9%,12.5%,36.2%,19.3%,7.8%,19.1%,22.0%,32.5%,47.2%,1.0%,17.0%,71.1%,346,"12,253 people per square mile",184
+688,0.023 square miles,NA,NA,NA,NA,NA,NA,NA,Faulkenburg-Industrial-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+689,0.187 square miles,2.5 people,1.1,1.9,46.1 years,38.5 years,"$89,236",$877,Fawn-Lake,44.5%,15.2%,62.7%,37.1%,1.7%,6.8%,3.8%,50.2%,33.0%,3.3%,4.4%,67.9%,68,365 people per square mile,37
+690,0.636 square miles,28.2 people,1.1,1.9,42.9 years,42.7 years,"$129,144",$900,Fawn-Ridge-Village,44.6%,15.2%,62.7%,36.9%,1.7%,6.8%,3.8%,50.2%,33.0%,4.5%,21.0%,67.9%,227,357 people per square mile,123
+691,0.128 square miles,2.9 people,0.9,1.6,34.0 years,35.4 years,"$26,717",$629,Fern-Cliff,56.8%,8.8%,21.3%,3.9%,4.5%,26.8%,31.9%,23.6%,63.1%,2.1%,30.7%,55.1%,904,"7,078 people per square mile",456
+692,0.014 square miles,45.0%,1.6%,14.3%,71.8%,58.5%,"$74,342",$674,Fernwood,4.0%,242.5,7.0%,10.2%,66.8%,4.7%,46.4%,1.4,2.6,10.0%,38.8%,3.0%,1,71 people per square mile,3.1 people
+693,0.029 square miles,2.5 people,0.8,1.6,28.8 years,36.1 years,"$17,583",$621,Field-s-Park-Place,45.9%,9.5%,38.4%,14.5%,1.3%,14.1%,22.9%,33.8%,55.4%,0.0%,20.7%,46.9%,38,"1,307 people per square mile",19
+694,0.001 square miles,1.6 people,1.1,1.3,33.8 years,42.7 years,"$55,643",$880,Fifth-Avenue-Villas-Condo,12.2%,12.3%,13.2%,2.4%,7.2%,24.4%,34.9%,32.5%,48.0%,0.0%,63.0%,56.1%,3,"2,084 people per square mile",1
+695,0.059 square miles,2.5 people,1.7,2.0,49.1 years,48.0 years,"$26,607",$635,Firn-Acres,61.0%,10.6%,53.7%,43.5%,1.8%,14.5%,8.0%,30.7%,56.9%,0.0%,25.3%,61.0%,12,203 people per square mile,6
+696,1,53.0%,35.6%,242.5,70.5%,30.7%,"$135,985","$1,168",First-Green-Townhomes,2.7%,34.4%,8.1%,10.8%,1.2,48.8%,43.9%,1.8,6.9%,0.4%,0.0%,28.8%,density:First,"2,853 people per square mile",2.6 people
+697,0.004 square miles,2.4 people,0.9,1.5,33.6 years,38.7 years,"$25,139",$655,Fisher-Estates,43.2%,17.8%,32.2%,27.6%,6.5%,19.3%,11.3%,31.5%,44.2%,4.8%,9.7%,67.3%,23,"5,997 people per square mile",10
+698,0.396 square miles,NA,NA,NA,NA,NA,NA,NA,Fisher-s-Farm,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+699,0.020 square miles,NA,NA,NA,NA,NA,NA,NA,Fla-Orthopeadic-Institute-Surgery-Center,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+700,,NA,NA,NA,NA,NA,NA,NA,Flamingo-Road-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+701,0.004 square miles,21.0 people,1.8,1.8,48.4 years,50.2 years,"$36,552",$662,Fletcher-Court,34.4%,16.8%,22.7%,31.4%,5.2%,11.1%,17.5%,35.3%,42.6%,0.0%,13.3%,79.8%,11,"2,875 people per square mile",5
+702,0.026 square miles,2.6 people,1.5,1.9,43.8 years,37.9 years,"$72,716",$857,Fletchers-Mill,52.1%,16.4%,58.6%,30.7%,3.6%,16.5%,15.4%,40.4%,39.6%,1.4%,8.5%,67.9%,76,"2,944 people per square mile",36
+703,0.023 square miles,2.4 people,1.3,1.8,33.3 years,38.9 years,"$45,152",$872,Fletchers-Point,39.2%,8.2%,33.7%,28.0%,3.5%,13.2%,19.3%,38.5%,49.8%,0.0%,10.9%,56.7%,84,"3,613 people per square mile",38
+704,0.015 square miles,2.5 people,1.1,1.4,36.3 years,43.8 years,"$35,375",$641,Flora-Park,49.6%,19.3%,36.8%,9.8%,11.3%,23.4%,13.1%,24.1%,45.3%,12.9%,21.7%,54.5%,34,"2,250 people per square mile",16
+705,0.070 square miles,2.3 people,1.0,1.4,38.0 years,35.5 years,"$26,203",$671,Floral-Gardens,38.2%,14.8%,32.1%,37.2%,11.2%,23.9%,11.4%,39.3%,34.7%,11.0%,11.2%,48.8%,282,"4,002 people per square mile",136
+706,0.002 square miles,2.9 people,1.8,2.1,33.8 years,37.0 years,"$76,250","$1,244",Floraland-Acres,58.8%,26.5%,57.2%,23.8%,4.0%,13.5%,12.9%,31.8%,37.7%,0.0%,12.9%,83.3%,8,"3,212 people per square mile",3
+707,0.003 square miles,2.6 people,1.2,1.3,31.5 years,26.0 years,"$28,426","$1,054",Floravilla,55.0%,18.2%,26.1%,11.7%,0.7%,23.2%,23.0%,34.2%,46.9%,0.0%,40.1%,55.0%,9,"2,808 people per square mile",5
+708,0.078 square miles,1.0 people,1.1,1.5,12.8 years,12.4 years,"$10,029",$327,Florence-Villa,40.5%,17.1%,26.1%,3.2%,6.3%,24.5%,17.8%,19.7%,56.8%,86.7%,34.8%,85.7%,72,920 people per square mile,32
+709,0.006 square miles,2.6 people,1.4,2.1,28.6 years,43.2 years,"$44,375",$920,Florida-Ave-Heights,61.3%,16.0%,36.5%,21.5%,1.7%,27.4%,11.5%,46.5%,35.9%,5.9%,6.9%,84.1%,19,"3,029 people per square mile",7
+710,0.007 square miles,22.0 people,1.2,1.3,41.0 years,40.1 years,"$30,602",$684,Florida-Avenue,40.9%,16.8%,32.3%,28.9%,5.2%,16.4%,19.0%,35.3%,42.6%,2.7%,20.4%,53.7%,40,"5,480 people per square mile",19
+711,0.274 square miles,3.4 people,2.1,2.1,26.8 years,31.2 years,"$55,898","$1,014",Florida-College,56.6%,14.4%,53.0%,24.0%,7.2%,31.7%,20.4%,35.2%,43.1%,4.0%,5.6%,41.4%,676,"2,464 people per square mile",284
+712,0.014 square miles,2.5 people,1.4,1.7,44.6 years,44.1 years,"$49,063",$695,Florida-Place,32.3%,14.5%,25.5%,11.6%,8.6%,19.8%,28.2%,37.6%,39.4%,4.4%,29.2%,65.4%,69,"4,932 people per square mile",39
+713,0.018 square miles,2.5 people,1.1,1.4,36.3 years,43.8 years,"$35,375",$641,Flowers-and-Stuart-Oak-Grove,49.6%,19.3%,36.8%,9.7%,11.3%,23.4%,13.1%,24.1%,45.3%,13.9%,21.5%,54.5%,40,"2,252 people per square mile",18
+714,,NA,NA,NA,NA,NA,NA,NA,Fords-Landing-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+715,0.043 square miles,1.8 people,1.3,1.3,36.4 years,36.1 years,"$48,333","$1,247",Forest-Heights,28.2%,18.1%,20.2%,31.2%,3.9%,18.5%,27.5%,39.4%,38.6%,2.7%,14.9%,42.3%,153,"3,556 people per square mile",76
+716,0.025 square miles,NA,NA,NA,NA,NA,NA,NA,Forest-Hills-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+717,1.246 square miles,2.5 people,2.0,1.8,42.8 years,42.6 years,"$47,808",$883,Forest-Hills,50.3%,13.1%,45.7%,28.3%,1.5%,15.0%,16.2%,40.7%,44.7%,5.7%,6.8%,63.5%,"4,137","3,319 people per square mile","2,047"
+718,0.014 square miles,2.3 people,1.5,1.7,35.1 years,37.3 years,"$47,222",$864,Forest-Hills-Village,49.5%,13.4%,37.0%,28.5%,1.4%,17.3%,16.9%,40.9%,44.4%,6.1%,3.5%,71.9%,54,"3,853 people per square mile",27
+719,0.030 square miles,2.6 people,1.3,2.0,39.0 years,34.9 years,"$44,805",$849,Forest-Manor,45.2%,7.4%,39.2%,20.7%,8.4%,14.9%,21.7%,36.6%,47.6%,0.0%,17.1%,74.9%,40,"1,347 people per square mile",19
+720,2,3.0 people,1.1,2.3,40.8 years,32.9 years,"$37,316",$917,Forest-Oaks-Subdivision,55.9%,7.4%,46.1%,17.2%,8.4%,13.4%,23.9%,36.6%,47.6%,0.0%,18.6%,67.9%,density:Forest,"2,730 people per square mile",1
+721,0.047 square miles,3.1 people,1.2,2.0,40.7 years,31.7 years,"$38,320",$758,Fortuna-Acres,53.0%,17.5%,38.9%,9.2%,9.5%,12.0%,17.5%,22.1%,51.0%,0.0%,19.0%,44.4%,21,448 people per square mile,10
+722,0.001 square miles,2.3 people,1.0,1.7,56.2 years,39.6 years,"$36,141",$740,Forty-Two-Hundred-North-Armenia-Condo,34.1%,41.4%,27.5%,49.0%,3.3%,8.9%,18.8%,18.1%,37.2%,0.0%,4.2%,41.8%,4,"2,821 people per square mile",2
+723,0.018 square miles,4.5 people,1.8,1.9,64.7 years,58.3 years,"$67,207","$1,404",Fountain-Park,38.9%,37.6%,28.8%,17.5%,11.3%,14.0%,21.0%,22.4%,28.7%,12.5%,3.2%,68.2%,271,"15,281 people per square mile",133
+724,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Fountain-Plaza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+725,0.066 square miles,2.6 people,1.5,2.1,45.2 years,40.4 years,"$91,761",$909,Fountain-Square,52.9%,15.2%,54.5%,23.0%,8.1%,11.7%,15.2%,45.0%,31.8%,2.3%,13.2%,63.3%,130,"1,983 people per square mile",67
+726,0.032 square miles,2.8 people,6.3,1.3,46.7 years,40.3 years,"$77,182",$896,Frances-Arbor-South,56.7%,15.3%,70.2%,31.6%,3.6%,7.7%,9.6%,34.4%,46.7%,2.4%,4.3%,68.8%,93,"2,896 people per square mile",42
+727,0.074 square miles,2.6 people,1.1,1.9,42.8 years,50.8 years,"$62,236",$919,Frances-Arbor-Villas,44.0%,15.3%,56.7%,18.6%,3.6%,12.0%,17.8%,34.4%,46.7%,10.3%,20.4%,59.9%,388,"5,219 people per square mile",188
+728,4,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Franklin-Park-Condo,46.3%,9.1%,56.4%,54.3%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.7%,52.5%,density:Franklin,"4,956 people per square mile",2
+729,0.005 square miles,2.2 people,1.7,1.4,42.4 years,51.3 years,"$24,009",$649,Franklin-Place,27.9%,28.6%,21.8%,38.9%,6.5%,10.4%,28.9%,24.3%,40.6%,13.0%,73.7%,66.7%,24,"5,277 people per square mile",13
+730,,23.4%,4.0%,2.8%,34.6%,12.7%,"$1,301",1.4 people,Franklin-Street-City-Lofts,17.7%,5.3%,57.9%,6.1%,15.9%,0.9,1.3,29.7%,242.5,78.2%,18.3%,3.2%,NA,"$53,493",13.7%
+731,0.136 square miles,1.4 people,0.9,1.3,37.1 years,38.1 years,"$53,493","$1,301",Franklin-Street,13.7%,18.3%,12.7%,0.0%,6.1%,23.4%,34.6%,57.9%,17.7%,0.8%,71.7%,78.2%,"2,965","21,777 people per square mile","1,671"
+732,0.006 square miles,2.2 people,1.0,1.5,54.2 years,50.5 years,"$35,333",$701,Free-Land-Heights,36.6%,16.8%,31.6%,30.5%,5.2%,6.2%,20.8%,35.3%,42.6%,0.0%,16.3%,39.5%,16,"2,479 people per square mile",9
+733,,13.4%,2.4%,7.0%,11.4%,60.5%,"$1,034",2.4 people,Friendship-Heights,38.0%,4.8%,47.9%,8.2%,3.7%,1.8,1.8,4.5%,242.5,67.2%,5.8%,4.5%,NA,"$68,875",50.7%
+734,0.007 square miles,1.4 people,0.9,1.3,37.1 years,38.1 years,"$53,493","$1,301",Ft-Brooke,13.7%,18.3%,12.7%,0.0%,6.1%,23.4%,34.6%,57.9%,17.7%,0.0%,74.8%,78.2%,13,"1,819 people per square mile",7
+735,0.014 square miles,NA,NA,NA,NA,NA,NA,NA,Funk-s-Home-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+736,,16.5%,21.9%,1.9%,9.5%,51.0%,"$1,100",2.8 people,Gadsden-Avenue,29.8%,5.9%,46.2%,5.5%,3.8%,1.5,1.7,10.3%,242.5,64.8%,18.5%,4.6%,NA,"$98,824",56.4%
+737,0.007 square miles,3.2 people,1.1,1.9,46.1 years,42.4 years,"$34,857",$611,Galloway-Heights,44.4%,3.8%,42.3%,32.0%,4.9%,19.4%,31.7%,24.5%,66.8%,0.0%,176.5%,67.0%,17,"2,448 people per square mile",8
+738,0.014 square miles,NA,NA,NA,NA,NA,NA,NA,Ganbridge-City,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+739,0.007 square miles,3.2 people,1.0,1.6,39.2 years,25.9 years,"$42,634",$579,Gand-View,56.1%,6.8%,40.2%,6.6%,7.9%,23.2%,34.9%,35.3%,50.0%,0.0%,9.4%,88.6%,51,"7,810 people per square mile",30
+740,0.240 square miles,1.4 people,1.4,1.7,30.1 years,28.6 years,"$40,169",$779,Gandy-Boulevard-Park,37.0%,6.1%,35.4%,24.1%,3.3%,14.0%,12.1%,53.9%,36.7%,0.7%,21.8%,69.7%,211,879 people per square mile,105
+741,0.053 square miles,NA,NA,NA,NA,NA,NA,NA,Gandy-City,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+742,0.314 square miles,NA,NA,NA,NA,NA,NA,NA,Gandy-Gardens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+743,0.018 square miles,NA,NA,NA,NA,NA,NA,NA,Gandy-Manor-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+744,0.137 square miles,NA,NA,NA,NA,NA,NA,NA,Gandy-Manor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+745,0.002 square miles,2.0 people,1.3,1.6,60.6 years,52.6 years,"$35,417",$866,Gandy-Sherwood-Townhomes,20.5%,6.1%,23.4%,22.5%,3.3%,12.5%,9.3%,53.9%,36.7%,0.0%,29.5%,75.1%,5,"2,862 people per square mile",2
+746,0.011 square miles,NA,NA,NA,NA,NA,NA,NA,Gandy-Shores-East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+747,0.012 square miles,2.3 people,1.4,1.4,32.1 years,26.5 years,"$37,053",$708,Garden-Acres,30.6%,6.0%,16.6%,29.1%,3.0%,20.1%,36.2%,48.7%,42.3%,0.0%,15.4%,68.3%,16,"1,301 people per square mile",8
+748,0.014 square miles,2.3 people,1.4,1.3,40.3 years,27.7 years,"$36,885",$745,Gardenia-Heights,41.9%,38.6%,27.6%,9.5%,3.9%,10.3%,26.7%,20.7%,36.9%,10.7%,27.6%,53.6%,131,"9,153 people per square mile",72
+749,0.014 square miles,16.9 people,1.4,1.9,37.8 years,35.8 years,"$132,125","$1,164",Gardenia,65.5%,7.2%,62.5%,36.2%,1.3%,10.0%,8.9%,44.2%,47.3%,0.0%,2.7%,81.3%,96,"6,955 people per square mile",47
+750,0.026 square miles,3.2 people,1.2,1.9,35.4 years,26.3 years,"$26,806",$793,Gardenville,61.9%,9.6%,34.3%,10.0%,2.5%,21.6%,23.3%,19.9%,67.9%,1.3%,16.9%,72.1%,83,"3,233 people per square mile",42
+751,0.002 square miles,2.5 people,1.4,1.7,44.6 years,44.1 years,"$49,063",$695,Garrett-Heights,32.3%,14.5%,25.5%,12.1%,8.6%,19.8%,28.2%,37.6%,39.4%,0.0%,30.5%,65.4%,8,"5,134 people per square mile",4
+752,0.107 square miles,1.4 people,0.9,1.3,37.1 years,38.1 years,"$53,493","$1,301",Garrison-Channel-District,13.7%,18.3%,12.7%,0.0%,6.1%,23.4%,34.6%,57.9%,17.7%,0.0%,74.0%,78.2%,4,37 people per square mile,2
+753,0.055 square miles,2.9 people,0.5,1.3,36.8 years,52.1 years,"$24,412",$523,Garytown,32.4%,4.0%,25.3%,16.0%,3.0%,10.7%,29.0%,26.6%,66.4%,2.6%,7.5%,26.8%,117,"2,127 people per square mile",65
+754,1,0.0%,5.7%,242.5,6.2%,21.6%,"$23,519",$968,Gaspar-on-Delaware-Townhomes,23.8%,57.0%,37.7%,49.2%,1.0,54.9%,27.2%,1.4,11.7%,6.3%,0.0%,3.9%,density:Gaspar,"2,199 people per square mile",1.9 people
+755,0.072 square miles,1.8 people,55.1%,1.2,30.8 years,25.5 years,"$30,313","$1,340",Gateway-District,13.5%,1.5,6.7%,0.0%,18.3%,27.5%,46.5%,6.1%,57.9%,17.7%,39.6%,242.5,412,"5,699 people per square mile",257
+756,0.053 square miles,3.3 people,1.2,1.8,39.3 years,29.5 years,"$34,694",$919,Gateway,57.5%,14.5%,42.2%,22.2%,3.9%,19.9%,25.4%,33.7%,47.9%,7.4%,8.3%,80.8%,353,"6,676 people per square mile",189
+757,0.007 square miles,1.6 people,1.1,1.3,33.8 years,42.7 years,"$55,643",$880,Geneva,12.2%,12.3%,13.2%,2.4%,7.2%,24.4%,34.9%,32.5%,48.0%,0.0%,63.0%,56.1%,16,"2,363 people per square mile",8
+758,0.009 square miles,2.4 people,1.1,1.5,36.3 years,28.4 years,"$38,828",$779,Gentilly-Oaks,39.6%,13.7%,27.1%,17.8%,4.6%,21.8%,20.5%,30.8%,50.9%,0.0%,22.4%,71.9%,36,"3,809 people per square mile",17
+759,0.109 square miles,0.6 people,1.7,2.0,9.2 years,10.2 years,"$11,107",$211,George-Road-Estates,46.0%,37.6%,42.8%,28.0%,11.3%,12.8%,17.0%,22.4%,28.7%,27.9%,2.8%,65.7%,48,441 people per square mile,23
+760,1,39.3%,8.6%,242.5,59.0%,42.0%,"$55,426",$719,Georgetown-Professional-Office-Park-Condo,5.7%,77.1%,18.3%,5.2%,9.6,39.3%,34.7%,0.7,14.8%,11.2%,0.0%,3.9%,density:Georgetown,"1,913 people per square mile",2.6 people
+761,1,39.3%,8.6%,242.5,59.0%,42.0%,"$55,426",$719,Georgetown-Professional-Office-Park,5.7%,77.1%,18.3%,5.2%,9.6,39.3%,34.7%,0.7,14.8%,11.2%,0.0%,3.9%,density:Georgetown,"1,659 people per square mile",2.6 people
+762,0.006 square miles,2.3 people,1.4,1.4,32.4 years,26.7 years,"$37,396",$715,Georgia-Park,30.6%,6.0%,16.6%,29.3%,3.0%,20.1%,36.2%,48.7%,42.3%,0.0%,15.6%,68.3%,17,"2,698 people per square mile",9
+763,0.014 square miles,NA,NA,NA,NA,NA,NA,NA,Georgia-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+764,0.011 square miles,1.4 people,0.9,1.3,37.1 years,38.1 years,"$53,493","$1,301",Gilchrist-s-A-W-Oak-Grove,13.7%,18.3%,12.7%,0.0%,6.1%,23.4%,34.6%,57.9%,17.7%,0.0%,77.7%,78.2%,9,785 people per square mile,5
+765,0.014 square miles,2.3 people,1.8,1.5,32.3 years,55.5 years,"$36,806",$831,Gillette-Park,36.2%,41.4%,59.7%,43.0%,3.3%,4.1%,6.9%,18.1%,37.2%,11.8%,4.2%,70.3%,51,"3,672 people per square mile",21
+766,2,2.3 people,0.5,1.7,44.0 years,43.3 years,"$16,138",$378,Giustos-Townhomes,25.4%,8.7%,8.9%,4.1%,3.2%,29.1%,21.0%,26.2%,62.0%,0.0%,58.0%,33.8%,density:Giustos,"4,036 people per square mile",0
+767,0.030 square miles,0.1 people,2.0,1.7,1.5 years,1.0 years,"$1,733",$26,Glen-Ellen-Village,53.0%,27.8%,46.7%,17.8%,8.0%,13.0%,26.2%,32.8%,31.4%,5.9%,5.7%,71.3%,5,164 people per square mile,3
+768,3,1.5 people,1.4,1.3,31.2 years,42.0 years,"$59,050",$838,Glen-Park-Condo,26.1%,9.1%,22.6%,52.7%,4.5%,15.9%,29.9%,41.0%,45.4%,0.0%,2.9%,71.1%,density:Glen,"3,645 people per square mile",2
+769,0.029 square miles,2.3 people,1.5,1.6,45.5 years,46.8 years,"$36,440",$801,Glennoaks,35.4%,41.4%,47.3%,42.5%,3.3%,6.0%,11.6%,18.1%,37.2%,11.2%,4.0%,59.8%,109,"3,705 people per square mile",49
+770,,NA,NA,NA,NA,NA,NA,NA,Glennshores-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+771,0.114 square miles,2.8 people,1.3,1.8,43.9 years,43.3 years,"$35,476",$873,Glenwood-Acres,38.4%,19.0%,31.3%,18.4%,5.8%,25.2%,16.7%,24.1%,51.0%,19.3%,6.6%,62.5%,158,"1,382 people per square mile",76
+772,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Glenwood,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+773,0.007 square miles,28.0 people,0.9,1.2,40.2 years,45.8 years,"$16,875",$827,Goidsteins-Oak-Grove-Springs,27.7%,17.8%,26.2%,49.2%,6.5%,33.0%,18.6%,31.5%,44.2%,2.9%,333.9%,60.0%,34,"4,651 people per square mile",15
+774,0.006 square miles,2.6 people,1.2,1.7,30.7 years,26.8 years,"$42,493",$832,Gold-Coast,54.9%,12.5%,36.2%,19.4%,7.8%,19.1%,22.0%,32.5%,47.2%,0.0%,17.1%,71.1%,36,"6,163 people per square mile",19
+775,0.005 square miles,25.4%,11.1%,11.1%,34.8%,11.5%,$730,2.6 people,Gold-Rush,55.4%,58.3%,33.8%,1.3%,2.8%,0.5,2.9,11.1%,242.5,55.1%,9.5%,9.4%,NA,"$16,750",37.5%
+776,0.003 square miles,2.0 people,1.8,1.6,37.3 years,43.3 years,"$77,695","$1,174",Gold-s,29.7%,11.8%,33.9%,44.2%,2.7%,16.5%,21.8%,38.0%,47.5%,0.0%,7.7%,82.5%,16,"5,549 people per square mile",8
+777,0.044 square miles,2.8 people,1.8,1.9,40.2 years,47.7 years,"$50,970",$913,Golden-Estates,42.0%,37.6%,41.4%,18.2%,11.3%,10.4%,23.4%,22.4%,28.7%,21.3%,4.0%,62.8%,49,"1,108 people per square mile",24
+778,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Golden-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+779,1.942 square miles,2.5 people,1.2,1.6,38.7 years,38.7 years,"$36,385",$764,Golden-Ring-Groves,41.2%,18.0%,36.9%,20.6%,3.7%,17.3%,24.8%,26.5%,51.9%,9.5%,23.7%,64.1%,739,381 people per square mile,389
+780,0.010 square miles,NA,NA,NA,NA,NA,NA,NA,Golden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+781,0.010 square miles,NA,NA,NA,NA,NA,NA,NA,Golden-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+782,0.008 square miles,2.7 people,1.3,1.6,36.5 years,44.8 years,"$35,000",$906,Goldmine,44.7%,22.0%,33.7%,37.0%,3.0%,36.5%,13.2%,26.9%,48.1%,10.2%,3.4%,58.5%,58,"7,132 people per square mile",20
+783,0.050 square miles,2.2 people,1.3,1.8,44.0 years,35.3 years,"$43,542","$1,114",Goldstein-And-Funk-Garden-Lands,72.1%,17.1%,61.4%,22.5%,8.8%,3.5%,2.4%,27.8%,46.3%,14.8%,7.3%,75.1%,293,"5,829 people per square mile",147
+784,0.054 square miles,3.4 people,1.0,2.6,40.0 years,34.0 years,"$30,787",$764,Goldstein-s-Dr-G-Twin-Lakes,50.9%,15.7%,38.1%,5.1%,8.2%,16.3%,26.6%,35.7%,40.4%,16.1%,20.6%,45.2%,250,"4,661 people per square mile",139
+785,0.036 square miles,NA,NA,NA,NA,NA,NA,NA,Goldstein-s-Garden-Homes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+786,0.028 square miles,17.1 people,0.9,1.2,38.9 years,34.7 years,"$29,193",$825,Goldstein-s-Hillsborough-Heights,29.3%,17.8%,26.9%,32.1%,6.5%,32.1%,19.0%,31.5%,44.2%,18.8%,195.3%,60.9%,135,"4,746 people per square mile",61
+787,0.003 square miles,2.6 people,1.4,2.2,38.4 years,27.6 years,"$92,153",$843,Golf-Manor,31.2%,8.7%,70.3%,23.1%,6.9%,21.0%,27.5%,36.5%,47.9%,0.0%,2.5%,52.0%,8,"2,546 people per square mile",4
+788,0.058 square miles,1.6 people,3.6,2.2,47.1 years,28.7 years,"$106,492",$915,Golf-View-Estates,36.9%,6.9%,68.3%,41.3%,0.4%,2.2%,10.0%,48.8%,43.9%,0.0%,2.4%,36.7%,60,"1,029 people per square mile",31
+789,0.012 square miles,3.0 people,1.1,2.3,40.8 years,32.9 years,"$37,316",$917,Golf-View-Heights,55.9%,7.4%,46.1%,16.6%,8.4%,13.4%,23.9%,36.6%,47.6%,0.0%,18.0%,67.9%,30,"2,478 people per square mile",16
+790,0.052 square miles,1.7 people,2.8,2.4,53.0 years,53.8 years,"$135,985","$1,168",Golf-View-Park,58.7%,6.9%,60.6%,35.4%,0.4%,4.1%,26.2%,48.8%,43.9%,0.0%,22.5%,46.2%,62,"1,203 people per square mile",24
+791,0.058 square miles,2.3 people,1.0,2.2,35.5 years,31.7 years,"$113,269",$741,Golf-View-Place,45.4%,6.9%,39.4%,43.8%,0.4%,8.0%,21.7%,48.8%,43.9%,0.0%,1.9%,86.7%,234,"4,008 people per square mile",124
+792,0.033 square miles,2.6 people,1.7,1.9,41.5 years,42.1 years,"$50,382",$814,Golfland-Park,55.3%,13.4%,49.0%,27.4%,1.4%,19.4%,19.3%,40.9%,44.4%,5.0%,7.1%,56.5%,123,"3,783 people per square mile",60
+793,0.582 square miles,2.0 people,2.8,2.5,45.2 years,37.4 years,"$102,972",$807,Golfview,44.8%,7.0%,51.2%,47.3%,0.7%,7.1%,25.7%,48.3%,44.0%,0.1%,4.5%,50.3%,"1,175","2,018 people per square mile",563
+794,0.143 square miles,3.4 people,1.5,1.9,40.9 years,45.5 years,"$56,907",$913,Golfwood-Estates,51.3%,31.4%,42.2%,6.1%,4.0%,18.5%,14.8%,31.2%,33.5%,24.5%,22.3%,60.3%,651,"4,555 people per square mile",323
+795,6,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Gomez-Avenue-Townhomes,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,density:Gomez,"13,685 people per square mile",1
+796,0.066 square miles,1.4 people,0.9,1.3,37.1 years,38.1 years,"$53,493","$1,301",Government-Center-District,13.7%,18.3%,12.7%,0.0%,6.1%,23.4%,34.6%,57.9%,17.7%,0.0%,83.2%,78.2%,5,76 people per square mile,3
+797,0.002 square miles,2.0 people,1.0,1.6,45.3 years,44.8 years,"$43,750",$840,Grafton-Place,36.2%,6.8%,20.7%,27.8%,7.9%,16.1%,27.7%,35.3%,50.0%,0.0%,30.1%,71.6%,5,"3,228 people per square mile",2
+798,,4.0%,1.1%,6.8%,19.6%,66.5%,"$1,042",2.8 people,Granada-Place-Condo,47.3%,5.8%,44.2%,1.3%,5.4%,1.8,2.0,14.7%,242.5,86.1%,7.2%,10.7%,NA,"$93,125",65.6%
+799,1.330 square miles,NA,NA,NA,NA,NA,NA,NA,Grand-Hampton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+800,0.064 square miles,27.0 people,1.1,2.1,30.0 years,25.9 years,"$43,342","$1,131",Grand-Reserve-at-Tampa-Palms,30.4%,23.6%,26.7%,38.1%,1.6%,28.6%,11.6%,40.8%,34.0%,0.0%,10.2%,64.7%,128,"2,000 people per square mile",49
+801,0.061 square miles,2.2 people,1.1,14.0,29.4 years,27.6 years,"$38,214",$773,Grande-Oasis-at-Carrollwood,40.0%,15.7%,19.8%,15.6%,8.2%,26.3%,23.9%,35.7%,40.4%,4.0%,29.3%,25.5%,308,"5,079 people per square mile",150
+802,0.049 square miles,1.9 people,1.3,1.8,31.4 years,27.9 years,"$37,738",$617,Grandview-Acres,48.2%,6.5%,44.9%,20.9%,5.8%,15.9%,15.8%,43.4%,44.4%,1.0%,16.3%,61.7%,77,"1,568 people per square mile",36
+803,0.335 square miles,2.6 people,1.0,1.5,42.0 years,36.6 years,"$31,706",$775,Grant-Park,41.6%,9.6%,22.9%,6.0%,2.5%,18.7%,26.9%,19.9%,67.9%,5.8%,28.4%,63.3%,"1,759","5,247 people per square mile",950
+804,0.004 square miles,2.2 people,1.7,1.8,34.4 years,48.3 years,"$75,091","$1,230",Grant-Place,46.3%,9.1%,56.4%,46.6%,4.5%,10.1%,7.9%,41.0%,45.4%,0.0%,0.6%,52.5%,21,"5,483 people per square mile",9
+805,0.009 square miles,NA,NA,NA,NA,NA,NA,NA,Granville-Manor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+806,0.042 square miles,1.5 people,1.4,1.3,31.2 years,42.0 years,"$59,050",$838,Gray-Gables,26.1%,9.1%,22.6%,47.7%,4.5%,15.9%,29.9%,41.0%,45.4%,3.1%,2.6%,71.1%,164,"3,909 people per square mile",117
+807,1,70.2%,10.3%,242.5,20.7%,12.3%,"$51,417",$885,Gray-Street-Townhomes,22.7%,55.8%,34.7%,16.1%,1.2,31.9%,34.2%,1.5,26.5%,7.3%,0.0%,23.6%,density:Gray,"2,082 people per square mile",1.7 people
+808,,16.5%,1.7%,2.9%,29.2%,21.0%,"$1,472",1.9 people,Gray-Terrace,38.6%,4.1%,39.4%,3.9%,12.5%,1.4,1.7,15.9%,242.5,42.3%,18.1%,2.3%,NA,"$70,688",34.5%
+809,0.164 square miles,3.0 people,1.3,1.4,46.6 years,31.3 years,"$50,780",$963,Green-Grass-Acres,38.5%,18.7%,32.0%,28.2%,6.6%,9.1%,21.2%,37.8%,36.9%,7.9%,10.0%,52.7%,177,"1,082 people per square mile",98
+810,0.103 square miles,3.3 people,1.2,1.8,24.9 years,32.3 years,"$33,036",$694,Green-Ridge-Estates,63.4%,16.5%,33.0%,5.0%,11.8%,21.1%,16.9%,20.0%,51.8%,8.8%,20.3%,73.6%,375,"3,627 people per square mile",137
+811,0.021 square miles,3.2 people,1.2,1.8,43.7 years,29.2 years,"$46,500","$1,043",Greenbrook,52.4%,27.8%,40.5%,21.1%,8.0%,16.5%,14.5%,32.8%,31.4%,10.3%,8.3%,72.0%,156,"7,597 people per square mile",72
+812,0.029 square miles,NA,NA,NA,NA,NA,NA,NA,Greenmoor-Grove,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+813,0.029 square miles,NA,NA,NA,NA,NA,NA,NA,Greenmoor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+814,0.004 square miles,2.3 people,0.5,2.0,56.6 years,45.7 years,"$14,901",$259,Greentree,19.8%,17.1%,24.9%,43.7%,8.8%,8.9%,23.9%,27.8%,46.3%,7.1%,66.9%,53.7%,15,"3,639 people per square mile",7
+815,0.026 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,Grenelle-Gardens,39.4%,39.3%,30.9%,39.8%,9.4%,20.3%,12.6%,22.1%,29.2%,13.2%,15.5%,34.1%,60,"2,313 people per square mile",25
+816,0.277 square miles,1.7 people,0.9,1.3,42.8 years,42.5 years,"$62,768",$720,Grey-Gables,13.4%,9.1%,15.0%,49.9%,4.5%,20.8%,26.6%,41.0%,45.4%,7.2%,7.9%,59.5%,895,"3,227 people per square mile",521
+817,0.015 square miles,27.0 people,1.6,1.7,33.1 years,35.7 years,"$106,053",$987,Griflow-Park,56.0%,7.2%,48.8%,31.8%,1.3%,14.0%,16.0%,44.2%,47.3%,0.0%,16.6%,69.9%,76,"5,237 people per square mile",36
+818,0.013 square miles,1.4 people,0.6,8.5,53.6 years,52.2 years,"$9,957",$420,Grove-Heights,15.8%,25.8%,12.7%,19.9%,2.0%,17.1%,21.8%,30.7%,41.5%,14.7%,20.4%,35.4%,203,"15,241 people per square mile",108
+819,0.008 square miles,2.9 people,1.0,1.3,33.8 years,26.2 years,"$33,152",$598,Grove-Hill-Heights,41.1%,9.6%,13.2%,6.2%,2.0%,36.5%,26.7%,10.8%,77.7%,0.0%,24.2%,45.7%,55,"7,047 people per square mile",24
+820,0.307 square miles,3.0 people,1.6,1.7,42.0 years,38.3 years,"$49,836","$1,045",Grove-Park-Estates,50.8%,29.5%,33.4%,10.5%,6.0%,17.8%,18.1%,23.7%,40.9%,16.9%,19.7%,62.5%,849,"2,764 people per square mile",407
+821,0.021 square miles,2.9 people,2.0,1.7,49.9 years,33.4 years,"$58,991",$829,Grove-Point-Village,53.0%,27.8%,46.8%,15.4%,8.0%,13.0%,26.2%,32.8%,31.4%,5.2%,4.9%,71.3%,142,"6,875 people per square mile",74
+822,0.025 square miles,NA,NA,NA,NA,NA,NA,NA,Grover-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+823,,NA,NA,NA,NA,NA,NA,NA,Grovewood-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+824,0.039 square miles,2.8 people,0.9,1.7,40.7 years,39.1 years,"$41,425",$563,Grovewood-Court,59.4%,22.8%,37.7%,21.4%,8.2%,17.5%,16.3%,32.3%,36.7%,11.4%,12.2%,52.9%,182,"4,720 people per square mile",83
+825,0.174 square miles,NA,NA,NA,NA,NA,NA,NA,Guernsey-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+826,0.011 square miles,3.1 people,1.2,2.2,15.0 years,32.5 years,"$39,125",$782,Gulf-South-Center-Condo,38.5%,38.6%,57.1%,17.1%,3.9%,2.8%,18.7%,20.7%,36.9%,12.5%,11.4%,72.5%,28,"2,503 people per square mile",13
+827,0.010 square miles,2.5 people,1.5,1.8,36.8 years,33.5 years,"$48,750","$1,230",Gunn-Townhomes,46.1%,18.3%,40.9%,18.4%,6.4%,10.6%,23.6%,37.8%,37.5%,0.0%,22.1%,76.4%,15,"1,494 people per square mile",7
+828,0.007 square miles,2.5 people,0.9,1.7,40.6 years,36.7 years,"$25,362",$647,Habana-Court-North,67.0%,39.3%,43.4%,12.8%,9.4%,0.8%,23.2%,22.1%,29.2%,16.7%,23.0%,73.1%,13,"1,985 people per square mile",7
+829,0.013 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,Habana-Gardens,39.4%,39.3%,30.9%,39.7%,9.4%,20.3%,12.6%,22.1%,29.2%,7.4%,15.5%,34.1%,31,"2,334 people per square mile",12
+830,0.002 square miles,3.1 people,1.2,2.2,15.0 years,32.5 years,"$39,125",$782,Habana-Heights,38.5%,38.6%,57.1%,17.7%,3.9%,2.8%,18.7%,20.7%,36.9%,0.0%,11.8%,72.5%,5,"2,247 people per square mile",2
+831,0.008 square miles,2.2 people,1.1,1.7,28.7 years,30.2 years,"$25,500",$689,Habana-Park-Condo,39.4%,39.3%,30.9%,40.6%,9.4%,20.3%,12.6%,22.1%,29.2%,6.3%,15.9%,34.1%,18,"2,251 people per square mile",7
+832,6,2.1 people,1.2,1.5,26.6 years,43.0 years,"$111,292",$898,Habana-Place-Condo,23.1%,9.1%,21.9%,34.8%,4.5%,50.6%,13.3%,41.0%,45.4%,0.0%,3.9%,81.6%,density:Habana,"12,730 people per square mile",1
+833,,NA,NA,NA,NA,NA,NA,NA,Hacienda-Anna-Maria-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+834,0.013 square miles,2.8 people,1.6,1.9,41.7 years,37.7 years,"$54,268","$1,273",Hagin-Lake-Beach,51.1%,38.6%,46.1%,20.1%,3.9%,20.1%,14.8%,20.7%,36.9%,6.1%,10.5%,68.9%,35,"2,595 people per square mile",16
+835,0.021 square miles,37.0 people,1.8,2.0,46.4 years,32.8 years,"$76,595","$1,178",Half-Moon-Lake-Estates,60.7%,16.1%,60.5%,32.3%,1.4%,13.1%,17.1%,41.7%,40.8%,6.5%,0.8%,68.8%,50,"2,419 people per square mile",28
+836,0.122 square miles,16.0 people,2.0,2.3,40.8 years,40.2 years,"$95,385","$1,178",Half-Moon-Tracts,60.8%,16.1%,61.2%,31.8%,1.4%,13.1%,16.8%,41.7%,40.8%,8.1%,0.8%,69.2%,268,"2,204 people per square mile",147
+837,0.011 square miles,3.1 people,1.5,1.9,47.3 years,32.6 years,"$32,500",$842,Hali-Acres,47.5%,36.1%,52.1%,27.6%,9.5%,7.4%,25.6%,12.7%,41.7%,7.2%,4.5%,55.2%,72,"6,547 people per square mile",38
+838,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Hall-s-Subdivision-West-Hyde-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+839,0.002 square miles,2.3 people,1.4,1.4,32.4 years,26.7 years,"$37,396",$715,Hamilton-E-G,30.6%,6.0%,16.6%,33.2%,3.0%,20.1%,36.2%,48.7%,42.3%,0.0%,17.7%,68.3%,4,"2,271 people per square mile",2
+840,0.015 square miles,2.7 people,1.4,1.8,31.6 years,33.2 years,"$41,807",$854,Hamilton-Heath,53.5%,8.5%,31.0%,11.5%,2.7%,20.5%,22.1%,34.0%,54.9%,0.0%,18.3%,69.9%,78,"5,304 people per square mile",37
+841,0.059 square miles,NA,NA,NA,NA,NA,NA,NA,Hamilton-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+842,0.002 square miles,1.9 people,1.4,1.2,26.2 years,30.0 years,"$61,188","$1,084",Hamilton-Place-Condo,5.1%,11.2%,8.0%,43.3%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,9.8%,70.3%,7,"4,006 people per square mile",4
+843,0.002 square miles,2.7 people,1.4,1.7,31.6 years,33.2 years,"$41,807",$852,Hamilton,53.1%,8.5%,31.1%,12.9%,2.7%,20.8%,22.1%,34.0%,54.9%,0.0%,20.5%,69.2%,9,"4,329 people per square mile",4
+844,0.151 square miles,NA,NA,NA,NA,NA,NA,NA,Hammocks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+845,0.020 square miles,2.2 people,1.1,1.8,34.4 years,35.2 years,"$60,000",$900,Hamner-s-Aloha-Acres,46.8%,18.2%,36.1%,22.2%,0.7%,15.1%,20.9%,34.2%,46.9%,5.3%,4.5%,84.4%,110,"5,491 people per square mile",56
+846,0.079 square miles,1.5 people,1.0,1.0,20.7 years,18.4 years,"$15,595",$475,Hamner-s-W-E-Fletcher-Avenue-Estates,36.0%,23.1%,13.4%,9.9%,13.1%,30.4%,31.6%,26.2%,37.6%,16.9%,21.6%,12.7%,105,"1,325 people per square mile",54
+847,0.092 square miles,3.5 people,0.9,1.4,26.7 years,22.4 years,"$27,637",$755,Hamner-s-W-E-Homestead-Acres,71.1%,19.3%,32.9%,10.8%,11.3%,27.0%,26.3%,24.1%,45.3%,23.6%,14.3%,51.2%,598,"6,496 people per square mile",297
+848,0.089 square miles,NA,NA,NA,NA,NA,NA,NA,Hamner-s-W-E-Pine-Vista,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+849,0.086 square miles,NA,NA,NA,NA,NA,NA,NA,Hamner-s-W-E-Ridge-Acres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+850,0.059 square miles,2.8 people,1.1,1.6,36.2 years,34.0 years,"$32,961",$865,Hamner-s-W-E-Rome-Avenue-Estates,56.7%,22.8%,25.1%,20.3%,8.2%,18.5%,25.7%,32.3%,36.7%,20.1%,8.3%,60.6%,368,"6,264 people per square mile",157
+851,0.055 square miles,NA,NA,NA,NA,NA,NA,NA,Hamner-s-W-E-Towering-Pines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+852,0.013 square miles,2.7 people,1.1,1.4,35.7 years,35.8 years,"$24,188",$813,Hampshire-Park,48.9%,10.7%,28.2%,12.8%,2.8%,21.8%,21.5%,19.4%,67.0%,4.9%,22.9%,57.7%,67,"4,983 people per square mile",33
+853,0.068 square miles,NA,NA,NA,NA,NA,NA,NA,Hampton-Chase-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+854,0.041 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Hampton-Lakes,59.5%,14.3%,73.2%,23.7%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.6%,82.7%,11,271 people per square mile,6
+855,0.023 square miles,NA,NA,NA,NA,NA,NA,NA,Hampton-Lakes-at-Main-Street,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+856,0.017 square miles,3.4 people,2.1,2.1,26.8 years,31.2 years,"$55,898","$1,014",Hampton-Oaks,56.6%,14.4%,53.0%,24.4%,7.2%,31.7%,20.4%,35.2%,43.1%,0.0%,5.7%,41.4%,41,"2,410 people per square mile",17
+857,0.056 square miles,NA,NA,NA,NA,NA,NA,NA,Hampton-On-The-Green,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+858,0.188 square miles,2.4 people,1.4,1.6,39.0 years,36.3 years,"$58,438","$1,327",Hampton-Park,50.3%,26.5%,36.3%,59.9%,4.8%,13.0%,15.2%,34.5%,34.2%,0.0%,34.2%,90.9%,375,"1,991 people per square mile",176
+859,0.026 square miles,NA,NA,NA,NA,NA,NA,NA,Hampton-Park-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+860,0.019 square miles,NA,NA,NA,NA,NA,NA,NA,Hampton-Place,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+861,0.263 square miles,2.5 people,1.2,1.7,37.0 years,36.1 years,"$44,291",$923,Hampton-Terrace,47.7%,18.2%,34.8%,23.0%,0.7%,16.2%,20.8%,34.2%,46.9%,4.2%,12.1%,79.5%,"1,279","4,863 people per square mile",649
+862,0.033 square miles,3.2 people,2.3,2.2,51.5 years,51.0 years,"$69,067",$891,Hampton-Village,59.5%,14.3%,73.2%,26.2%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,9.5%,82.7%,4,123 people per square mile,2
+863,3,1.4 people,0.9,1.2,66.3 years,35.0 years,"$16,750",$388,Hampton-Woods-Townhomes,27.6%,9.1%,11.7%,78.0%,4.5%,19.9%,30.9%,41.0%,45.4%,0.0%,4.3%,78.3%,density:Hampton,"3,239 people per square mile",2
+864,0.036 square miles,NA,NA,NA,NA,NA,NA,NA,Hamptons-at-Tampa-Palms-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+865,0.111 square miles,6.7 people,1.2,1.6,36.7 years,32.3 years,"$61,165",$866,Hanan-Estates,37.1%,26.3%,34.4%,46.6%,7.2%,21.4%,31.0%,32.1%,34.4%,3.9%,8.0%,57.0%,468,"4,200 people per square mile",246
+866,0.036 square miles,NA,NA,NA,NA,NA,NA,NA,Hankins-Acres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+867,0.056 square miles,NA,NA,NA,NA,NA,NA,NA,Hankins-Suburban,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+868,0.007 square miles,2.2 people,0.7,1.7,36.8 years,31.5 years,"$32,969",$771,Hankins-Virginia-Heights,37.7%,6.8%,19.1%,9.7%,7.9%,19.4%,34.4%,35.3%,50.0%,0.0%,35.9%,68.5%,33,"4,465 people per square mile",18
+869,0.014 square miles,2.1 people,0.9,1.6,41.3 years,38.5 years,"$38,616",$820,Hanley-Heights,36.5%,6.8%,20.4%,16.5%,7.9%,16.8%,29.2%,35.3%,50.0%,0.0%,32.3%,70.9%,49,"3,506 people per square mile",25
+870,0.012 square miles,2.5 people,1.1,1.5,34.9 years,38.1 years,"$37,143",$793,Hanna-Heights,46.8%,18.2%,43.5%,40.3%,0.7%,22.0%,19.1%,34.2%,46.9%,6.4%,14.6%,75.0%,49,"4,241 people per square mile",22
+871,0.002 square miles,2.5 people,1.7,2.0,51.3 years,44.6 years,"$146,875","$1,641",Hansen-Manor-Townhomes,49.8%,11.4%,64.3%,36.8%,2.1%,10.1%,16.0%,49.0%,37.5%,0.0%,5.8%,76.9%,13,"7,922 people per square mile",7
+872,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Hapshire-Villas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+873,0.002 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Harbor-Island,23.8%,9.6%,19.4%,44.4%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,16.9%,64.4%,8,"5,212 people per square mile",4
+874,0.007 square miles,NA,NA,NA,NA,NA,NA,NA,Harbor-Shores,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+875,0.006 square miles,2.0 people,1.5,1.2,53.3 years,39.5 years,"$91,554","$1,125",Harbor,32.6%,11.4%,37.1%,29.1%,2.1%,7.4%,28.7%,49.0%,37.5%,0.0%,6.4%,74.6%,22,"3,947 people per square mile",12
+876,0.031 square miles,2.0 people,1.5,1.2,53.3 years,39.5 years,"$91,554","$1,125",Harbor-View-Palms,32.6%,11.4%,37.1%,28.4%,2.1%,7.4%,28.7%,49.0%,37.5%,0.9%,6.2%,74.6%,128,"4,103 people per square mile",69
+877,0.052 square miles,2.5 people,0.8,0.1,45.4 years,41.3 years,"$82,804","$1,156",Harbor-View,32.7%,11.4%,37.1%,29.3%,2.1%,7.7%,28.4%,49.0%,37.5%,0.0%,0.7%,74.7%,132,"2,515 people per square mile",70
+878,0.006 square miles,2.0 people,1.2,1.5,41.3 years,55.0 years,"$92,292","$1,433",Harbour-Court-Condo,40.5%,9.6%,43.8%,38.9%,3.1%,5.9%,9.2%,61.8%,25.5%,0.0%,7.8%,67.1%,123,"21,860 people per square mile",60
+879,0.022 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Harbour-Homes,23.8%,9.6%,19.4%,40.1%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.2%,64.4%,113,"5,232 people per square mile",56
+880,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Harbour-House-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+881,0.002 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Harbour-Island-Marina,23.8%,9.6%,19.4%,40.3%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.4%,64.4%,11,"5,310 people per square mile",5
+882,0.009 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Harbour-Island-Roadway,23.8%,9.6%,19.4%,40.7%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.5%,64.4%,48,"5,101 people per square mile",24
+883,0.005 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Harbour-Island-South-Beneficial-Drive,23.8%,9.6%,19.4%,40.7%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.5%,64.4%,24,"5,177 people per square mile",12
+884,0.007 square miles,2.0 people,1.2,1.5,41.3 years,55.0 years,"$92,292","$1,433",Harbour-Place-City-Homes-Condo,40.5%,9.6%,43.8%,38.9%,3.1%,5.9%,9.2%,61.8%,25.5%,0.0%,7.8%,67.1%,161,"22,414 people per square mile",79
+885,0.016 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Harbourside-at-Harbour-Island,23.8%,9.6%,19.4%,40.2%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.3%,64.4%,84,"5,302 people per square mile",41
+886,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Hardaman-Acres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+887,0.002 square miles,2.7 people,1.3,1.9,28.6 years,33.1 years,"$37,083",$903,Harmony-Center,50.9%,18.2%,45.5%,43.4%,6.9%,11.6%,17.5%,19.7%,55.2%,0.0%,33.0%,84.7%,4,"1,662 people per square mile",2
+888,0.007 square miles,2.9 people,1.3,1.7,33.4 years,38.6 years,"$52,375",$828,Harmony-Heights,53.9%,17.8%,50.3%,34.6%,6.5%,6.4%,9.4%,31.5%,44.2%,0.0%,2.0%,73.1%,14,"2,146 people per square mile",6
+889,0.002 square miles,2.5 people,1.5,2.7,23.7 years,27.9 years,"$55,000",$826,Harney-Gardens,38.0%,13.7%,22.1%,20.1%,4.6%,35.3%,24.3%,30.8%,50.9%,0.0%,20.1%,36.5%,8,"4,215 people per square mile",3
+890,0.006 square miles,2.6 people,2.3,1.9,44.5 years,47.1 years,"$60,909","$1,181",Harr-Estates,60.6%,15.3%,54.7%,19.2%,5.3%,13.4%,12.1%,38.7%,40.7%,0.0%,12.4%,73.1%,9,"1,441 people per square mile",4
+891,0.002 square miles,3.2 people,0.5,38.2,36.1 years,23.6 years,"$36,765",$762,Harrelson-Medical-Arts-Building-Condo,71.3%,38.6%,42.9%,13.7%,3.9%,15.1%,36.4%,20.7%,36.9%,6.7%,13.0%,11.1%,16,"7,504 people per square mile",9
+892,8,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Harrington-Place-Condo,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.3%,32.2%,0.0%,4.7%,74.6%,density:Harrington,"9,101 people per square mile",4
+893,0.101 square miles,1.8 people,1.1,1.3,37.2 years,49.4 years,"$16,494",$450,Harvey-Heights,46.6%,19.4%,15.8%,21.8%,16.9%,6.4%,11.7%,32.9%,30.8%,24.0%,30.9%,23.0%,322,"3,182 people per square mile",165
+894,0.002 square miles,3.2 people,1.2,1.9,35.4 years,26.3 years,"$26,806",$793,Hawks,61.9%,9.6%,34.3%,10.9%,2.5%,21.6%,23.3%,19.9%,67.9%,0.0%,18.4%,72.1%,5,"3,170 people per square mile",2
+895,0.003 square miles,72.5%,4.1%,242.5,46.8%,41.9%,"$63,395",$990,Hawthorne-Point-Condo-Apt,3.1%,75.8%,15.5%,15.0%,1.4,48.6%,37.7%,1.8,9.5%,4.3%,0.0%,6.8%,1,377 people per square mile,2.3 people
+896,0.002 square miles,2.5 people,1.7,2.0,51.3 years,44.6 years,"$146,875","$1,641",Hawthorne-Pond-Condo,49.8%,11.4%,64.3%,36.8%,2.1%,10.1%,16.0%,49.0%,37.5%,0.0%,5.8%,76.9%,13,"7,096 people per square mile",7
+897,0.004 square miles,2.4 people,1.2,1.7,40.3 years,50.1 years,"$54,691",$767,Healthy-Hill,37.6%,5.8%,23.0%,8.0%,5.0%,14.9%,27.4%,41.6%,47.6%,0.0%,11.7%,67.2%,10,"2,391 people per square mile",5
+898,0.451 square miles,2.9 people,0.6,1.3,33.6 years,26.8 years,"$24,451",$720,Heart-of-East-Tampa-Community,41.0%,4.9%,17.8%,9.0%,3.5%,24.0%,22.5%,18.6%,72.9%,1.2%,26.0%,61.7%,"2,984","6,611 people per square mile","1,346"
+899,0.022 square miles,NA,NA,NA,NA,NA,NA,NA,Heather-Downs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+900,0.010 square miles,2.8 people,6.3,1.3,46.7 years,40.3 years,"$77,182",$896,Heatherton-Heights,56.7%,15.3%,70.2%,32.0%,3.6%,7.7%,9.6%,34.4%,46.7%,0.0%,4.4%,68.8%,29,"2,878 people per square mile",13
+901,0.024 square miles,2.8 people,2.1,2.0,46.6 years,40.9 years,"$76,906","$1,263",Heatherwood-Village,50.2%,15.1%,55.4%,22.8%,2.4%,12.8%,13.0%,39.3%,43.2%,2.4%,7.2%,79.4%,127,"5,253 people per square mile",58
+902,0.001 square miles,2.6 people,1.4,1.7,48.6 years,23.7 years,"$32,235",$914,Heiter-Heights,44.8%,3.8%,15.2%,33.5%,4.9%,35.6%,23.0%,24.5%,66.8%,0.0%,39.3%,56.0%,3,"2,351 people per square mile",1
+903,2,2.3 people,1.2,1.7,46.8 years,36.5 years,"$63,044","$1,529",Hemingway-Townhomes,30.9%,10.2%,20.3%,34.8%,3.3%,9.6%,23.4%,50.0%,36.6%,0.0%,10.0%,72.1%,density:Hemingway,"3,708 people per square mile",1
+904,0.136 square miles,2.9 people,1.4,2.4,48.0 years,50.7 years,"$178,888","$1,535",Henderson-Beach,61.0%,7.7%,79.1%,34.9%,2.1%,9.9%,11.6%,45.4%,44.7%,0.0%,5.6%,64.8%,120,880 people per square mile,58
+905,0.001 square miles,1.5 people,1.4,1.3,31.2 years,42.0 years,"$59,050",$838,Henderson-Place,26.1%,9.1%,22.6%,59.2%,4.5%,15.9%,29.9%,41.0%,45.4%,0.0%,3.3%,71.1%,4,"2,962 people per square mile",3
+906,0.187 square miles,2.4 people,1.4,2.0,34.2 years,31.8 years,"$55,333",$913,Henderson-Road,53.1%,25.0%,48.8%,20.9%,7.2%,18.1%,10.9%,36.6%,31.1%,5.1%,13.2%,77.8%,"1,044","5,597 people per square mile",465
+907,0.035 square miles,2.1 people,1.1,1.2,35.9 years,25.8 years,"$38,676",$606,Henderson-s-Tampa-Heights,40.1%,25.8%,21.1%,16.4%,2.0%,23.3%,28.5%,30.7%,41.5%,5.3%,30.6%,66.7%,90,"2,595 people per square mile",48
+908,0.005 square miles,2.5 people,1.7,2.0,51.3 years,44.6 years,"$146,875","$1,641",Hendry-Manor,49.8%,11.4%,64.3%,35.9%,2.1%,10.1%,16.0%,49.0%,37.5%,2.6%,5.7%,76.9%,40,"8,165 people per square mile",21
+909,0.156 square miles,2.9 people,2.0,3.4,34.6 years,27.2 years,"$25,767",$800,Hendry-and-Knight-s-Map-of-Spanish-Park,61.1%,8.4%,33.7%,18.5%,2.5%,22.3%,23.5%,22.5%,66.6%,1.6%,19.0%,48.7%,197,"1,260 people per square mile",99
+910,0.007 square miles,2.5 people,0.9,1.7,40.6 years,36.7 years,"$25,362",$647,Hepp-Heights,67.0%,39.3%,43.4%,12.6%,9.4%,0.8%,23.2%,22.1%,29.2%,23.1%,22.6%,73.1%,14,"1,915 people per square mile",7
+911,0.015 square miles,2.9 people,1.7,1.6,42.9 years,39.9 years,"$60,119",$978,Herchel-Estates,40.6%,15.3%,38.7%,22.7%,3.6%,14.4%,28.6%,34.4%,46.7%,2.2%,31.1%,56.9%,52,"3,549 people per square mile",30
+912,0.071 square miles,NA,NA,NA,NA,NA,NA,NA,Herchel-Heights,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+913,1.486 square miles,NA,NA,NA,NA,NA,NA,NA,Heritage-Isles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+914,,NA,NA,NA,NA,NA,NA,NA,Heritage-Park-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+915,0.046 square miles,NA,NA,NA,NA,NA,NA,NA,Heritage-Pointe-Apts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+916,,NA,NA,NA,NA,NA,NA,NA,Hernandez-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+917,0.015 square miles,2.7 people,2.1,2.0,52.4 years,47.3 years,"$107,019","$1,535",Hesperides-Manor,54.5%,7.7%,57.1%,28.8%,2.1%,15.6%,10.7%,45.4%,44.7%,0.0%,6.7%,47.6%,73,"4,942 people per square mile",29
+918,1,25.3%,6.1%,11.7%,34.3%,38.6%,"$51,793",$897,Hesperides-Street-Townhomes,13.3%,242.5,12.7%,9.2%,75.9%,7.3%,31.9%,1.2,1.5,26.5%,34.2%,8.7%,density:Hesperides,"3,013 people per square mile",2.2 people
+919,0.012 square miles,2.6 people,1.4,2.1,28.6 years,43.2 years,"$44,375",$920,Hiawatha-Highlands,61.3%,16.0%,36.5%,21.8%,1.7%,27.4%,11.5%,46.5%,35.9%,6.3%,7.0%,84.1%,35,"3,019 people per square mile",14
+920,0.045 square miles,4.0 people,1.5,2.0,47.0 years,42.2 years,"$50,177","$1,070",Hibiscus-Gardens,59.7%,45.3%,63.6%,22.4%,7.3%,11.6%,17.9%,14.8%,32.7%,20.6%,6.3%,54.7%,237,"5,311 people per square mile",115
+921,0.043 square miles,NA,NA,NA,NA,NA,NA,NA,Hidden-Creek,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+922,0.006 square miles,2.3 people,1.8,1.5,32.3 years,55.5 years,"$36,806",$831,Hidden-Haven-II,36.2%,41.4%,59.7%,43.3%,3.3%,4.1%,6.9%,18.1%,37.2%,4.3%,4.3%,70.3%,23,"3,617 people per square mile",9
+923,0.004 square miles,2.8 people,6.4,1.3,46.7 years,40.3 years,"$77,182",$896,Hidden-Island-Estates,56.7%,15.3%,70.2%,32.7%,3.6%,7.7%,9.6%,34.4%,46.7%,0.0%,4.5%,68.7%,13,"2,912 people per square mile",6
+924,0.063 square miles,3.2 people,1.0,1.5,67.9 years,63.6 years,"$66,193","$1,085",Hidden-Oaks,33.7%,28.5%,31.1%,15.7%,10.5%,6.6%,31.3%,31.9%,29.1%,5.6%,40.6%,43.0%,25,397 people per square mile,14
+925,0.098 square miles,NA,NA,NA,NA,NA,NA,NA,Hidden-Oaks-at-Temple-Terrace,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+926,0.575 square miles,NA,NA,NA,NA,NA,NA,NA,Hidden-River-Corporate-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+927,0.006 square miles,2.6 people,1.1,1.9,54.5 years,52.5 years,"$90,909",$932,Hidden-Valley,41.9%,6.9%,54.2%,37.3%,7.1%,7.3%,7.5%,53.4%,32.6%,0.0%,1.2%,67.8%,51,"7,877 people per square mile",24
+928,0.016 square miles,11.5 people,1.4,1.9,56.9 years,53.0 years,"$74,901","$1,408",High-Pines,49.5%,10.5%,57.5%,30.2%,2.9%,10.3%,13.6%,44.9%,41.6%,0.0%,7.7%,66.9%,23,"1,415 people per square mile",12
+929,0.025 square miles,NA,NA,NA,NA,NA,NA,NA,High-Point,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+930,0.006 square miles,2.9 people,1.0,1.3,33.8 years,26.2 years,"$33,152",$598,High-Ridge,41.1%,9.6%,13.2%,6.1%,2.0%,36.5%,26.7%,10.8%,77.7%,0.0%,23.9%,45.7%,41,"6,818 people per square mile",17
+931,0.005 square miles,3.6 people,1.0,1.4,24.4 years,35.3 years,"$26,250",$795,High-School-Heights,50.3%,9.6%,11.8%,0.9%,2.0%,32.9%,24.8%,10.8%,77.7%,0.0%,26.9%,64.8%,26,"5,510 people per square mile",11
+932,0.008 square miles,2.9 people,1.1,1.6,39.6 years,30.9 years,"$27,204",$773,Highland-Estates-East,44.2%,9.6%,25.9%,7.4%,2.5%,18.1%,26.5%,19.9%,67.9%,0.0%,25.6%,66.4%,11,"1,382 people per square mile",6
+933,0.010 square miles,3.5 people,1.5,1.8,27.3 years,25.9 years,"$22,794",$815,Highland-Heights,57.6%,2.6%,24.7%,15.0%,3.8%,29.0%,32.8%,24.2%,69.4%,0.0%,14.4%,60.0%,31,"3,130 people per square mile",16
+934,0.136 square miles,2.3 people,1.3,1.8,42.4 years,28.1 years,"$44,590",$781,Highland-Oaks,43.2%,12.5%,22.2%,1.5%,7.8%,23.2%,23.9%,32.6%,47.2%,2.7%,41.0%,75.2%,328,"2,408 people per square mile",167
+935,0.518 square miles,2.8 people,1.2,1.9,40.4 years,36.2 years,"$94,477","$1,041",Highland-Park,47.4%,15.2%,61.0%,35.4%,1.7%,8.9%,6.2%,50.2%,33.0%,3.5%,154.4%,70.3%,234,451 people per square mile,125
+936,0.696 square miles,2.8 people,1.1,1.7,40.8 years,33.0 years,"$30,421",$750,Highland-Pines,43.6%,9.6%,26.8%,11.1%,2.5%,14.7%,29.5%,19.9%,67.9%,4.1%,19.2%,64.0%,"3,042","4,371 people per square mile","1,592"
+937,0.066 square miles,NA,NA,NA,NA,NA,NA,NA,Highland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+938,0.014 square miles,2.8 people,1.0,2.0,42.7 years,40.9 years,"$32,647",$611,Highland-View,40.8%,3.8%,15.2%,2.6%,4.9%,35.0%,10.8%,24.5%,66.8%,0.0%,35.3%,31.6%,69,"5,083 people per square mile",22
+939,0.023 square miles,2.1 people,3.8,1.6,55.5 years,43.2 years,"$56,944",$719,Highlands-Oaks,33.7%,14.8%,48.5%,47.4%,11.2%,2.4%,23.9%,39.3%,34.7%,15.1%,27.3%,61.6%,54,"2,320 people per square mile",34
+940,0.016 square miles,15.9 people,2.0,2.2,53.5 years,44.4 years,"$41,949",$787,Highway-Park,42.7%,22.0%,41.5%,41.2%,3.0%,6.5%,21.3%,26.9%,48.1%,6.5%,7.0%,69.9%,66,"4,062 people per square mile",32
+941,0.005 square miles,NA,NA,NA,NA,NA,NA,NA,Highway,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+942,0.014 square miles,NA,NA,NA,NA,NA,NA,NA,Highwoods-Preserve-Parkway-Extension,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+943,0.271 square miles,NA,NA,NA,NA,NA,NA,NA,Highwoods-Preserve,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+944,0.011 square miles,NA,NA,NA,NA,NA,NA,NA,Hill-Top-Heights,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+945,0.029 square miles,NA,NA,NA,NA,NA,NA,NA,Hill-s,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+946,0.045 square miles,NA,NA,NA,NA,NA,NA,NA,Hillcrest-Acres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+947,0.019 square miles,36.0 people,1.4,1.7,39.2 years,31.5 years,"$46,037",$850,Hillcrest-Mobile-Estates,52.7%,8.4%,46.9%,20.2%,5.1%,12.8%,14.4%,34.4%,52.1%,3.1%,12.8%,50.3%,35,"1,818 people per square mile",16
+948,0.102 square miles,2.3 people,1.0,1.8,31.2 years,34.7 years,"$30,063",$611,Hillsboro-Heights-Map,50.6%,12.5%,24.0%,10.6%,9.8%,22.6%,21.2%,27.9%,49.8%,2.2%,23.2%,63.4%,137,"1,345 people per square mile",65
+949,0.061 square miles,36.2 people,1.4,1.9,34.5 years,36.2 years,"$48,625",$919,Hillsboro-Highlands-Map,54.6%,14.5%,58.6%,30.4%,3.9%,14.9%,12.2%,33.7%,47.9%,14.1%,6.7%,55.4%,340,"5,553 people per square mile",162
+950,0.094 square miles,14.4 people,1.6,2.0,38.4 years,29.3 years,"$38,266",$775,Hillsborough-Avenue-Farms,46.1%,10.2%,28.8%,11.8%,6.3%,19.6%,21.0%,33.6%,49.9%,2.5%,27.9%,67.4%,91,967 people per square mile,45
+951,0.026 square miles,2.2 people,0.5,2.2,40.5 years,35.5 years,"$17,222",$537,Hillsborough-Galleria,49.3%,36.4%,29.9%,17.1%,8.1%,8.4%,28.1%,21.9%,33.6%,25.9%,22.6%,39.1%,30,"1,168 people per square mile",16
+952,0.008 square miles,3.2 people,1.1,1.9,46.1 years,42.4 years,"$34,857",$611,Hillsborough-Heights,44.4%,3.8%,42.3%,32.3%,4.9%,19.4%,31.7%,24.5%,66.8%,0.0%,178.2%,67.0%,20,"2,491 people per square mile",9
+953,0.014 square miles,3.7 people,1.5,2.1,37.6 years,23.5 years,"$41,645",$747,Hillsborough-River-Estates,70.0%,17.1%,44.8%,12.0%,8.8%,17.3%,25.1%,27.8%,46.3%,12.5%,14.9%,74.7%,58,"4,156 people per square mile",31
+954,0.031 square miles,NA,NA,NA,NA,NA,NA,NA,Hillsborough-Square,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+955,0.024 square miles,3.0 people,2.2,2.3,45.2 years,39.5 years,"$81,827",$981,Hilltop-Acres,62.1%,15.1%,62.8%,24.7%,2.4%,12.9%,13.5%,39.3%,43.2%,2.4%,1.7%,77.7%,218,"9,080 people per square mile",108
+956,0.003 square miles,NA,NA,NA,NA,NA,NA,NA,Hilltop-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+957,0.014 square miles,3.2 people,0.5,38.2,36.1 years,23.6 years,"$36,765",$762,Himes-Avenue-Estates,71.3%,38.6%,42.9%,13.8%,3.9%,15.1%,36.4%,20.7%,36.9%,8.1%,13.1%,11.1%,105,"7,651 people per square mile",61
+958,0.003 square miles,2.2 people,1.1,14.0,29.4 years,27.6 years,"$38,214",$773,Himes-Office-Park,40.0%,15.7%,19.8%,15.7%,8.2%,26.3%,23.9%,35.7%,40.4%,0.0%,29.5%,25.5%,17,"5,122 people per square mile",8
+959,0.396 square miles,1.7 people,1.2,1.6,27.7 years,38.5 years,"$78,867",$911,Historic-Hyde-Park-North,20.7%,8.3%,10.7%,141.7%,3.0%,34.9%,32.0%,58.5%,30.1%,1.2%,151.5%,37.0%,414,"1,044 people per square mile",194
+960,0.520 square miles,1.9 people,0.9,1.3,37.1 years,46.6 years,"$29,465",$833,Historic-Ybor,18.6%,12.3%,11.3%,2.3%,7.2%,28.5%,31.9%,32.5%,48.0%,8.0%,60.1%,56.1%,"1,417","2,723 people per square mile",733
+961,0.016 square miles,NA,NA,NA,NA,NA,NA,NA,Hobbs-Road-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+962,0.014 square miles,3.0 people,1.4,1.5,37.9 years,40.0 years,"$33,571",$694,Hodges-Shady-Grove,52.3%,10.7%,35.4%,16.3%,2.8%,15.7%,26.8%,19.4%,67.0%,1.6%,9.3%,41.3%,64,"4,584 people per square mile",36
+963,0.001 square miles,2.5 people,0.9,1.7,40.6 years,36.7 years,"$25,362",$647,Holiday-Oaks-North-Condo,67.0%,39.3%,43.4%,15.6%,9.4%,0.8%,23.2%,22.1%,29.2%,0.0%,28.0%,73.1%,2,"1,454 people per square mile",1
+964,0.040 square miles,2.4 people,1.6,1.1,27.8 years,30.5 years,"$50,340",$978,Holiday-Village,35.7%,31.4%,14.5%,9.4%,4.0%,25.8%,35.8%,31.2%,33.5%,2.8%,18.9%,81.8%,271,"6,783 people per square mile",148
+965,0.008 square miles,70.4%,8.8%,242.5,53.7%,61.0%,"$26,607",$635,Holley-Heights,40.8%,61.0%,8.0%,14.5%,1.7,30.7%,56.9%,2.0,10.6%,1.8%,0.0%,1.2%,1,127 people per square mile,2.5 people
+966,0.035 square miles,3.1 people,3.8,0.3,38.5 years,32.0 years,"$67,165","$1,124",Holly-Park,20.4%,31.4%,56.3%,29.8%,4.0%,9.3%,29.0%,31.2%,33.5%,29.2%,8.2%,91.8%,241,"6,856 people per square mile",140
+967,0.023 square miles,2.2 people,1.5,2.0,31.8 years,32.4 years,"$47,253",$829,Hollyglen-Village,42.2%,27.8%,25.4%,31.2%,8.0%,28.0%,15.8%,32.8%,31.4%,6.0%,6.4%,85.8%,72,"3,107 people per square mile",30
+968,0.005 square miles,2.9 people,1.3,1.7,33.4 years,38.6 years,"$52,375",$828,Hollywood-Park,53.9%,17.8%,50.3%,35.5%,6.5%,6.4%,9.4%,31.5%,44.2%,0.0%,2.0%,73.1%,10,"2,149 people per square mile",4
+969,0.037 square miles,3.0 people,0.4,5.9,30.7 years,25.6 years,"$15,939",$598,Homestead,61.7%,15.7%,6.0%,6.9%,4.2%,44.5%,21.5%,20.0%,60.1%,8.0%,30.8%,50.0%,160,"4,354 people per square mile",49
+970,0.008 square miles,2.9 people,1.0,1.9,33.2 years,35.6 years,"$27,419",$825,Hope-Park-Community,53.1%,18.2%,30.7%,12.5%,6.9%,21.7%,21.1%,19.7%,55.2%,2.0%,18.7%,67.5%,57,"7,260 people per square mile",27
+971,,34.9%,25.2%,13.5%,32.0%,10.7%,$911,1.3 people,Horatio-Condo,30.1%,19.0%,58.5%,3.0%,36.0%,1.2,1.6,66.6%,242.5,36.8%,8.3%,26.4%,NA,"$52,778",20.7%
+972,4,21.0 people,1.6,1.5,32.3 years,27.9 years,"$92,303","$1,466",Horatio-Street-Townhouses,13.9%,11.2%,16.5%,45.9%,0.4%,33.0%,31.6%,56.2%,32.2%,0.0%,4.7%,74.6%,density:Horatio,"11,281 people per square mile",2
+973,0.002 square miles,3.3 people,1.6,1.4,46.5 years,33.2 years,"$35,547","$1,092",Horizon-Place,43.3%,38.6%,18.5%,61.3%,4.0%,16.5%,23.7%,14.4%,42.9%,0.0%,36.5%,51.6%,4,"2,334 people per square mile",1
+974,0.008 square miles,32.0 people,1.8,1.9,30.9 years,30.8 years,"$135,985","$1,620",Howard-Terrace,60.6%,6.9%,48.0%,30.4%,0.4%,12.4%,16.1%,48.8%,43.9%,0.0%,2.7%,81.5%,31,"3,907 people per square mile",14
+975,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Howell-Park-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+976,0.007 square miles,2.1 people,1.1,1.9,45.1 years,43.5 years,"$63,750",$736,Hudson-Terrace,40.1%,6.9%,51.1%,36.6%,7.1%,8.1%,8.1%,53.4%,32.6%,0.0%,1.8%,65.1%,19,"2,595 people per square mile",9
+977,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,Humphrey-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+978,0.050 square miles,NA,NA,NA,NA,NA,NA,NA,Hunter-s-Green-Highland-Oak-Drive-North-Ext,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+979,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Hunter-s-Green-Northeast-Regional-Library,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+980,0.023 square miles,NA,NA,NA,NA,NA,NA,NA,Hunter-s-Key-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+981,1.775 square miles,NA,NA,NA,NA,NA,NA,NA,Hunters-Green,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+982,0.047 square miles,2.3 people,0.9,1.9,56.2 years,51.2 years,"$69,219",$998,Hunters-Lake,45.7%,14.2%,61.9%,40.7%,1.7%,9.9%,10.9%,40.9%,43.3%,2.3%,1.5%,67.5%,139,"2,954 people per square mile",67
+983,0.007 square miles,3.8 people,1.5,2.1,57.4 years,55.2 years,"$89,967","$1,285",Hunters-Run,58.0%,13.4%,70.7%,29.7%,1.7%,5.9%,10.6%,47.8%,37.1%,0.0%,143.4%,65.0%,113,"17,195 people per square mile",58
+984,0.016 square miles,1.7 people,1.0,1.0,51.5 years,34.6 years,"$31,618",$853,Huntington-of-Carrollwood,32.3%,31.2%,20.6%,90.6%,11.6%,3.0%,43.8%,31.2%,26.0%,13.0%,60.5%,45.1%,23,"1,445 people per square mile",14
+985,,NA,NA,NA,NA,NA,NA,NA,Hyde-Park-Cloister-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+986,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Hyde-Park-Condo,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Hyde,"9,893 people per square mile",2
+987,0.003 square miles,34.9%,12.9%,18.0%,32.0%,10.7%,$117,0.2 people,Hyde-Park-Place-Condo,0.0%,34.2%,30.1%,58.5%,63.3%,1.6,8.3%,242.5,36.8%,1.2,3.0%,23.9%,NA,"$6,773",20.7%
+988,0.012 square miles,1.9 people,1.6,1.7,26.8 years,40.4 years,"$94,049","$1,267",Hyde-Park-Place,27.1%,8.3%,26.5%,19.9%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,21.3%,89.7%,51,"4,210 people per square mile",23
+989,0.202 square miles,NA,NA,NA,NA,NA,NA,NA,Hyde-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+990,0.002 square miles,1.9 people,1.6,1.7,26.8 years,40.4 years,"$94,049","$1,267",Hyde-Park-Towers-Condo,27.1%,8.3%,26.5%,20.0%,3.0%,28.7%,26.3%,58.5%,30.1%,0.0%,21.4%,89.7%,7,"4,339 people per square mile",3
+991,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Hyde-Park-Village-Townhomes,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Hyde,"10,350 people per square mile",2
+992,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Hyde-Park-Walk-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+993,0.003 square miles,2.8 people,1.1,1.8,29.2 years,34.3 years,"$94,408",$954,Ida-Heights,35.6%,11.1%,45.6%,23.9%,1.8%,22.7%,15.6%,43.7%,43.4%,0.0%,1.5%,78.1%,20,"6,887 people per square mile",8
+994,0.006 square miles,NA,NA,NA,NA,NA,NA,NA,Idle-Forest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+995,0.073 square miles,NA,NA,NA,NA,NA,NA,NA,Idle-Grove-Park,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+996,0.247 square miles,2.5 people,1.1,1.8,43.0 years,41.1 years,"$53,963",$816,Idlewild-on-the-Hillsborough,56.1%,16.0%,37.9%,13.2%,1.7%,16.6%,21.3%,46.5%,35.9%,3.7%,21.1%,79.4%,"1,070","4,330 people per square mile",539
+997,0.015 square miles,2.8 people,1.7,1.9,37.3 years,39.3 years,"$50,972",$742,Imperial-Estates,59.4%,13.4%,51.4%,26.7%,1.4%,20.9%,20.6%,40.9%,44.4%,4.8%,5.7%,57.7%,64,"4,297 people per square mile",31
+998,0.004 square miles,NA,NA,NA,NA,NA,NA,NA,Independence-Square,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+999,0.013 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Indian-Head,59.5%,14.3%,73.2%,26.9%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,9.7%,82.7%,3,234 people per square mile,2
+1000,0.025 square miles,3.6 people,9.4,1.9,34.0 years,35.7 years,"$66,250","$1,134",Indian-Lakes,84.6%,18.6%,62.3%,15.1%,6.7%,19.5%,19.8%,39.4%,35.3%,0.0%,5.0%,77.5%,24,950 people per square mile,11
+1001,0.016 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Indian-Mound-Estates,59.5%,14.3%,73.2%,26.2%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,9.5%,82.7%,4,246 people per square mile,2
+1002,0.024 square miles,3.3 people,2.3,2.2,51.7 years,51.2 years,"$69,333",$894,Indian-Mound-Village,59.5%,14.3%,73.2%,22.3%,3.6%,3.2%,14.4%,46.6%,35.5%,0.0%,8.1%,82.7%,7,286 people per square mile,3
+1003,0.047 square miles,29.6 people,1.5,2.1,45.7 years,45.6 years,"$74,539","$1,228",Indian-Oaks,61.8%,21.1%,45.0%,18.6%,7.7%,19.6%,23.9%,34.0%,37.2%,8.4%,8.3%,72.6%,115,"2,470 people per square mile",57
+1004,4,34.0 people,0.8,1.6,34.3 years,33.8 years,"$22,375",$815,Indian-Village,55.4%,7.4%,23.1%,3.1%,8.4%,25.1%,11.4%,36.6%,47.6%,0.0%,21.1%,66.9%,density:Indian,"4,870 people per square mile",1
+1005,0.085 square miles,7.3 people,1.2,1.5,29.3 years,33.0 years,"$25,525",$458,Inglewood-Park,46.7%,19.1%,34.1%,12.8%,10.9%,21.1%,13.9%,24.9%,45.1%,2.4%,21.0%,59.5%,32,374 people per square mile,15
+1006,10,2.2 people,1.3,1.8,32.5 years,33.3 years,"$62,727","$1,055",Interbay-Oaks-Condo,48.3%,10.2%,40.0%,17.9%,3.3%,9.9%,20.4%,50.0%,36.6%,0.0%,24.9%,75.9%,density:Interbay,"13,376 people per square mile",5
+1007,0.111 square miles,37.0 people,1.2,1.6,27.8 years,25.6 years,"$34,397",$744,Interstate-Business-Park,56.8%,12.5%,37.1%,21.0%,7.8%,22.8%,20.5%,32.5%,47.2%,0.7%,11.7%,69.1%,173,"1,564 people per square mile",90
+1008,0.006 square miles,2.5 people,1.9,1.6,39.5 years,38.9 years,"$49,167",$920,Iroquois-Park,49.6%,5.8%,29.7%,35.0%,5.0%,22.1%,21.8%,41.6%,47.6%,3.6%,6.4%,71.5%,29,"5,082 people per square mile",13
+1009,0.053 square miles,NA,NA,NA,NA,NA,NA,NA,Irvinton-Heights,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+1010,0.002 square miles,NA,NA,NA,NA,NA,NA,NA,Island-Chateau-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+1011,0.009 square miles,22.0 people,1.4,2.0,33.0 years,33.6 years,"$73,828","$1,149",Island-Club-at-Rocky-Point-Condo,37.9%,15.2%,34.5%,57.2%,8.1%,19.5%,23.8%,45.0%,31.8%,0.0%,32.4%,69.5%,1,110 people per square mile,1
+1012,0.017 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Island-Homes,23.8%,9.6%,19.4%,40.3%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.4%,64.4%,88,"5,252 people per square mile",43
+1013,,NA,NA,NA,NA,NA,NA,NA,Island-Park-Condo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+1014,0.025 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Island-Place-Condo,23.8%,9.6%,19.4%,40.3%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.3%,64.4%,130,"5,245 people per square mile",64
+1015,0.003 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Island-Place,23.8%,9.6%,19.4%,41.0%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.6%,64.4%,13,"4,821 people per square mile",6
+1016,0.028 square miles,1.7 people,1.2,1.5,30.4 years,33.3 years,"$100,469","$1,692",Island-Walk-Condo,23.8%,9.6%,19.4%,40.2%,3.1%,26.1%,25.3%,61.8%,25.5%,0.0%,15.3%,64.4%,148,"5,235 people per square mile",73
+1017,3,1.8 people,1.4,1.2,25.8 years,29.5 years,"$60,152","$1,066",Italian-Villas,5.1%,11.2%,8.0%,50.6%,0.4%,34.1%,39.0%,56.3%,32.2%,0.0%,11.5%,70.3%,density:Italian,"12,577 people per square mile",2
+1018,0.003 square miles,2.4 people,1.1,1.3,40.8 years,35.1 years,"$42,833",$775,Ivy-Townvillas,19.9%,41.4%,28.6%,25.9%,3.3%,5.2%,25.2%,18.1%,37.2%,0.0%,7.9%,29.5%,15,"5,709 people per square mile",8
+1019,0.007 square miles,2.6 people,0.8,1.8,44.0 years,38.9 years,"$30,978",$839,J-Diaz-Acres,50.6%,36.1%,38.8%,27.1%,9.5%,5.0%,9.5%,12.7%,41.7%,0.0%,14.7%,43.3%,11,"1,493 people per square mile",5
+1020,0.195 square miles,2.8 people,5.8,0.5,47.2 years,46.7 years,"$54,149",$804,J-R-Manor,52.2%,43.9%,56.9%,32.4%,10.0%,12.7%,13.4%,22.0%,24.1%,17.2%,3.1%,67.2%,791,"4,053 people per square mile",325
+1021,,NA,NA,NA,NA,NA,NA,NA,Jacaranda-Townhomes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+1022,0.013 square miles,2.0 people,1.2,1.7,33.5 years,41.7 years,"$45,500",$638,Jackson-Court,37.6%,5.8%,23.0%,7.5%,5.0%,14.9%,27.4%,41.6%,47.6%,0.0%,10.9%,67.2%,49,"3,643 people per square mile",26
+1023,0.019 square miles,2.9 people,1.1,1.6,39.6 years,30.9 years,"$27,204",$773,Jackson-Height,44.2%,9.6%,25.9%,7.3%,2.5%,18.1%,26.5%,19.9%,67.9%,0.0%,25.0%,66.4%,26,"1,394 people per square mile",13
+1024,0.014 square miles,2.9 people,1.4,1.8,42.3 years,40.5 years,"$37,045",$845,Jackson-Heights-Annex,49.3%,13.7%,44.7%,22.7%,2.7%,15.0%,19.4%,21.0%,62.6%,0.0%,10.6%,62.7%,25,"1,749 people per square mile",11
+1025,0.066 square miles,1.5 people,0.4,1.1,16.1 years,10.9 years,"$10,597",$336,Jackson-Heights,37.8%,6.0%,5.7%,6.3%,3.5%,31.4%,19.6%,14.8%,75.7%,1.2%,38.5%,61.2%,46,694 people per square mile,18
+1026,0.001 square miles,NA,NA,NA,NA,NA,NA,NA,James-E-Ferrari-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
+1027,0.003 square miles,2.9 people,1.2,1.6,36.2 years,45.3 years,"$51,116",$808,Jane-Terrace,41.5%,18.7%,41.5%,36.6%,6.2%,13.8%,26.3%,44.4%,30.7%,0.0%,20.3%,63.0%,10,"3,231 people per square mile",5
+1028,0.008 square miles,1.6 people,1.1,1.3,31.9 years,25.6 years,"$36,458",$654,Jasmine-Pond,39.5%,31.2%,27.5%,126.5%,11.6%,7.2%,33.7%,31.2%,26.0%,5.3%,21.3%,57.6%,15,"1,938 people per square mile",8
+1029,0.006 square miles,1.7 people,2.8,2.4,53.0 years,53.8 years,"$135,985","$1,168",Jean-Place,58.7%,6.9%,60.6%,36.0%,0.4%,4.1%,26.2%,48.8%,43.9%,0.0%,22.9%,46.2%,7,"1,196 people per square mile",2
+1030,0.003 square miles,2.6 people,1.4,2.2,33.8 years,33.9 years,"$47,101",$816,Jeanine-Manor,59.9%,14.4%,43.5%,27.9%,7.2%,17.7%,18.6%,35.2%,43.1%,0.0%,10.1%,72.3%,16,"4,804 people per square mile",7
+1031,0.008 square miles,NA,NA,NA,NA,NA,NA,NA,Jenny-Lyne-Estates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,242.5,NA
